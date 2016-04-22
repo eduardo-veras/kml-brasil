@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "LAGOA DE VELHOS", "Description": "LAGOA DE VELHOS \/ RN" }, "geometry": { "type": "LineString", "coordinates": [ [ -35.822169463250077, -6.073394361560474 ], [ -35.924804128607605, -6.010632515078441 ], [ -35.834772016515331, -5.947096352314759 ], [ -35.778337501374551, -6.015874965457214 ], [ -35.799077565677067, -6.043084836196215 ], [ -35.822169463250077, -6.073394361560474 ] ] } }
+]
+}

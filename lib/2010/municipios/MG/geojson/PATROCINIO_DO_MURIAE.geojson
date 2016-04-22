@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "PATROCÍNIO DO MURIAÉ", "Description": "PATROCÍNIO DO MURIAÉ \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.17449375198504, -21.131777547196009 ], [ -42.20833276564457, -21.179016069036322 ], [ -42.202640469881715, -21.221242840884369 ], [ -42.277756000239151, -21.201244996959019 ], [ -42.327468000347892, -21.210318997223908 ], [ -42.298819000296589, -21.122551996777187 ], [ -42.17449375198504, -21.131777547196009 ] ] } }
+]
+}

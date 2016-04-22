@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SANTO ANTÔNIO DO GRAMA", "Description": "SANTO ANTÔNIO DO GRAMA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.555142000003229, -20.267661996903598 ], [ -42.543038000303454, -20.359750997010845 ], [ -42.561833000092854, -20.379320996566719 ], [ -42.64191599962362, -20.373457996888988 ], [ -42.689156999995532, -20.344448997323298 ], [ -42.651191000164488, -20.27672099737606 ], [ -42.555142000003229, -20.267661996903598 ] ] } }
+]
+}

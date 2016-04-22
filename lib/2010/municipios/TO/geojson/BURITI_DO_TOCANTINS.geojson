@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "BURITI DO TOCANTINS", "Description": "BURITI DO TOCANTINS \/ TO" }, "geometry": { "type": "LineString", "coordinates": [ [ -48.079265015068358, -5.275064477043941 ], [ -48.064859354375635, -5.379544584514917 ], [ -48.076294000367795, -5.439948460752816 ], [ -48.208266320734083, -5.372920475999138 ], [ -48.250627515147642, -5.31881277498951 ], [ -48.178544201953336, -5.260776074456203 ], [ -48.079265015068358, -5.275064477043941 ] ] } }
+]
+}

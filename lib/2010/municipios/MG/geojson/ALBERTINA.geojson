@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "ALBERTINA", "Description": "ALBERTINA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -46.53304299993448, -22.185492997004189 ], [ -46.575261999841359, -22.220092996294682 ], [ -46.680305251985772, -22.216515106486948 ], [ -46.645585945934613, -22.18064652981343 ], [ -46.53304299993448, -22.185492997004189 ] ] } }
+]
+}

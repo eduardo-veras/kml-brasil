@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SÃO JOAQUIM DE BICAS", "Description": "SÃO JOAQUIM DE BICAS \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -44.196288000290963, -20.051151996767203 ], [ -44.210154000306829, -20.100607995862276 ], [ -44.276033999569393, -20.111689996096402 ], [ -44.290534807635197, -20.056071770395818 ], [ -44.270318000375369, -20.003917996718144 ], [ -44.247655000277973, -20.041528996366026 ], [ -44.196288000290963, -20.051151996767203 ] ] } }
+]
+}

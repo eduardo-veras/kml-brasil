@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "MARCOLÂNDIA", "Description": "MARCOLÂNDIA \/ PI" }, "geometry": { "type": "LineString", "coordinates": [ [ -40.652323226335795, -7.433342165608393 ], [ -40.714936756625995, -7.480517764583111 ], [ -40.804366331041308, -7.484237739180287 ], [ -40.794286032574291, -7.418873321246735 ], [ -40.737617686507008, -7.350476949651465 ], [ -40.652323226335795, -7.433342165608393 ] ] } }
+]
+}

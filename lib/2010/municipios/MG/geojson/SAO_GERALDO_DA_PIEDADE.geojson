@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SÃO GERALDO DA PIEDADE", "Description": "SÃO GERALDO DA PIEDADE \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.277094000287832, -18.971960996302869 ], [ -42.354952999781062, -18.960723997014782 ], [ -42.362083000330131, -18.925693996780463 ], [ -42.327017000234321, -18.81829799675512 ], [ -42.273181999749454, -18.824723997214676 ], [ -42.260950000442108, -18.8992719969051 ], [ -42.277094000287832, -18.971960996302869 ] ] } }
+]
+}

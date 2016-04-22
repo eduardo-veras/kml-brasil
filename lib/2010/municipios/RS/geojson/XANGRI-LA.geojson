@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "XANGRI-LÁ", "Description": "XANGRI-LÁ \/ RS" }, "geometry": { "type": "LineString", "coordinates": [ [ -50.018007193477153, -29.772323619139684 ], [ -50.063455298223403, -29.860082892611384 ], [ -50.111159009680527, -29.833812241441763 ], [ -50.113203527520739, -29.785577716838137 ], [ -50.055164685701641, -29.76159484292759 ], [ -50.018007193477153, -29.772323619139684 ] ] } }
+]
+}

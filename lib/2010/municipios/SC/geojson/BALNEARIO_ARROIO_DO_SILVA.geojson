@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "BALNEÁRIO ARROIO DO SILVA", "Description": "BALNEÁRIO ARROIO DO SILVA \/ SC" }, "geometry": { "type": "LineString", "coordinates": [ [ -49.516474987130891, -29.095303546221658 ], [ -49.566927999827271, -29.057956999415921 ], [ -49.53758800028595, -29.029775999362812 ], [ -49.48156683514128, -28.995424760644141 ], [ -49.409661332304609, -28.941215626899631 ], [ -49.376834500211991, -28.955725999255431 ], [ -49.516474987130891, -29.095303546221658 ] ] } }
+]
+}

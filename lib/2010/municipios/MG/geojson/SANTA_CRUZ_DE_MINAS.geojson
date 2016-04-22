@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SANTA CRUZ DE MINAS", "Description": "SANTA CRUZ DE MINAS \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -44.204684999912786, -21.115458996135715 ], [ -44.199813024351556, -21.122760433547114 ], [ -44.229421011970089, -21.127792742940699 ], [ -44.220819042464768, -21.11469650593898 ], [ -44.204684999912786, -21.115458996135715 ] ] } }
+]
+}

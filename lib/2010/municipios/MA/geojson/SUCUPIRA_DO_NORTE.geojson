@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SUCUPIRA DO NORTE", "Description": "SUCUPIRA DO NORTE \/ MA" }, "geometry": { "type": "LineString", "coordinates": [ [ -44.507423360299804, -6.749292133625032 ], [ -44.630547458798162, -6.679970241833132 ], [ -44.171685028541212, -6.255930575635489 ], [ -44.099750830136649, -6.351455521055414 ], [ -44.057853323472038, -6.369530447172338 ], [ -44.507423360299804, -6.749292133625032 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SÃO JOSÉ DO HERVAL", "Description": "SÃO JOSÉ DO HERVAL \/ RS" }, "geometry": { "type": "LineString", "coordinates": [ [ -52.225818033975024, -29.038107114651549 ], [ -52.212142636273597, -29.094977787494823 ], [ -52.290455421080765, -29.129658493744444 ], [ -52.336568502534305, -29.059093388149275 ], [ -52.306931243781833, -29.013485787738883 ], [ -52.225818033975024, -29.038107114651549 ] ] } }
+]
+}

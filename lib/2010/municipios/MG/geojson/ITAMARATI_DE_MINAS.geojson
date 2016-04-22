@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "ITAMARATI DE MINAS", "Description": "ITAMARATI DE MINAS \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.8302869998451, -21.387989996840815 ], [ -42.781283000010369, -21.384439996808339 ], [ -42.799187000079939, -21.424422996124349 ], [ -42.823214000125972, -21.470094996087141 ], [ -42.885561000140001, -21.483530996058562 ], [ -42.894257000060463, -21.372515996416041 ], [ -42.8302869998451, -21.387989996840815 ] ] } }
+]
+}

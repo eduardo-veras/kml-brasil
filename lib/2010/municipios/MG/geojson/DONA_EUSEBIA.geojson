@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "DONA EUSÉBIA", "Description": "DONA EUSÉBIA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.794997000211367, -21.271367996735592 ], [ -42.767078999696025, -21.295914996479837 ], [ -42.781283000010369, -21.384439996808339 ], [ -42.8302869998451, -21.387989996840815 ], [ -42.813755000093124, -21.260695996522998 ], [ -42.794997000211367, -21.271367996735592 ] ] } }
+]
+}

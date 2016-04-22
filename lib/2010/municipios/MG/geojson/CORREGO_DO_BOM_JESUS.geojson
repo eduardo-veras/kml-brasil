@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "CÓRREGO DO BOM JESUS", "Description": "CÓRREGO DO BOM JESUS \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -45.951539999771114, -22.587629996726946 ], [ -45.936253999922144, -22.651445997035069 ], [ -45.959022000364996, -22.690757996884027 ], [ -46.053914000230861, -22.687372996366662 ], [ -46.032507999644452, -22.597832996895249 ], [ -45.948356999575822, -22.552141996955527 ], [ -45.951539999771114, -22.587629996726946 ] ] } }
+]
+}

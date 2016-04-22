@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "IBIRITÉ", "Description": "IBIRITÉ \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -44.075595861959414, -19.967195196301248 ], [ -44.062868555639284, -19.976825938965874 ], [ -44.018623923655127, -20.05433025034074 ], [ -44.064263000337178, -20.080008996517904 ], [ -44.116058000276439, -20.02363399671151 ], [ -44.075595861959414, -19.967195196301248 ] ] } }
+]
+}

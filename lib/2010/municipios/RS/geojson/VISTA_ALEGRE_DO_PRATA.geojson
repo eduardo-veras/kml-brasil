@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "VISTA ALEGRE DO PRATA", "Description": "VISTA ALEGRE DO PRATA \/ RS" }, "geometry": { "type": "LineString", "coordinates": [ [ -51.714054781203174, -28.784222812832521 ], [ -51.71211550112946, -28.835462371691051 ], [ -51.754675596801292, -28.835984939853059 ], [ -51.791067691320848, -28.883939324740027 ], [ -51.829367133686219, -28.868763582673182 ], [ -51.83358892818643, -28.778205596511043 ], [ -51.714054781203174, -28.784222812832521 ] ] } }
+]
+}

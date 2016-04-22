@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "FAMA", "Description": "FAMA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -45.764248999891379, -21.422911996591324 ], [ -45.813835999631635, -21.53259999709212 ], [ -45.855700000254778, -21.518138996617381 ], [ -45.831391999840882, -21.393560996542703 ], [ -45.764248999891379, -21.422911996591324 ] ] } }
+]
+}

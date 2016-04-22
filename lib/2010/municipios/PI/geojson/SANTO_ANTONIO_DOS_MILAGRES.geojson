@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SANTO ANTÔNIO DOS MILAGRES", "Description": "SANTO ANTÔNIO DOS MILAGRES \/ PI" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.651815707029186, -6.081364281236517 ], [ -42.704598177863602, -6.079966763555261 ], [ -42.736135853386884, -6.035821473382271 ], [ -42.682217890443269, -6.031763554244606 ], [ -42.681043911846984, -6.07451034377732 ], [ -42.651815707029186, -6.081364281236517 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SÃO LOURENÇO", "Description": "SÃO LOURENÇO \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -45.007252171550419, -22.111717337784849 ], [ -45.043680208374894, -22.149180903475894 ], [ -45.060383560452919, -22.143870769220598 ], [ -45.074491056317129, -22.096542025593976 ], [ -45.007252171550419, -22.111717337784849 ] ] } }
+]
+}

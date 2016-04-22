@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "BANDEIRA DO SUL", "Description": "BANDEIRA DO SUL \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -46.373933999254632, -21.693231996959067 ], [ -46.329026000349586, -21.744380996785537 ], [ -46.396565999721076, -21.759747996772603 ], [ -46.398572507715016, -21.75914423331966 ], [ -46.421776310628218, -21.732654215019977 ], [ -46.373933999254632, -21.693231996959067 ] ] } }
+]
+}

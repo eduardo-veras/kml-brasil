@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "ENTRE FOLHAS", "Description": "ENTRE FOLHAS \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.240707999574454, -19.727018996929132 ], [ -42.280854000111951, -19.651180997105314 ], [ -42.263526999671228, -19.582852996468546 ], [ -42.227641999578559, -19.588746996676491 ], [ -42.205268000217984, -19.69678599667634 ], [ -42.240707999574454, -19.727018996929132 ] ] } }
+]
+}

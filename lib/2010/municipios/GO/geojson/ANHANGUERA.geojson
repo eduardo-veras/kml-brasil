@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "ANHANGUERA", "Description": "ANHANGUERA \/ GO" }, "geometry": { "type": "LineString", "coordinates": [ [ -48.226811049989919, -18.345725902828121 ], [ -48.271885837161619, -18.330880260515585 ], [ -48.261191009457491, -18.289366820122606 ], [ -48.194243074258445, -18.278348157341554 ], [ -48.175328711051122, -18.326246002750793 ], [ -48.226811049989919, -18.345725902828121 ] ] } }
+]
+}

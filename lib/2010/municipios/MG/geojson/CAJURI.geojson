@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "CAJURI", "Description": "CAJURI \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.712639000089723, -20.815604996273521 ], [ -42.783779000000834, -20.825228996720796 ], [ -42.830016999984537, -20.808888996829694 ], [ -42.82576600000084, -20.756301997239344 ], [ -42.753575000186061, -20.745176996820874 ], [ -42.712639000089723, -20.815604996273521 ] ] } }
+]
+}

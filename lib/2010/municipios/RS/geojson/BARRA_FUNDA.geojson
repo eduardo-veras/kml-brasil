@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "BARRA FUNDA", "Description": "BARRA FUNDA \/ RS" }, "geometry": { "type": "LineString", "coordinates": [ [ -52.97636080480725, -27.953416490078894 ], [ -53.032070979891778, -27.961697453774434 ], [ -53.055616704147546, -27.942368521989636 ], [ -53.049078140943429, -27.882518455462332 ], [ -52.965121247847264, -27.916498127586465 ], [ -52.97636080480725, -27.953416490078894 ] ] } }
+]
+}

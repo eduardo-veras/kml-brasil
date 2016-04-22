@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SÃO JOSÉ DA LAPA", "Description": "SÃO JOSÉ DA LAPA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -43.957142132603281, -19.669902260580841 ], [ -44.006950000442146, -19.722060996717573 ], [ -44.00531800162446, -19.655701430376666 ], [ -43.957142132603281, -19.669902260580841 ] ] } }
+]
+}

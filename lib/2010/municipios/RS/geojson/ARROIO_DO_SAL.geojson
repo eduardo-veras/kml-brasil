@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "ARROIO DO SAL", "Description": "ARROIO DO SAL \/ RS" }, "geometry": { "type": "LineString", "coordinates": [ [ -49.803614307154533, -29.442833280531431 ], [ -49.923096827656423, -29.607118170067452 ], [ -49.987573704662672, -29.602482200892837 ], [ -49.870163684406464, -29.447323740298319 ], [ -49.835670008364161, -29.423919612500072 ], [ -49.803614307154533, -29.442833280531431 ] ] } }
+]
+}

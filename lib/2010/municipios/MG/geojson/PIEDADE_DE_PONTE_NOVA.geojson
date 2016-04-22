@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "PIEDADE DE PONTE NOVA", "Description": "PIEDADE DE PONTE NOVA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.665300999741305, -20.267673996557676 ], [ -42.677777999555019, -20.290606996515635 ], [ -42.762643000174251, -20.269310996505222 ], [ -42.776070999776778, -20.229597997049893 ], [ -42.723408000278937, -20.191020996921452 ], [ -42.665300999741305, -20.267673996557676 ] ] } }
+]
+}

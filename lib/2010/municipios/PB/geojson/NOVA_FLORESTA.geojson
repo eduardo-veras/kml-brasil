@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "NOVA FLORESTA", "Description": "NOVA FLORESTA \/ PB" }, "geometry": { "type": "LineString", "coordinates": [ [ -36.174464938006452, -6.430764635979131 ], [ -36.180729945430585, -6.470687360033594 ], [ -36.225063998804444, -6.559366666938103 ], [ -36.226534924547082, -6.434028174060927 ], [ -36.174464938006452, -6.430764635979131 ] ] } }
+]
+}

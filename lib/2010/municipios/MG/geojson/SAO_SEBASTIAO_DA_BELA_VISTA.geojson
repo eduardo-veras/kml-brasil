@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SÃO SEBASTIÃO DA BELA VISTA", "Description": "SÃO SEBASTIÃO DA BELA VISTA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -45.742827000365708, -22.103392997089088 ], [ -45.664875000181091, -22.167523996635111 ], [ -45.853948000399839, -22.235606996765455 ], [ -45.858527000220818, -22.179993997025292 ], [ -45.817054999688423, -22.115563996281367 ], [ -45.742827000365708, -22.103392997089088 ] ] } }
+]
+}

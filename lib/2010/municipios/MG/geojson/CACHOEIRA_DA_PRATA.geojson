@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "CACHOEIRA DA PRATA", "Description": "CACHOEIRA DA PRATA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -44.446573000343676, -19.544161997378239 ], [ -44.490103999599853, -19.550811997375718 ], [ -44.514244000360293, -19.483889996825837 ], [ -44.431826000169735, -19.4967329973299 ], [ -44.446573000343676, -19.544161997378239 ] ] } }
+]
+}

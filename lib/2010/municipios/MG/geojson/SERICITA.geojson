@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SERICITA", "Description": "SERICITA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.434323999752735, -20.435407996581716 ], [ -42.385702999593718, -20.504893996660599 ], [ -42.407435999971369, -20.577395996428038 ], [ -42.486323000106324, -20.557271996505392 ], [ -42.52659800029744, -20.424952996483569 ], [ -42.434323999752735, -20.435407996581716 ] ] } }
+]
+}
