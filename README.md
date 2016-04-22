@@ -18,13 +18,6 @@ Todos os arquivos `kml` e `json` estão salvos em `UTF-8`.
 Os arquivos na [biblioteca](./lib) estão organizados nas seguinte forma:
 
 - 9999 (ano do censo)
-  - pais *(agrupado por país)*
-    - json
-      - **Brasil_Estados.json** *(array contendo todos os estados do país)*
-      - **Brasil_Municipios.json** *(array contendo todos os municipios do país)*
-    - kml
-      - **Brasil_Estados.kml** *(xml contendo todos os estados do país separados por placemark)*
-      - **Brasil_Municipios.kml** *(xml contendo todos os municipios do país separados por placemark)*
   - estados
     - json
       - **UF.json** *(documento contendo fronteiras do estado específico)*
@@ -36,8 +29,186 @@ Os arquivos na [biblioteca](./lib) estão organizados nas seguinte forma:
         - **MUNICIPIO.json** *(documento contendo fronteiras do municipio específico)*
       - kml
         - **MUNICIPIO.kml** *(xml contendo fronteiras do municipio específico)*
+  - pais *(agrupado por país)*
+    - json
+      - **Brasil_Estados.json** *(array contendo todos os estados do país)*
+      - **Brasil_Municipios.json** *(array contendo todos os municipios do país)*
+    - kml
+      - **Brasil_Estados.kml** *(xml contendo todos os estados do país separados por placemark)*
+      - **Brasil_Municipios.kml** *(xml contendo todos os municipios do país separados por placemark)*
   - **br.9999.estados.zip** *(arquivo compactado com `kml` e `json` de cada estado)*
   - **br.9999.municipios.zip** *(arquivo compactado com `kml` e `json` de cada municipio)*
  
+## Formato de arquivos
+
+### UF.kml
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>UF.kml</name>
+	<Placemark>
+		<name>UF</name>
+		<description>NOME DO ESTADO / REGIÃO</description>
+		<LineString>
+			<coordinates>
+				lng,lat
+				...
+			</coordinates>
+		</LineString>
+	</Placemark>
+	[...]
+</Document>
+</kml>
+```
+*__Nota__: O documento pode possuir mais de um `Placemark` em caso de estados que possuam ilhas por exemplo.*
+
+### UF.json
+```json
+{
+	"state": {
+		"code": "UF",
+		"name": "NOME DO ESTADO",
+		"region": "REGIÃO"
+	},
+	"borders": [
+		[
+			{
+				"lat": 99.999999999,
+				"lng": 99.999999999
+			}
+		]
+	]
+}
+```
+*__Nota__: A array `borders` pode possuir varios elementos em caso de estados que possuam ilhas por exemplo.*
 
 
+### MUNICIPIO.kml
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MUNICIPIO.kml</name>
+	<Placemark>
+		<name>MUNICIPIO</name>
+		<description>NOME DO MUNICIPIO / UF</description>
+		<LineString>
+			<coordinates>
+				lng,lat
+				...
+			</coordinates>
+		</LineString>
+	</Placemark>
+	[...]
+</Document>
+</kml>
+```
+*__Nota__: O documento pode possuir mais de um `Placemark` em caso de municipios que possuam ilhas por exemplo.*
+
+### MUNICIPIO.json
+```json
+{
+	"city": {
+		"name": "NOME DO MUNICIPIO",
+		"state": "UF"
+	},
+	"borders": [
+		[
+			{
+				"lat": 99.999999999,
+				"lng": 99.999999999
+			}
+		]
+	]
+}
+```
+*__Nota__: A array `borders` pode possuir varios elementos em caso de municipios que possuam ilhas por exemplo.*
+
+### Brasil_Estados.kml
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Brasil_Estados.kml</name>
+	<Placemark>
+		<name>UF</name>
+		<description>NOME DO ESTADO / REGIÃO</description>
+		<LineString>
+			<coordinates>
+				lng,lat
+				...
+			</coordinates>
+		</LineString>
+	</Placemark>
+	...
+</Document>
+</kml>
+```
+*__Nota__: O documento possui um `Placemark` para cada estado (sendo que alguns estados com ilhas podem possuir vários).*
+
+
+### Brasil_Estados.json
+```json
+[
+  {
+  	"state": {
+  		"code": "UF",
+  		"name": "NOME DO ESTADO",
+  		"region": "REGIÃO"
+  	},
+  	"borders": [
+  		[
+  			{
+  				"lat": 99.999999999,
+  				"lng": 99.999999999
+  			}
+  		]
+  	]
+  }
+]
+```
+*__Nota__: A array `borders` pode possuir varios elementos em caso de estados que possuam ilhas por exemplo.*
+
+### Brasil_Municipios.kml
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Brasil_Municipios.kml</name>
+	<Placemark>
+		<name>MUNICIPIO</name>
+		<description>NOME DO MUNICIPIO / UF</description>
+		<LineString>
+			<coordinates>
+				lng,lat
+				...
+			</coordinates>
+		</LineString>
+	</Placemark>
+	...
+</Document>
+</kml>
+```
+*__Nota__: O documento possui um `Placemark` para cada municipio (sendo que alguns municipio com ilhas podem possuir vários).*
+
+### Brasil_Municipios.json
+```json
+[
+  {
+  	"city": {
+  		"name": "NOME DO MUNICIPIO",
+  		"state": "UF"
+  	},
+  	"borders": [
+  		[
+  			{
+  				"lat": 99.999999999,
+  				"lng": 99.999999999
+  			}
+  		]
+  	]
+  }
+]
+```
+*__Nota__: A array `borders` pode possuir varios elementos em caso de municipios que possuam ilhas por exemplo.*
