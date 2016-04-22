@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "CONFINS", "Description": "CONFINS \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -43.944881101381668, -19.671626653047554 ], [ -43.957142132603281, -19.669902260580841 ], [ -44.00531800162446, -19.655701430376666 ], [ -43.971830999700842, -19.59788099611103 ], [ -43.944881101381668, -19.671626653047554 ] ] } }
+]
+}

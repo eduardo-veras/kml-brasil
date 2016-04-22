@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "PRESIDENTE KUBITSCHEK", "Description": "PRESIDENTE KUBITSCHEK \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -43.49142799970241, -18.718228997370261 ], [ -43.563970000415168, -18.70440699668552 ], [ -43.678319000021816, -18.645376996750937 ], [ -43.652414999752409, -18.631194997451132 ], [ -43.598724999658941, -18.533006997574827 ], [ -43.522525000228541, -18.598675996999589 ], [ -43.49142799970241, -18.718228997370261 ] ] } }
+]
+}

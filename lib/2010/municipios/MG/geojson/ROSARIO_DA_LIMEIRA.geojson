@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "ROSÁRIO DA LIMEIRA", "Description": "ROSÁRIO DA LIMEIRA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.546598999943853, -21.043981996871594 ], [ -42.582045999623112, -20.953095996482997 ], [ -42.566111999569102, -20.922061997063452 ], [ -42.427118000195492, -20.955651996542372 ], [ -42.461200999926177, -21.01382599657245 ], [ -42.5151330003876, -21.003273996497679 ], [ -42.546598999943853, -21.043981996871594 ] ] } }
+]
+}

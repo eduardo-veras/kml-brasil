@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "DOM PEDRO DE ALCÂNTARA", "Description": "DOM PEDRO DE ALCÂNTARA \/ RS" }, "geometry": { "type": "LineString", "coordinates": [ [ -49.835670008364161, -29.423919612500072 ], [ -49.88222149672464, -29.410197504910855 ], [ -49.890694457583095, -29.372251991636059 ], [ -49.888620910526583, -29.312404893770804 ], [ -49.858539300348411, -29.312773275865936 ], [ -49.802644023203072, -29.391887798183291 ], [ -49.835670008364161, -29.423919612500072 ] ] } }
+]
+}

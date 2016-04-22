@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "DOM CAVATI", "Description": "DOM CAVATI \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.028352000344512, -19.376701996499889 ], [ -42.103985999754059, -19.429236997289536 ], [ -42.136200999676362, -19.414940997229166 ], [ -42.116794999589501, -19.345224996436396 ], [ -42.028352000344512, -19.376701996499889 ] ] } }
+]
+}

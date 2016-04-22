@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "CAPIVARI DE BAIXO", "Description": "CAPIVARI DE BAIXO \/ SC" }, "geometry": { "type": "LineString", "coordinates": [ [ -48.914125999615123, -28.467209999242016 ], [ -48.92339599992539, -28.512662998998167 ], [ -48.982074292094858, -28.462388494533339 ], [ -48.979502999963415, -28.421862998978156 ], [ -48.938459000282592, -28.383237999334142 ], [ -48.939455000347948, -28.418903999220163 ], [ -48.914125999615123, -28.467209999242016 ] ] } }
+]
+}

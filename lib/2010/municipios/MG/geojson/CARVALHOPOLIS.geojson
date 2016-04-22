@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "CARVALHÓPOLIS", "Description": "CARVALHÓPOLIS \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -45.787466000355607, -21.822919997060179 ], [ -45.848951000188492, -21.808678996838179 ], [ -45.897243999610851, -21.777457996888984 ], [ -45.8840520000997, -21.748898996491448 ], [ -45.816898999689045, -21.722743996338295 ], [ -45.787466000355607, -21.822919997060179 ] ] } }
+]
+}

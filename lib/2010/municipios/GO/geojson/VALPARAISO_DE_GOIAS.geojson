@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "VALPARAÍSO DE GOIÁS", "Description": "VALPARAÍSO DE GOIÁS \/ GO" }, "geometry": { "type": "LineString", "coordinates": [ [ -47.938572754828726, -16.050262251501636 ], [ -47.963973722009591, -16.104865693896613 ], [ -48.001928012667626, -16.137204644678548 ], [ -48.030480290632852, -16.086759674619255 ], [ -48.017220847364172, -16.049062420094568 ], [ -47.938572754828726, -16.050262251501636 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SÃO PEDRO DAS MISSÕES", "Description": "SÃO PEDRO DAS MISSÕES \/ RS" }, "geometry": { "type": "LineString", "coordinates": [ [ -53.197492513568591, -27.732888991733546 ], [ -53.179101365135864, -27.757362902675762 ], [ -53.202898085678044, -27.803479401553087 ], [ -53.268430237065729, -27.838442327651251 ], [ -53.292687911417943, -27.754540736565673 ], [ -53.256800378834377, -27.72684775272154 ], [ -53.197492513568591, -27.732888991733546 ] ] } }
+]
+}

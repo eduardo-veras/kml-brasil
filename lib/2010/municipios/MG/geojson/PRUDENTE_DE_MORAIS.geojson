@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "PRUDENTE DE MORAIS", "Description": "PRUDENTE DE MORAIS \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -44.039110999672857, -19.424449996869839 ], [ -44.109123999772748, -19.520946997006263 ], [ -44.180611999544112, -19.523845996695343 ], [ -44.169769000438976, -19.473344997073923 ], [ -44.128098999769009, -19.432516997461391 ], [ -44.039110999672857, -19.424449996869839 ] ] } }
+]
+}

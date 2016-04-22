@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "PALMELO", "Description": "PALMELO \/ GO" }, "geometry": { "type": "LineString", "coordinates": [ [ -48.414527864469335, -17.342615129184821 ], [ -48.404410295398748, -17.238944871108856 ], [ -48.374855519766356, -17.270388195159054 ], [ -48.366687421886979, -17.334899105209502 ], [ -48.414527864469335, -17.342615129184821 ] ] } }
+]
+}

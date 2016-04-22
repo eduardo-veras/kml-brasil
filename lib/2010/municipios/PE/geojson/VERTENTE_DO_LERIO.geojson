@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "VERTENTE DO LÉRIO", "Description": "VERTENTE DO LÉRIO \/ PE" }, "geometry": { "type": "LineString", "coordinates": [ [ -35.789906851420021, -7.740436160300532 ], [ -35.752323914217243, -7.809251762558745 ], [ -35.845852540961971, -7.808725700530602 ], [ -35.881044488412385, -7.766341085972272 ], [ -35.872118271041359, -7.74953891099193 ], [ -35.828499024910002, -7.751649039771336 ], [ -35.789906851420021, -7.740436160300532 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SALVADOR DAS MISSÕES", "Description": "SALVADOR DAS MISSÕES \/ RS" }, "geometry": { "type": "LineString", "coordinates": [ [ -54.807800274363103, -28.047268508534785 ], [ -54.794919373730067, -28.176310995056326 ], [ -54.855776759190064, -28.161645638035736 ], [ -54.866378118555303, -28.045716876732456 ], [ -54.866368934678569, -28.010155229680038 ], [ -54.807800274363103, -28.047268508534785 ] ] } }
+]
+}

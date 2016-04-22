@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SÃO SEBASTIÃO DA VARGEM ALEGRE", "Description": "SÃO SEBASTIÃO DA VARGEM ALEGRE \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.582045999623112, -20.953095996482997 ], [ -42.546598999943853, -21.043981996871594 ], [ -42.655344000125467, -21.077681996926572 ], [ -42.611860000338709, -20.986296996908834 ], [ -42.582045999623112, -20.953095996482997 ] ] } }
+]
+}

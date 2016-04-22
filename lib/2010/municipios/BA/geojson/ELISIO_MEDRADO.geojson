@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "ELÍSIO MEDRADO", "Description": "ELÍSIO MEDRADO \/ BA" }, "geometry": { "type": "LineString", "coordinates": [ [ -39.463806150333539, -12.952666998083428 ], [ -39.474326280233583, -12.984842060912342 ], [ -39.531832503966825, -13.022239485963439 ], [ -39.622812827949581, -12.913220249215101 ], [ -39.475600315602037, -12.853866367438854 ], [ -39.463806150333539, -12.952666998083428 ] ] } }
+]
+}

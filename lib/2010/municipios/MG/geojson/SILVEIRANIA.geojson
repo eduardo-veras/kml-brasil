@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SILVEIRÂNIA", "Description": "SILVEIRÂNIA \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -43.131674000254861, -21.120105996394557 ], [ -43.202934000303856, -21.223172996436574 ], [ -43.244784000281356, -21.210869996553072 ], [ -43.239657000370244, -21.087740996749574 ], [ -43.151454999648479, -21.068802996660907 ], [ -43.131674000254861, -21.120105996394557 ] ] } }
+]
+}

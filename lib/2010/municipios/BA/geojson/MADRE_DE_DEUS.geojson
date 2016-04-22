@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "MADRE DE DEUS", "Description": "MADRE DE DEUS \/ BA" }, "geometry": { "type": "LineString", "coordinates": [ [ -38.587934263855168, -12.733882086389144 ], [ -38.587901815416387, -12.753955371742961 ], [ -38.695220544792271, -12.754111720679305 ], [ -38.687208485583085, -12.726538059783593 ], [ -38.587934263855168, -12.733882086389144 ] ] } }
+]
+}

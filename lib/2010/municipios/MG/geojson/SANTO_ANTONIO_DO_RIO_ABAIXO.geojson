@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SANTO ANTÔNIO DO RIO ABAIXO", "Description": "SANTO ANTÔNIO DO RIO ABAIXO \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -43.191225999979849, -19.24233099717776 ], [ -43.225914999777387, -19.29937199711992 ], [ -43.298472000282572, -19.286496996938805 ], [ -43.307022999811522, -19.22766399709576 ], [ -43.272594000312836, -19.172109997378413 ], [ -43.191225999979849, -19.24233099717776 ] ] } }
+]
+}

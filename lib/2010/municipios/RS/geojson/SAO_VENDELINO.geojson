@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SÃO VENDELINO", "Description": "SÃO VENDELINO \/ RS" }, "geometry": { "type": "LineString", "coordinates": [ [ -51.332049343802105, -29.4098699358488 ], [ -51.358131521352561, -29.398567295044586 ], [ -51.401154069104962, -29.419080335389136 ], [ -51.397167122664541, -29.351562809176244 ], [ -51.354481502319452, -29.351899610678458 ], [ -51.332049343802105, -29.4098699358488 ] ] } }
+]
+}

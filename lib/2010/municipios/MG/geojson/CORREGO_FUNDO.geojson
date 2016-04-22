@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "CÓRREGO FUNDO", "Description": "CÓRREGO FUNDO \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -45.51217900026063, -20.396325996547432 ], [ -45.483990999884668, -20.499760996472784 ], [ -45.588287999991167, -20.467329996482079 ], [ -45.556028999838418, -20.385219997904528 ], [ -45.51217900026063, -20.396325996547432 ] ] } }
+]
+}

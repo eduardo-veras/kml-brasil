@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "AMPARO DE SÃO FRANCISCO", "Description": "AMPARO DE SÃO FRANCISCO \/ SE" }, "geometry": { "type": "LineString", "coordinates": [ [ -36.921562077827559, -10.128313648655933 ], [ -36.914171951973969, -10.136292471620209 ], [ -36.880596816489856, -10.145068556168894 ], [ -36.943424104838527, -10.22754386205952 ], [ -36.939949376262689, -10.155344597475164 ], [ -36.934742262045681, -10.120940710645243 ], [ -36.921562077827559, -10.128313648655933 ] ] } }
+]
+}

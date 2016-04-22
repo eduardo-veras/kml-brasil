@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "CARRASCO BONITO", "Description": "CARRASCO BONITO \/ TO" }, "geometry": { "type": "LineString", "coordinates": [ [ -47.978295373432672, -5.423359243434277 ], [ -48.064859354375635, -5.379544584514917 ], [ -48.079265015068358, -5.275064477043941 ], [ -48.01465931917221, -5.238030089417066 ], [ -47.933871160325737, -5.353423906987643 ], [ -47.978295373432672, -5.423359243434277 ] ] } }
+]
+}

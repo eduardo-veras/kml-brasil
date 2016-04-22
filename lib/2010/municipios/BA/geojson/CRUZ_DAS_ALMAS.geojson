@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "CRUZ DAS ALMAS", "Description": "CRUZ DAS ALMAS \/ BA" }, "geometry": { "type": "LineString", "coordinates": [ [ -39.044315162414762, -12.649058424906343 ], [ -39.057510297861931, -12.729874747821327 ], [ -39.144560163620611, -12.741232711320549 ], [ -39.209945956640524, -12.645057486813528 ], [ -39.177218057167579, -12.629770646098393 ], [ -39.044315162414762, -12.649058424906343 ] ] } }
+]
+}

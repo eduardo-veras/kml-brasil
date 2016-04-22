@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "BARROSO", "Description": "BARROSO \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -44.001881999654529, -21.220944997113861 ], [ -44.013386999610304, -21.160833996791496 ], [ -43.941226000279642, -21.121636996849873 ], [ -43.896271000106537, -21.187871997194861 ], [ -43.916196999891604, -21.223934996502859 ], [ -44.001881999654529, -21.220944997113861 ] ] } }
+]
+}

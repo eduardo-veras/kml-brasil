@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "SANTA EFIGÊNIA DE MINAS", "Description": "SANTA EFIGÊNIA DE MINAS \/ MG" }, "geometry": { "type": "LineString", "coordinates": [ [ -42.327017000234321, -18.81829799675512 ], [ -42.362083000330131, -18.925693996780463 ], [ -42.390499000428456, -18.927556997257568 ], [ -42.462838999919882, -18.889550997380582 ], [ -42.456014999992192, -18.814511997530641 ], [ -42.327017000234321, -18.81829799675512 ] ] } }
+]
+}
