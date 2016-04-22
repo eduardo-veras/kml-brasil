@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PINHAL.kml</name>
+	<Placemark>
+		<name>PINHAL</name>
+		<description>PINHAL / RS</description>
+		<LineString>
+			<coordinates>
+				-53.24676171897812,-27.495779351935482 -53.206807074386916,-27.486994651881616 -53.1950148003927,-27.52014272720504 -53.23094663987547,-27.57859919349795 -53.25530727581008,-27.58059354715442 -53.275822647197344,-27.517990742178938 -53.273499813465605,-27.481126758093353 -53.24676171897812,-27.495779351935482
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

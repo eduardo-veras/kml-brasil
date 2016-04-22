@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BOMBINHAS.kml</name>
+	<Placemark>
+		<name>BOMBINHAS</name>
+		<description>BOMBINHAS / SC</description>
+		<LineString>
+			<coordinates>
+				-48.57839161677964,-27.21158570551586 -48.58466718134531,-27.193405178306307 -48.52770658978727,-27.159883172070693 -48.507987914310775,-27.11030951197438 -48.48871989630612,-27.148297657610783 -48.49941351981806,-27.185740370721476 -48.54237273641263,-27.18259514744807 -48.57839161677964,-27.21158570551586
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

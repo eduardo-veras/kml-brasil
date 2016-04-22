@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VÁRZEA DO POÇO.kml</name>
+	<Placemark>
+		<name>VÁRZEA DO POÇO</name>
+		<description>VÁRZEA DO POÇO / BA</description>
+		<LineString>
+			<coordinates>
+				-40.22571975935938,-11.5892582026039 -40.269140017897485,-11.608623999397992 -40.37067005228107,-11.61623284936644 -40.38604153628785,-11.504940389986984 -40.309354690666396,-11.431100283551189 -40.29377342540323,-11.493475220105267 -40.23213408841741,-11.574035103137476 -40.22571975935938,-11.5892582026039
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

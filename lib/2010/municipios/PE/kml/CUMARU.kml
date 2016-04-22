@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CUMARU.kml</name>
+	<Placemark>
+		<name>CUMARU</name>
+		<description>CUMARU / PE</description>
+		<LineString>
+			<coordinates>
+				-35.654179337206585,-7.944311728003811 -35.61042318368294,-8.011405478380084 -35.639865321927005,-8.04223262293715 -35.649827364940904,-8.10529356684458 -35.83575545125302,-8.11444355172847 -35.84015676482278,-8.071312075391916 -35.76006238706947,-8.012309021843862 -35.757756366163335,-7.9749365286978104 -35.654179337206585,-7.944311728003811
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NATÉRCIA.kml</name>
+	<Placemark>
+		<name>NATÉRCIA</name>
+		<description>NATÉRCIA / MG</description>
+		<LineString>
+			<coordinates>
+				-45.364202000321995,-22.0742279966247 -45.370885000042676,-22.082247996847514 -45.44528099991817,-22.119741996495918 -45.507840999862196,-22.191649996749902 -45.518308999660576,-22.216591996723253 -45.6158399998161,-22.160430996892956 -45.59764599986295,-22.102956996767944 -45.4585979997978,-22.081927996479806 -45.364202000321995,-22.0742279966247
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

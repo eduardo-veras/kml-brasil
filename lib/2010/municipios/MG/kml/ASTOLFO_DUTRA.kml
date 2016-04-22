@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ASTOLFO DUTRA.kml</name>
+	<Placemark>
+		<name>ASTOLFO DUTRA</name>
+		<description>ASTOLFO DUTRA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.86137399991014,-21.241956996618057 -42.813755000093124,-21.260695996522998 -42.8302869998451,-21.387989996840815 -42.89425700006046,-21.37251599641604 -42.938007000422715,-21.367892996364674 -42.926404999591,-21.302833997191158 -42.955168000402864,-21.26464099678452 -42.86137399991014,-21.241956996618057
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

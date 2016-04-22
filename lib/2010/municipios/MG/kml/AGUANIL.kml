@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>AGUANIL.kml</name>
+	<Placemark>
+		<name>AGUANIL</name>
+		<description>AGUANIL / MG</description>
+		<LineString>
+			<coordinates>
+				-45.34246699985209,-21.068768996891663 -45.39441699974469,-21.077774996718688 -45.41880300015828,-21.02272699695328 -45.4687050000357,-21.021184996890042 -45.5371739999801,-20.937812996772323 -45.46356799966344,-20.924745996730337 -45.4312040000645,-20.891218996559417 -45.363886000138734,-20.912474996523827 -45.34246699985209,-21.068768996891663
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

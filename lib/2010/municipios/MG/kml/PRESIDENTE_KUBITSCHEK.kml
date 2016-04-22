@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PRESIDENTE KUBITSCHEK.kml</name>
+	<Placemark>
+		<name>PRESIDENTE KUBITSCHEK</name>
+		<description>PRESIDENTE KUBITSCHEK / MG</description>
+		<LineString>
+			<coordinates>
+				-43.49142799970241,-18.71822899737026 -43.56397000041517,-18.70440699668552 -43.678319000021816,-18.64537699675094 -43.65241499975241,-18.631194997451132 -43.59872499965894,-18.53300699757483 -43.52252500022854,-18.59867599699959 -43.49142799970241,-18.71822899737026
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

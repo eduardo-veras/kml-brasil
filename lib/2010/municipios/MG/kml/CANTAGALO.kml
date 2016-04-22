@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CANTAGALO.kml</name>
+	<Placemark>
+		<name>CANTAGALO</name>
+		<description>CANTAGALO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.61491099984272,-18.41650799684652 -42.59536899977945,-18.56523399715121 -42.661079000195684,-18.600177997016885 -42.68554599984799,-18.58714299665195 -42.7042639996838,-18.508359996816353 -42.65613199959205,-18.430815997460286 -42.61491099984272,-18.41650799684652
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAPIM BRANCO.kml</name>
+	<Placemark>
+		<name>CAPIM BRANCO</name>
+		<description>CAPIM BRANCO / MG</description>
+		<LineString>
+			<coordinates>
+				-44.1981069996383,-19.64216999614837 -44.2225530001208,-19.599348997258346 -44.18061199954411,-19.523845996695343 -44.10912399977275,-19.520946997006263 -44.120360999960155,-19.590769996438155 -44.1981069996383,-19.64216999614837
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

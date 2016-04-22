@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ITAÚ DE MINAS.kml</name>
+	<Placemark>
+		<name>ITAÚ DE MINAS</name>
+		<description>ITAÚ DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-46.705624000447244,-20.840712996707396 -46.746677999689894,-20.832672996461554 -46.80339499997922,-20.783846996741488 -46.79446199992134,-20.750679996984218 -46.841167999903234,-20.681290996881955 -46.83178899996233,-20.63080299606139 -46.76563099957093,-20.67419999633273 -46.726627000435656,-20.729427996304935 -46.705624000447244,-20.840712996707396
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

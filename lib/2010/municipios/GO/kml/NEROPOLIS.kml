@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NERÓPOLIS.kml</name>
+	<Placemark>
+		<name>NERÓPOLIS</name>
+		<description>NERÓPOLIS / GO</description>
+		<LineString>
+			<coordinates>
+				-49.194585383008985,-16.347191437534775 -49.11397847622567,-16.42747303345368 -49.1277353776855,-16.512950986798558 -49.176691859141954,-16.538435709640225 -49.21497135364501,-16.45367022709928 -49.28061216112229,-16.39911338037814 -49.23058999203448,-16.32102133506652 -49.194585383008985,-16.347191437534775
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

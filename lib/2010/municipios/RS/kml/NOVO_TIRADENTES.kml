@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVO TIRADENTES.kml</name>
+	<Placemark>
+		<name>NOVO TIRADENTES</name>
+		<description>NOVO TIRADENTES / RS</description>
+		<LineString>
+			<coordinates>
+				-53.14420300136737,-27.522492362532432 -53.10128295924113,-27.568712338303726 -53.118700832577304,-27.588501722976105 -53.14795539652431,-27.605241771890235 -53.20628921867245,-27.60007951315896 -53.23094663987547,-27.57859919349795 -53.1950148003927,-27.52014272720504 -53.14420300136737,-27.522492362532432
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

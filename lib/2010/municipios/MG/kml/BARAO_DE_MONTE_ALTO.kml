@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BARÃO DE MONTE ALTO.kml</name>
+	<Placemark>
+		<name>BARÃO DE MONTE ALTO</name>
+		<description>BARÃO DE MONTE ALTO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.202640469881715,-21.221242840884372 -42.23555700485184,-21.342928345166968 -42.25479399984317,-21.3500429969867 -42.3637820004389,-21.306356996877867 -42.33137399971025,-21.272102996456056 -42.32746800034789,-21.210318997223908 -42.27775600023915,-21.20124499695902 -42.202640469881715,-21.221242840884372
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

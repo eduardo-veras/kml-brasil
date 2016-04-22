@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>XANGRI-LÁ.kml</name>
+	<Placemark>
+		<name>XANGRI-LÁ</name>
+		<description>XANGRI-LÁ / RS</description>
+		<LineString>
+			<coordinates>
+				-50.01800719347716,-29.772323619139684 -50.0634552982234,-29.860082892611388 -50.111159009680534,-29.833812241441763 -50.11320352752074,-29.785577716838134 -50.05516468570164,-29.761594842927593 -50.01800719347716,-29.772323619139684
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

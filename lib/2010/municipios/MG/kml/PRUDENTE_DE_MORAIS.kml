@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PRUDENTE DE MORAIS.kml</name>
+	<Placemark>
+		<name>PRUDENTE DE MORAIS</name>
+		<description>PRUDENTE DE MORAIS / MG</description>
+		<LineString>
+			<coordinates>
+				-44.03911099967286,-19.42444999686984 -44.10912399977275,-19.520946997006263 -44.18061199954411,-19.523845996695343 -44.169769000438976,-19.473344997073923 -44.12809899976901,-19.43251699746139 -44.03911099967286,-19.42444999686984
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

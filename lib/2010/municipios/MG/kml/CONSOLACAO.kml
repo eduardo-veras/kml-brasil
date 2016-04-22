@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CONSOLAÇÃO.kml</name>
+	<Placemark>
+		<name>CONSOLAÇÃO</name>
+		<description>CONSOLAÇÃO / MG</description>
+		<LineString>
+			<coordinates>
+				-45.88330299973359,-22.500346997016266 -45.87080399980471,-22.5236899969957 -45.9043210004138,-22.601645996465493 -45.951539999771114,-22.587629996726946 -45.94835699957582,-22.552141996955527 -45.95617899966106,-22.535297996305417 -45.92365599992439,-22.472344996224535 -45.885889000277075,-22.4672069967055 -45.88330299973359,-22.500346997016266
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

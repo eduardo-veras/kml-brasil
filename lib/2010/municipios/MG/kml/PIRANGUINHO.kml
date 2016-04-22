@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PIRANGUINHO.kml</name>
+	<Placemark>
+		<name>PIRANGUINHO</name>
+		<description>PIRANGUINHO / MG</description>
+		<LineString>
+			<coordinates>
+				-45.574660000158815,-22.32222999661701 -45.51179300044657,-22.372622996653945 -45.52379800007759,-22.45998599645651 -45.55058699979014,-22.483764996757145 -45.57026199969147,-22.393351996597346 -45.67164400027036,-22.337392997089125 -45.660117000199364,-22.2777029963961 -45.574660000158815,-22.32222999661701
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

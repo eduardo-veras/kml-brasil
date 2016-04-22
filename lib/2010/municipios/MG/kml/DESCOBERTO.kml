@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DESCOBERTO.kml</name>
+	<Placemark>
+		<name>DESCOBERTO</name>
+		<description>DESCOBERTO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.89425700006046,-21.37251599641604 -42.88556100014,-21.483530996058562 -42.90971299965514,-21.515857996649174 -43.05231900012171,-21.48088199620713 -43.06033800029843,-21.430388996055285 -43.04587299963919,-21.400474997023423 -42.938007000422715,-21.367892996364674 -42.89425700006046,-21.37251599641604
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

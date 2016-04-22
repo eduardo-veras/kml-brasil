@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DAMOLÂNDIA.kml</name>
+	<Placemark>
+		<name>DAMOLÂNDIA</name>
+		<description>DAMOLÂNDIA / GO</description>
+		<LineString>
+			<coordinates>
+				-49.31321125249724,-16.230747596724143 -49.27658485130979,-16.268012126258554 -49.307945284846994,-16.311186628859787 -49.336811373146304,-16.292584035424852 -49.37844752603246,-16.30621006933916 -49.37309060904431,-16.205041979703537 -49.39472793414683,-16.189685819245142 -49.31321125249724,-16.230747596724143
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

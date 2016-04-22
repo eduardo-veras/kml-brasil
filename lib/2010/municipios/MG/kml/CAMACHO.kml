@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAMACHO.kml</name>
+	<Placemark>
+		<name>CAMACHO</name>
+		<description>CAMACHO / MG</description>
+		<LineString>
+			<coordinates>
+				-45.04624200006822,-20.63290799690651 -45.08522800017204,-20.7443469972161 -45.1454490001712,-20.699560996742548 -45.14673700021234,-20.668300996793505 -45.26027700028328,-20.65091799646831 -45.18168000003192,-20.584706997230114 -45.12488799988125,-20.559965996633366 -45.04624200006822,-20.63290799690651
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RECREIO.kml</name>
+	<Placemark>
+		<name>RECREIO</name>
+		<description>RECREIO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.39177599996236,-21.445452996458584 -42.34854900033605,-21.50068299652304 -42.346004142876836,-21.582744683520275 -42.35265608271203,-21.59168671007359 -42.41056700046664,-21.6015009962739 -42.51422599992992,-21.561097996475326 -42.52903400021887,-21.513308996013336 -42.45248399993659,-21.438354996485828 -42.39177599996236,-21.445452996458584
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA PÁDUA.kml</name>
+	<Placemark>
+		<name>NOVA PÁDUA</name>
+		<description>NOVA PÁDUA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.26333666535476,-28.963795237360273 -51.274805379464624,-29.02907767939132 -51.35758263363158,-29.059251560011433 -51.356757996684166,-29.020424456623346 -51.38441770471326,-29.005298657507012 -51.34021071745059,-28.963840900437162 -51.28331089488188,-28.92684324651856 -51.26333666535476,-28.963795237360273
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

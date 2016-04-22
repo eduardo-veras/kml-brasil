@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BOM REPOUSO.kml</name>
+	<Placemark>
+		<name>BOM REPOUSO</name>
+		<description>BOM REPOUSO / MG</description>
+		<LineString>
+			<coordinates>
+				-46.09721100038729,-22.39521199693604 -46.11568899994734,-22.49412299687873 -46.14780399975473,-22.518474996623752 -46.18912999984957,-22.50184399680296 -46.28269499967445,-22.51520899709749 -46.26076400005849,-22.41948699672747 -46.24429100032938,-22.363586996342747 -46.09721100038729,-22.39521199693604
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

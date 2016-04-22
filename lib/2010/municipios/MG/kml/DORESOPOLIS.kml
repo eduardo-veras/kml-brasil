@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DORESÓPOLIS.kml</name>
+	<Placemark>
+		<name>DORESÓPOLIS</name>
+		<description>DORESÓPOLIS / MG</description>
+		<LineString>
+			<coordinates>
+				-45.82034400027533,-20.288816996707 -45.834542000313036,-20.35240599733885 -45.90423299995297,-20.32939599652798 -45.9759610000001,-20.338260997047314 -45.950350999798786,-20.254752996953187 -45.890187999776344,-20.21719599709752 -45.82034400027533,-20.288816996707
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

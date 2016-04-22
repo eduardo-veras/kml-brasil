@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IRATI.kml</name>
+	<Placemark>
+		<name>IRATI</name>
+		<description>IRATI / SC</description>
+		<LineString>
+			<coordinates>
+				-52.839673802104244,-26.592658402263396 -52.834650768318284,-26.63081311853057 -52.84535417375605,-26.668458894961987 -52.919513417210396,-26.67333341290663 -52.94061569605748,-26.614013526403085 -52.92601229782923,-26.581472740774302 -52.87645270402902,-26.595355359362316 -52.839673802104244,-26.592658402263396
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

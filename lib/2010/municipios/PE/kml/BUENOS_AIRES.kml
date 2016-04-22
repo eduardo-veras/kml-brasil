@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BUENOS AIRES.kml</name>
+	<Placemark>
+		<name>BUENOS AIRES</name>
+		<description>BUENOS AIRES / PE</description>
+		<LineString>
+			<coordinates>
+				-35.25953060275509,-7.675645905534054 -35.30425801239733,-7.766228233646018 -35.31697263377998,-7.774272443618315 -35.39302747363894,-7.762100565788444 -35.40563760998765,-7.77573778097377 -35.412838803567865,-7.740480629077695 -35.35603478217939,-7.709613548326558 -35.29615030309395,-7.711071325081548 -35.25953060275509,-7.675645905534054
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

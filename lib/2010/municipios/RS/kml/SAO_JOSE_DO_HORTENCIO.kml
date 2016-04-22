@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DO HORTÊNCIO.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DO HORTÊNCIO</name>
+		<description>SÃO JOSÉ DO HORTÊNCIO / RS</description>
+		<LineString>
+			<coordinates>
+				-51.22382339813129,-29.547638349030535 -51.24482323520408,-29.583914524535658 -51.29256695210313,-29.58436672254618 -51.30333616093503,-29.52295386812648 -51.26515059972036,-29.504419396537855 -51.17800173928879,-29.494056532882666 -51.23313633657261,-29.521894695184017 -51.22382339813129,-29.547638349030535
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

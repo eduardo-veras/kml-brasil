@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BANDEIRA DO SUL.kml</name>
+	<Placemark>
+		<name>BANDEIRA DO SUL</name>
+		<description>BANDEIRA DO SUL / MG</description>
+		<LineString>
+			<coordinates>
+				-46.37393399925463,-21.69323199695907 -46.329026000349586,-21.744380996785537 -46.396565999721076,-21.759747996772603 -46.398572507715016,-21.75914423331966 -46.42177631062822,-21.732654215019977 -46.37393399925463,-21.69323199695907
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

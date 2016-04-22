@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IBEMA.kml</name>
+	<Placemark>
+		<name>IBEMA</name>
+		<description>IBEMA / PR</description>
+		<LineString>
+			<coordinates>
+				-52.969886204085014,-25.208969084355715 -53.101209167169316,-25.19422049148244 -53.07845190912826,-25.097102835027783 -52.97822265055481,-25.102977944076827 -52.95748791923205,-25.117432041355585 -52.950041572260716,-25.159605600318173 -52.96840215633438,-25.17558487674063 -52.969886204085014,-25.208969084355715
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

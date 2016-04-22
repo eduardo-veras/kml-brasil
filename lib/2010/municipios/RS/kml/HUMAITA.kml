@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>HUMAITÁ.kml</name>
+	<Placemark>
+		<name>HUMAITÁ</name>
+		<description>HUMAITÁ / RS</description>
+		<LineString>
+			<coordinates>
+				-53.90632848886861,-27.5297683878008 -53.89771287305064,-27.595298196454564 -54.03144635556481,-27.627088441178557 -54.03694421790129,-27.6551567076159 -54.0456751142151,-27.65286287791946 -54.071816133507696,-27.576335758188634 -54.03554854472952,-27.576221631523026 -53.98126033179881,-27.524711677102175 -53.90632848886861,-27.5297683878008
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

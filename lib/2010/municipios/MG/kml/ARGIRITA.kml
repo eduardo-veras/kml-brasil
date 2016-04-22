@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ARGIRITA.kml</name>
+	<Placemark>
+		<name>ARGIRITA</name>
+		<description>ARGIRITA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.7461620000762,-21.651021996567863 -42.806597000051454,-21.658041996540874 -42.86832899958364,-21.703333996966364 -42.89933699960278,-21.69277299647655 -42.91330199968752,-21.663963997140684 -42.865693000331646,-21.584582996707866 -42.83095900025762,-21.543833996241915 -42.74781800000068,-21.62403299662543 -42.7461620000762,-21.651021996567863
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

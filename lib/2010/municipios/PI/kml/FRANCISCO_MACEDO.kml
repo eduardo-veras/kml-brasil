@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FRANCISCO MACEDO.kml</name>
+	<Placemark>
+		<name>FRANCISCO MACEDO</name>
+		<description>FRANCISCO MACEDO / PI</description>
+		<LineString>
+			<coordinates>
+				-40.73761768650701,-7.3504769496514655 -40.79428603257429,-7.4188733212467355 -40.79661743324789,-7.3912443952125955 -40.83723472170499,-7.359707332127641 -40.84826750743946,-7.285346673809897 -40.79926496270781,-7.261036230837362 -40.73002784820659,-7.244680392086366 -40.73761768650701,-7.3504769496514655
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

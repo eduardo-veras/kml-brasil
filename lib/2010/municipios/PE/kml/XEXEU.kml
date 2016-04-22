@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>XEXÉU.kml</name>
+	<Placemark>
+		<name>XEXÉU</name>
+		<description>XEXÉU / PE</description>
+		<LineString>
+			<coordinates>
+				-35.5825238045299,-8.846466791409227 -35.632127760088,-8.881278330130783 -35.7233063701928,-8.909470909854576 -35.673224870131605,-8.865530277500284 -35.720862090213245,-8.800982927819803 -35.606299873040655,-8.775646778376085 -35.61311818115911,-8.813974734646251 -35.5825238045299,-8.846466791409227
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

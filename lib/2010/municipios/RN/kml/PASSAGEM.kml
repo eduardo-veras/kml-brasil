@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PASSAGEM.kml</name>
+	<Placemark>
+		<name>PASSAGEM</name>
+		<description>PASSAGEM / RN</description>
+		<LineString>
+			<coordinates>
+				-35.38848036197908,-6.322845197248 -35.4253548564414,-6.31936242603507 -35.42555070270271,-6.280577189685516 -35.42093842257009,-6.273231135108745 -35.405148170151904,-6.26352609315461 -35.401360154647364,-6.245389996051415 -35.358129602698966,-6.2498125345207995 -35.38848036197908,-6.322845197248
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

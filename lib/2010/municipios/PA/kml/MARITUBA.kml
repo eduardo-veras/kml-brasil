@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MARITUBA.kml</name>
+	<Placemark>
+		<name>MARITUBA</name>
+		<description>MARITUBA / PA</description>
+		<LineString>
+			<coordinates>
+				-48.29301705259485,-1.470539622205763 -48.331751071654594,-1.4669459708798058 -48.34546725810742,-1.4512620129315223 -48.36682178689591,-1.3696681622558344 -48.33992284866048,-1.329047401516334 -48.277291720436494,-1.3941683576834976 -48.29301705259485,-1.470539622205763
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

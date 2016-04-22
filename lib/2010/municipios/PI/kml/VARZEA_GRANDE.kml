@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VÁRZEA GRANDE.kml</name>
+	<Placemark>
+		<name>VÁRZEA GRANDE</name>
+		<description>VÁRZEA GRANDE / PI</description>
+		<LineString>
+			<coordinates>
+				-42.14522402007242,-6.6424898983900675 -42.146104824178224,-6.642538881763926 -42.30548436700991,-6.589851719281398 -42.30946263769056,-6.514009859567295 -42.30981864151704,-6.507198005883197 -42.18996812922575,-6.461215881008059 -42.14522402007242,-6.6424898983900675
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

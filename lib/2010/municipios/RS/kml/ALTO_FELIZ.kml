@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALTO FELIZ.kml</name>
+	<Placemark>
+		<name>ALTO FELIZ</name>
+		<description>ALTO FELIZ / RS</description>
+		<LineString>
+			<coordinates>
+				-51.280317085065406,-29.4048341892464 -51.33010606804055,-29.427185453745665 -51.33204934380211,-29.409869935848803 -51.35448150231946,-29.35189961067846 -51.35441747238838,-29.333134259738245 -51.26970270441626,-29.312823789885954 -51.26024901128278,-29.35071240485354 -51.280317085065406,-29.4048341892464
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

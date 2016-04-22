@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SERRA PRETA.kml</name>
+	<Placemark>
+		<name>SERRA PRETA</name>
+		<description>SERRA PRETA / BA</description>
+		<LineString>
+			<coordinates>
+				-39.225220493730774,-12.082946819739902 -39.28742711676796,-12.17674065205938 -39.29160263125641,-12.18353207044862 -39.33071333495241,-12.18488631994768 -39.40806116339195,-12.266305869420307 -39.52204941524826,-12.036918351001077 -39.2966781863492,-11.990799564248448 -39.225220493730774,-12.082946819739902
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

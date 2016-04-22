@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PESCADOR.kml</name>
+	<Placemark>
+		<name>PESCADOR</name>
+		<description>PESCADOR / MG</description>
+		<LineString>
+			<coordinates>
+				-41.419097000126385,-18.28160199713443 -41.42800599997685,-18.296451997561576 -41.56276900028911,-18.404734997122375 -41.62903000003445,-18.43333099742756 -41.69080999998147,-18.356700997053338 -41.6469780003344,-18.300770997083816 -41.5833630003022,-18.25979999717208 -41.52798499970794,-18.25193499690255 -41.419097000126385,-18.28160199713443
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

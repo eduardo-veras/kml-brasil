@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SILVEIRÂNIA.kml</name>
+	<Placemark>
+		<name>SILVEIRÂNIA</name>
+		<description>SILVEIRÂNIA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.13167400025486,-21.120105996394557 -43.202934000303856,-21.223172996436574 -43.244784000281356,-21.210869996553072 -43.239657000370244,-21.087740996749574 -43.15145499964848,-21.068802996660907 -43.13167400025486,-21.120105996394557
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

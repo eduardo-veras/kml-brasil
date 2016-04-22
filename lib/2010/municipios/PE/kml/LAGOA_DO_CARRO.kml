@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LAGOA DO CARRO.kml</name>
+	<Placemark>
+		<name>LAGOA DO CARRO</name>
+		<description>LAGOA DO CARRO / PE</description>
+		<LineString>
+			<coordinates>
+				-35.289442215885515,-7.8743856266952434 -35.33653216612652,-7.895329176999894 -35.35542857167121,-7.890627427813513 -35.369711573830045,-7.860286929797951 -35.4056349758734,-7.8250436112736 -35.376263120546525,-7.818391112959432 -35.2914408736973,-7.828643774590489 -35.289442215885515,-7.8743856266952434
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

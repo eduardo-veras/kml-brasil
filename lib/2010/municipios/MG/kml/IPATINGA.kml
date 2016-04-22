@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IPATINGA.kml</name>
+	<Placemark>
+		<name>IPATINGA</name>
+		<description>IPATINGA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.67760899985541,-19.381712996457566 -42.59346800024798,-19.379012996952213 -42.502336964279436,-19.492096812317982 -42.514315085872454,-19.49230940935172 -42.57360881019838,-19.51529081441953 -42.59784034485597,-19.465281130619644 -42.69503699955783,-19.417716996642014 -42.68519099966488,-19.368152997063135 -42.67760899985541,-19.381712996457566
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

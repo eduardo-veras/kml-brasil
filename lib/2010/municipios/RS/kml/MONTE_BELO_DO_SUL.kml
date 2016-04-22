@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MONTE BELO DO SUL.kml</name>
+	<Placemark>
+		<name>MONTE BELO DO SUL</name>
+		<description>MONTE BELO DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-51.66550438681793,-29.188117558178703 -51.695429608489576,-29.15839209032265 -51.69547505123256,-29.09725140582765 -51.68171264861979,-29.088989907957853 -51.61504337015538,-29.125300207338626 -51.61665194882835,-29.187239722734944 -51.66550438681793,-29.188117558178703
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

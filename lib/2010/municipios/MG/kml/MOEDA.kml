@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MOEDA.kml</name>
+	<Placemark>
+		<name>MOEDA</name>
+		<description>MOEDA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.964574999636454,-20.259437996266456 -43.93018900032206,-20.382412997062147 -43.92706300005739,-20.404932996860282 -44.069405510855574,-20.35210766613585 -44.08166499973993,-20.308667996630675 -44.054557999751864,-20.31382199688761 -43.997102999603726,-20.254113996263868 -43.964574999636454,-20.259437996266456
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

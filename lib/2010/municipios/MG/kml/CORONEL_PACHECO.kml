@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CORONEL PACHECO.kml</name>
+	<Placemark>
+		<name>CORONEL PACHECO</name>
+		<description>CORONEL PACHECO / MG</description>
+		<LineString>
+			<coordinates>
+				-43.26333499961049,-21.54490299607636 -43.21372599975507,-21.60998999654106 -43.226393000236726,-21.631353996090013 -43.294856999950525,-21.66136799703537 -43.359285999749034,-21.626525996477483 -43.35769300003187,-21.58777399637279 -43.336059999769134,-21.560980996475735 -43.26333499961049,-21.54490299607636
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

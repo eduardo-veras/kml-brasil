@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAPÃO DA CANOA.kml</name>
+	<Placemark>
+		<name>CAPÃO DA CANOA</name>
+		<description>CAPÃO DA CANOA / RS</description>
+		<LineString>
+			<coordinates>
+				-49.93464180337651,-29.624748149407537 -50.01800719347716,-29.772323619139684 -50.05516468570164,-29.761594842927593 -50.02211152392766,-29.691223959418153 -50.04930172829211,-29.652854509328108 -49.99433469359121,-29.620056843148745 -49.93464180337651,-29.624748149407537
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

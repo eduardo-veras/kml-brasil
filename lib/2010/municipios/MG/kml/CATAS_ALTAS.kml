@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CATAS ALTAS.kml</name>
+	<Placemark>
+		<name>CATAS ALTAS</name>
+		<description>CATAS ALTAS / MG</description>
+		<LineString>
+			<coordinates>
+				-43.31577200037748,-20.077937997240724 -43.34509199989583,-20.13970999681885 -43.458268000267935,-20.14356999675789 -43.510937000042475,-20.128576996930803 -43.513672000262545,-20.08306599719799 -43.46809600023016,-20.03402699664855 -43.354177999814794,-19.99471899698409 -43.31577200037748,-20.077937997240724
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

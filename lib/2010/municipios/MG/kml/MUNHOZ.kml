@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MUNHOZ.kml</name>
+	<Placemark>
+		<name>MUNHOZ</name>
+		<description>MUNHOZ / MG</description>
+		<LineString>
+			<coordinates>
+				-46.15845499989831,-22.615593996665552 -46.28741399965634,-22.692275996739795 -46.30822099959943,-22.691965996833233 -46.39305887126983,-22.662974059205396 -46.42433637562317,-22.599444274433665 -46.36564400007052,-22.601974996348986 -46.29616500031449,-22.578712996507534 -46.15845499989831,-22.615593996665552
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

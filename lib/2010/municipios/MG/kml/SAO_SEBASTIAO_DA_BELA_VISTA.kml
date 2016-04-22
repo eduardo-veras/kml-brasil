@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO SEBASTIÃO DA BELA VISTA.kml</name>
+	<Placemark>
+		<name>SÃO SEBASTIÃO DA BELA VISTA</name>
+		<description>SÃO SEBASTIÃO DA BELA VISTA / MG</description>
+		<LineString>
+			<coordinates>
+				-45.74282700036571,-22.103392997089088 -45.6648750001811,-22.16752399663511 -45.85394800039984,-22.235606996765455 -45.85852700022082,-22.179993997025292 -45.81705499968842,-22.115563996281367 -45.74282700036571,-22.103392997089088
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

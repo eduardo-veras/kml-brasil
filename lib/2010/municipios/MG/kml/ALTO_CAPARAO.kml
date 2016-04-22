@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALTO CAPARAÓ.kml</name>
+	<Placemark>
+		<name>ALTO CAPARAÓ</name>
+		<description>ALTO CAPARAÓ / MG</description>
+		<LineString>
+			<coordinates>
+				-41.83663806449505,-20.409114556591476 -41.80367713808943,-20.42198055725686 -41.82542275775404,-20.483258849716094 -41.85020899964559,-20.498173997032268 -41.91430300018328,-20.488130996148527 -41.9625149994676,-20.504527996869513 -41.87282100008906,-20.418054996740636 -41.83663806449505,-20.409114556591476
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA HARTZ.kml</name>
+	<Placemark>
+		<name>NOVA HARTZ</name>
+		<description>NOVA HARTZ / RS</description>
+		<LineString>
+			<coordinates>
+				-50.90620934818281,-29.63167278257282 -50.94707169560223,-29.596764580221134 -50.946982731967466,-29.552372849727192 -50.898566961595975,-29.551506706369366 -50.85550433465727,-29.58370061988768 -50.87957686468053,-29.63702257513171 -50.90620934818281,-29.63167278257282
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

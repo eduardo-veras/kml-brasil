@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALEGRIA.kml</name>
+	<Placemark>
+		<name>ALEGRIA</name>
+		<description>ALEGRIA / RS</description>
+		<LineString>
+			<coordinates>
+				-53.97877760939912,-27.78028028680575 -53.966021469914836,-27.82445534273984 -54.047267114785484,-27.866376395454267 -54.1143717262741,-27.883401151741737 -54.161008478458484,-27.79748702900315 -54.12541326061347,-27.768873772506538 -54.06710286760324,-27.74387458104701 -54.01732880258214,-27.75034645142756 -53.97877760939912,-27.78028028680575
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

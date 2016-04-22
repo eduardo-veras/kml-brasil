@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CÓRREGO DO BOM JESUS.kml</name>
+	<Placemark>
+		<name>CÓRREGO DO BOM JESUS</name>
+		<description>CÓRREGO DO BOM JESUS / MG</description>
+		<LineString>
+			<coordinates>
+				-45.951539999771114,-22.587629996726946 -45.936253999922144,-22.65144599703507 -45.959022000364996,-22.69075799688403 -46.05391400023086,-22.687372996366662 -46.03250799964445,-22.59783299689525 -45.94835699957582,-22.552141996955527 -45.951539999771114,-22.587629996726946
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

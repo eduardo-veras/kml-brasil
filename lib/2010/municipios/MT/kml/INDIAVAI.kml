@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>INDIAVAÍ.kml</name>
+	<Placemark>
+		<name>INDIAVAÍ</name>
+		<description>INDIAVAÍ / MT</description>
+		<LineString>
+			<coordinates>
+				-58.4840386523619,-15.51571110888051 -58.58321446937225,-15.50892487058627 -58.655791997802396,-15.349033072118516 -58.696283503480856,-15.313519608043407 -58.73048318215308,-15.23155830966823 -58.72632666854088,-15.154283280448965 -58.60247355171299,-15.184766152835664 -58.490542302085544,-15.3506980436797 -58.4840386523619,-15.51571110888051
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

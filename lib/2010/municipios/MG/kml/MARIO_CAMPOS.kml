@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MÁRIO CAMPOS.kml</name>
+	<Placemark>
+		<name>MÁRIO CAMPOS</name>
+		<description>MÁRIO CAMPOS / MG</description>
+		<LineString>
+			<coordinates>
+				-44.18115300021077,-20.045880996510732 -44.124287000244806,-20.09892399644525 -44.21015400030683,-20.100607995862276 -44.19628800029096,-20.051151996767203 -44.18115300021077,-20.045880996510732
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ITAMARATI DE MINAS.kml</name>
+	<Placemark>
+		<name>ITAMARATI DE MINAS</name>
+		<description>ITAMARATI DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.8302869998451,-21.387989996840815 -42.781283000010376,-21.38443999680834 -42.79918700007994,-21.42442299612435 -42.82321400012597,-21.47009499608714 -42.88556100014,-21.483530996058562 -42.89425700006046,-21.37251599641604 -42.8302869998451,-21.387989996840815
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

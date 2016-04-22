@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>AMPARO DE SÃO FRANCISCO.kml</name>
+	<Placemark>
+		<name>AMPARO DE SÃO FRANCISCO</name>
+		<description>AMPARO DE SÃO FRANCISCO / SE</description>
+		<LineString>
+			<coordinates>
+				-36.92156207782756,-10.128313648655933 -36.91417195197397,-10.136292471620209 -36.880596816489856,-10.145068556168894 -36.94342410483853,-10.22754386205952 -36.93994937626269,-10.155344597475164 -36.93474226204569,-10.120940710645243 -36.92156207782756,-10.128313648655933
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

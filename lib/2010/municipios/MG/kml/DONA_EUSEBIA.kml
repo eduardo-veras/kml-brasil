@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DONA EUSÉBIA.kml</name>
+	<Placemark>
+		<name>DONA EUSÉBIA</name>
+		<description>DONA EUSÉBIA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.79499700021137,-21.27136799673559 -42.767078999696025,-21.295914996479837 -42.781283000010376,-21.38443999680834 -42.8302869998451,-21.387989996840815 -42.813755000093124,-21.260695996522998 -42.79499700021137,-21.27136799673559
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

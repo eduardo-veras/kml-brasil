@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>AREIAL.kml</name>
+	<Placemark>
+		<name>AREIAL</name>
+		<description>AREIAL / PB</description>
+		<LineString>
+			<coordinates>
+				-35.89510044682811,-7.080460303200368 -35.96272756082823,-7.069043129237002 -35.95046900454088,-7.029556301182311 -35.95719976275882,-7.01686099274059 -35.929455709113654,-7.018139285499558 -35.89988623586106,-7.046901613618502 -35.90420208865544,-7.068075921866239 -35.89510044682811,-7.080460303200368
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

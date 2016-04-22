@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MARATÁ.kml</name>
+	<Placemark>
+		<name>MARATÁ</name>
+		<description>MARATÁ / RS</description>
+		<LineString>
+			<coordinates>
+				-51.52168210544477,-29.51221255086847 -51.503489962591686,-29.577568060117812 -51.540591403670305,-29.613885384103128 -51.5755227203972,-29.613490873105263 -51.5699550418916,-29.56205319090202 -51.5891539541916,-29.537278329031608 -51.58780291347364,-29.47662000490925 -51.52168210544477,-29.51221255086847
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

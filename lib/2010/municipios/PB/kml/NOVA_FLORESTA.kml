@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA FLORESTA.kml</name>
+	<Placemark>
+		<name>NOVA FLORESTA</name>
+		<description>NOVA FLORESTA / PB</description>
+		<LineString>
+			<coordinates>
+				-36.17446493800645,-6.430764635979131 -36.180729945430585,-6.470687360033594 -36.225063998804444,-6.559366666938104 -36.22653492454708,-6.434028174060927 -36.17446493800645,-6.430764635979131
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

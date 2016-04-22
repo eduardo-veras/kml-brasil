@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>EREBANGO.kml</name>
+	<Placemark>
+		<name>EREBANGO</name>
+		<description>EREBANGO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.236853854022115,-27.784464610153577 -52.260314474533345,-27.81309049043375 -52.27824368889509,-27.87582197760213 -52.350407138878325,-27.89807806864792 -52.40873697343255,-27.858046150709242 -52.324050558386546,-27.76772128321062 -52.32789883746136,-27.749601552869308 -52.236853854022115,-27.784464610153577
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

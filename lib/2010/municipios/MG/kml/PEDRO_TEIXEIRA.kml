@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PEDRO TEIXEIRA.kml</name>
+	<Placemark>
+		<name>PEDRO TEIXEIRA</name>
+		<description>PEDRO TEIXEIRA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.67896199999626,-21.711929996771914 -43.66789400040773,-21.75039099694692 -43.713966999977,-21.80487199664526 -43.7891490001262,-21.71315699669799 -43.77130800026396,-21.66546599715798 -43.7156860001088,-21.670341997185403 -43.67896199999626,-21.711929996771914
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

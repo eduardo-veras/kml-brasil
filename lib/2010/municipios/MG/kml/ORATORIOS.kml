@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ORATÓRIOS.kml</name>
+	<Placemark>
+		<name>ORATÓRIOS</name>
+		<description>ORATÓRIOS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.787281999664515,-20.365479996804368 -42.74582399977771,-20.39753099725766 -42.757399000263604,-20.455736996964788 -42.8405639998287,-20.487678996888178 -42.787281999664515,-20.365479996804368
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PAULISTAS.kml</name>
+	<Placemark>
+		<name>PAULISTAS</name>
+		<description>PAULISTAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.80037199986788,-18.37968799680357 -42.82513000034919,-18.52995599627218 -42.89564300012432,-18.560926996383728 -42.93057200019763,-18.438819996945256 -42.91580700009291,-18.394335996908694 -42.869365999741035,-18.364270997208735 -42.80037199986788,-18.37968799680357
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

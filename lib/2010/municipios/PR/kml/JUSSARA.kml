@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JUSSARA.kml</name>
+	<Placemark>
+		<name>JUSSARA</name>
+		<description>JUSSARA / PR</description>
+		<LineString>
+			<coordinates>
+				-52.40216354261338,-23.535669758752306 -52.36255301460989,-23.55750259556828 -52.327758900253,-23.552491005655327 -52.51884911759265,-23.77616074871952 -52.544940011372375,-23.747114386819476 -52.51142955243188,-23.691652567611868 -52.51168977036656,-23.66028902691704 -52.45271417761717,-23.549486158459388 -52.40216354261338,-23.535669758752306
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

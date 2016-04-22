@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FLORESTAL.kml</name>
+	<Placemark>
+		<name>FLORESTAL</name>
+		<description>FLORESTAL / MG</description>
+		<LineString>
+			<coordinates>
+				-44.35461299988998,-19.90520399596761 -44.43867400030484,-19.9311879963289 -44.479479999802095,-19.91608399677898 -44.52712599996488,-19.95309099645226 -44.51454599989796,-19.859735996419033 -44.44410699993807,-19.76550799659674 -44.379320999864206,-19.849243996413236 -44.35461299988998,-19.90520399596761
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

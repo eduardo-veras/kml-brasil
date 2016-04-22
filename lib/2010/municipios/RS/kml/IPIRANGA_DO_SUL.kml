@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IPIRANGA DO SUL.kml</name>
+	<Placemark>
+		<name>IPIRANGA DO SUL</name>
+		<description>IPIRANGA DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-52.40873697343255,-27.858046150709242 -52.350407138878325,-27.89807806864792 -52.37177719985783,-27.92799647255913 -52.33480046237139,-27.9765327439909 -52.40442496074331,-27.99139815430135 -52.45013579073412,-27.98444165365936 -52.52324989426717,-27.942319901941858 -52.40873697343255,-27.858046150709242
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

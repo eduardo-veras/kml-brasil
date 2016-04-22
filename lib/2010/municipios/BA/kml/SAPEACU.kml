@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SAPEAÇU.kml</name>
+	<Placemark>
+		<name>SAPEAÇU</name>
+		<description>SAPEAÇU / BA</description>
+		<LineString>
+			<coordinates>
+				-39.209945956640524,-12.645057486813528 -39.14456016362061,-12.74123271132055 -39.19294856762224,-12.758169415885789 -39.228555235635554,-12.809793124652913 -39.27257232295432,-12.744134839750984 -39.24018978293208,-12.65981256379871 -39.209945956640524,-12.645057486813528
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

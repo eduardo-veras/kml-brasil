@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>UNIÃO DA SERRA.kml</name>
+	<Placemark>
+		<name>UNIÃO DA SERRA</name>
+		<description>UNIÃO DA SERRA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.95892196307807,-28.761325609489234 -51.956141891535026,-28.821948989554187 -52.0169592805463,-28.841914554113316 -52.0633376305272,-28.809590050040754 -52.0784545848112,-28.741435067274494 -52.080777522864366,-28.712256857567866 -51.98691491669001,-28.70704090751184 -51.992173921789,-28.74827959692584 -51.95892196307807,-28.761325609489234
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

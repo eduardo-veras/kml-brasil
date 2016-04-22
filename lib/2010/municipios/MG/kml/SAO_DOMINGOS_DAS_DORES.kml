@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO DOMINGOS DAS DORES.kml</name>
+	<Placemark>
+		<name>SÃO DOMINGOS DAS DORES</name>
+		<description>SÃO DOMINGOS DAS DORES / MG</description>
+		<LineString>
+			<coordinates>
+				-41.99978699967028,-19.45876599745276 -41.991481999794416,-19.538689996845847 -42.04864499996671,-19.571736997364496 -42.05897999992703,-19.49934899745824 -41.99978699967028,-19.45876599745276
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

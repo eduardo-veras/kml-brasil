@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FLORESTA AZUL.kml</name>
+	<Placemark>
+		<name>FLORESTA AZUL</name>
+		<description>FLORESTA AZUL / BA</description>
+		<LineString>
+			<coordinates>
+				-39.657627386594584,-14.769686723563382 -39.63825524058683,-14.91732072836885 -39.67841355823907,-14.938681187286932 -39.68890991096356,-14.952632336013437 -39.79740444455945,-14.883550836601785 -39.77938967229551,-14.741824080816627 -39.75286499592278,-14.71684473199872 -39.657627386594584,-14.769686723563382
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

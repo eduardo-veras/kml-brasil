@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RAPOSA.kml</name>
+	<Placemark>
+		<name>RAPOSA</name>
+		<description>RAPOSA / MA</description>
+		<LineString>
+			<coordinates>
+				-44.10043379328488,-2.4630625703812825 -44.173751893634915,-2.458713081143742 -44.067978872227116,-2.4040996553747505 -44.02089612645506,-2.442502499091006 -44.10043379328488,-2.4630625703812825
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

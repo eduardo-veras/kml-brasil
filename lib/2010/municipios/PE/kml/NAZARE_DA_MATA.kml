@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NAZARÉ DA MATA.kml</name>
+	<Placemark>
+		<name>NAZARÉ DA MATA</name>
+		<description>NAZARÉ DA MATA / PE</description>
+		<LineString>
+			<coordinates>
+				-35.155575462837305,-7.709486457034302 -35.19318878093742,-7.758440939297884 -35.25222603570296,-7.808723258871225 -35.30425801239733,-7.766228233646018 -35.25953060275509,-7.675645905534054 -35.24111081271377,-7.696771076623861 -35.211701104921985,-7.681406814173101 -35.155575462837305,-7.709486457034302
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

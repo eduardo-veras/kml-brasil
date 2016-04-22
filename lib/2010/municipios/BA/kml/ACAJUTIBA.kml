@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ACAJUTIBA.kml</name>
+	<Placemark>
+		<name>ACAJUTIBA</name>
+		<description>ACAJUTIBA / BA</description>
+		<LineString>
+			<coordinates>
+				-37.98009380548467,-11.594612992695431 -37.94718857319407,-11.61629202026046 -37.91180214555254,-11.680546423878297 -38.04473611098268,-11.764923332745582 -38.05145346390617,-11.668325950282338 -38.05859152957538,-11.6109445029864 -37.98009380548467,-11.594612992695431
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JOSÉ RAYDAN.kml</name>
+	<Placemark>
+		<name>JOSÉ RAYDAN</name>
+		<description>JOSÉ RAYDAN / MG</description>
+		<LineString>
+			<coordinates>
+				-42.46398499970792,-18.177878997417736 -42.40858399985166,-18.272152997562728 -42.39733299991798,-18.354414996854587 -42.472408999675565,-18.347050997205713 -42.4812679999182,-18.268817997552503 -42.553109999826574,-18.23466799653079 -42.58177999904768,-18.18420799700141 -42.53842599985995,-18.16049899723089 -42.46398499970792,-18.177878997417736
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

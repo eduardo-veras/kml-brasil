@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOAQUIM DE BICAS.kml</name>
+	<Placemark>
+		<name>SÃO JOAQUIM DE BICAS</name>
+		<description>SÃO JOAQUIM DE BICAS / MG</description>
+		<LineString>
+			<coordinates>
+				-44.19628800029096,-20.051151996767203 -44.21015400030683,-20.100607995862276 -44.27603399956939,-20.111689996096402 -44.2905348076352,-20.056071770395818 -44.27031800037537,-20.003917996718144 -44.24765500027797,-20.041528996366026 -44.19628800029096,-20.051151996767203
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

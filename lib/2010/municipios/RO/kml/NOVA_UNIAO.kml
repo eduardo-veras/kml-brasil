@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA UNIÃO.kml</name>
+	<Placemark>
+		<name>NOVA UNIÃO</name>
+		<description>NOVA UNIÃO / RO</description>
+		<LineString>
+			<coordinates>
+				-62.49446824131627,-11.026580562442973 -62.54910889585881,-11.066017225414555 -62.717148461232455,-10.878245135004931 -62.5252587528891,-10.709472722887824 -62.352435286159505,-10.893934370174975 -62.390020718081644,-10.941630051585548 -62.49446824131627,-11.026580562442973
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

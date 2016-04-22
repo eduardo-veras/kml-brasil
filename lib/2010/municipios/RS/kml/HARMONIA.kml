@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>HARMONIA.kml</name>
+	<Placemark>
+		<name>HARMONIA</name>
+		<description>HARMONIA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.39627773632844,-29.52547900705048 -51.37617019759648,-29.552588543126717 -51.386417377859686,-29.58361049342949 -51.424039319558915,-29.588302759264877 -51.45682291134824,-29.5648942364798 -51.45111944060966,-29.50224569558236 -51.39627773632844,-29.52547900705048
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

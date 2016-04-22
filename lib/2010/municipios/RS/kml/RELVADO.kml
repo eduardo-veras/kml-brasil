@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RELVADO.kml</name>
+	<Placemark>
+		<name>RELVADO</name>
+		<description>RELVADO / RS</description>
+		<LineString>
+			<coordinates>
+				-51.99267423802564,-29.143925693915605 -52.00174767801286,-29.166142146442837 -52.01692250726785,-29.16740569661556 -52.12306241339962,-29.14776015670583 -52.15132873843049,-29.088199893110527 -52.095325629873855,-29.083597067550556 -52.04625493451755,-29.05806665375303 -51.99267423802564,-29.143925693915605
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAMPO LIMPO DE GOIÁS.kml</name>
+	<Placemark>
+		<name>CAMPO LIMPO DE GOIÁS</name>
+		<description>CAMPO LIMPO DE GOIÁS / GO</description>
+		<LineString>
+			<coordinates>
+				-49.14570092016129,-16.22105804469294 -49.107530962184114,-16.222576443847743 -49.04343978102105,-16.25642569988611 -49.05499600995785,-16.347780149933953 -49.11705525929273,-16.341343806371526 -49.1670724488344,-16.316058446140346 -49.18019619070162,-16.262429510013817 -49.14570092016129,-16.22105804469294
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

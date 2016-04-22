@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALTO ALEGRE.kml</name>
+	<Placemark>
+		<name>ALTO ALEGRE</name>
+		<description>ALTO ALEGRE / RS</description>
+		<LineString>
+			<coordinates>
+				-52.96417068333034,-28.87008643414157 -53.06111081990838,-28.830601071981846 -53.063769140333534,-28.79939907830476 -53.03469019779436,-28.76423516991713 -52.95240761571887,-28.742146732285846 -52.933689027726416,-28.746638540136473 -52.92688784359905,-28.813857526503625 -52.96417068333034,-28.87008643414157
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

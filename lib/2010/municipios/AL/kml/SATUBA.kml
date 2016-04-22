@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SATUBA.kml</name>
+	<Placemark>
+		<name>SATUBA</name>
+		<description>SATUBA / AL</description>
+		<LineString>
+			<coordinates>
+				-35.8143540327124,-9.58000601196784 -35.82549568407853,-9.578446452641629 -35.84334077675538,-9.60454646105029 -35.8555170567667,-9.611200025061066 -35.86764218513866,-9.62629403044508 -35.86811440565526,-9.625388099281338 -35.88724260786,-9.588838634195554 -35.79670384380728,-9.53152545623476 -35.8143540327124,-9.58000601196784
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

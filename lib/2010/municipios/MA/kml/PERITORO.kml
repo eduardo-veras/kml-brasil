@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PERITORÓ.kml</name>
+	<Placemark>
+		<name>PERITORÓ</name>
+		<description>PERITORÓ / MA</description>
+		<LineString>
+			<coordinates>
+				-44.26776666509949,-4.277755113008027 -44.18030213993177,-4.336510316997476 -44.093488231096956,-4.494759492956177 -44.19605130772163,-4.527627855740889 -44.347571952183785,-4.558218368882592 -44.43079953646941,-4.480809815520502 -44.40670560617872,-4.321276063239679 -44.35650004194332,-4.268397313685057 -44.26776666509949,-4.277755113008027
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

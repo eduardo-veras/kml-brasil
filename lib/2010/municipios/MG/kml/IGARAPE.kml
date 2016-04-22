@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IGARAPÉ.kml</name>
+	<Placemark>
+		<name>IGARAPÉ</name>
+		<description>IGARAPÉ / MG</description>
+		<LineString>
+			<coordinates>
+				-44.27031800037537,-20.003917996718144 -44.2905348076352,-20.056071770395818 -44.27603399956939,-20.111689996096402 -44.33780099981624,-20.119554996365935 -44.354438999959825,-20.12130399698185 -44.37550600020171,-20.072236996040488 -44.34360200023207,-20.00458399595459 -44.27031800037537,-20.003917996718144
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

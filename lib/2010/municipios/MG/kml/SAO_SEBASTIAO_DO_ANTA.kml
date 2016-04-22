@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO SEBASTIÃO DO ANTA.kml</name>
+	<Placemark>
+		<name>SÃO SEBASTIÃO DO ANTA</name>
+		<description>SÃO SEBASTIÃO DO ANTA / MG</description>
+		<LineString>
+			<coordinates>
+				-41.901703000093335,-19.56508399722867 -41.991481999794416,-19.538689996845847 -41.99978699967028,-19.45876599745276 -41.957153000410585,-19.45503599721343 -41.89424199956858,-19.53772199717241 -41.901703000093335,-19.56508399722867
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

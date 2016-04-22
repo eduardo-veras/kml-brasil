@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IBIRITÉ.kml</name>
+	<Placemark>
+		<name>IBIRITÉ</name>
+		<description>IBIRITÉ / MG</description>
+		<LineString>
+			<coordinates>
+				-44.075595861959414,-19.967195196301248 -44.062868555639284,-19.976825938965874 -44.01862392365513,-20.05433025034074 -44.06426300033718,-20.080008996517904 -44.11605800027644,-20.02363399671151 -44.075595861959414,-19.967195196301248
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

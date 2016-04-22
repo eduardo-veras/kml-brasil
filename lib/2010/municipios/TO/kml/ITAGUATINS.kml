@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ITAGUATINS.kml</name>
+	<Placemark>
+		<name>ITAGUATINS</name>
+		<description>ITAGUATINS / TO</description>
+		<LineString>
+			<coordinates>
+				-47.47722995839581,-5.635040541587671 -47.49309424120622,-5.7100384370241954 -47.437856673346744,-5.857869409545572 -47.57304175607214,-5.923252615215972 -47.702362839973034,-5.940285236974034 -47.74899546696719,-5.763930622700059 -47.593407329184856,-5.679903541115493 -47.47722995839581,-5.635040541587671
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GRUPIARA.kml</name>
+	<Placemark>
+		<name>GRUPIARA</name>
+		<description>GRUPIARA / MG</description>
+		<LineString>
+			<coordinates>
+				-47.76949017553113,-18.41829530318563 -47.7115720002476,-18.456957997013888 -47.71377300012381,-18.49141599695065 -47.66433600010629,-18.53675399679946 -47.75951100043227,-18.576362996854755 -47.78869199983586,-18.514232996955172 -47.8645961483935,-18.449087069312725 -47.82973500306787,-18.41130337015437 -47.76949017553113,-18.41829530318563
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

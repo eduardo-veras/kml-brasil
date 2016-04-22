@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CANAÃ.kml</name>
+	<Placemark>
+		<name>CANAÃ</name>
+		<description>CANAÃ / MG</description>
+		<LineString>
+			<coordinates>
+				-42.55776499955505,-20.598451997061943 -42.56802699974622,-20.692935996998642 -42.588658999713005,-20.746437996516306 -42.65047799965993,-20.75855099663113 -42.6977784002529,-20.657252997228 -42.64115599964964,-20.58348899681971 -42.55776499955505,-20.598451997061943
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

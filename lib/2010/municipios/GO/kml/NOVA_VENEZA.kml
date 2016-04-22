@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA VENEZA.kml</name>
+	<Placemark>
+		<name>NOVA VENEZA</name>
+		<description>NOVA VENEZA / GO</description>
+		<LineString>
+			<coordinates>
+				-49.307945284846994,-16.311186628859787 -49.23058999203448,-16.32102133506652 -49.28061216112229,-16.39911338037814 -49.29675776086191,-16.443343060233985 -49.36761139235182,-16.378666138031804 -49.36522432814019,-16.33394357483604 -49.336811373146304,-16.292584035424852 -49.307945284846994,-16.311186628859787
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

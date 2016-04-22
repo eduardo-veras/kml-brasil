@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PINGO-D'ÁGUA.kml</name>
+	<Placemark>
+		<name>PINGO-D'ÁGUA</name>
+		<description>PINGO-D'ÁGUA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.36340200000228,-19.760208996847666 -42.47446400001354,-19.773546996796426 -42.47896599988093,-19.751862996879765 -42.483745999977884,-19.72669799651527 -42.44482200003523,-19.707833997141222 -42.36454200041294,-19.72470999656906 -42.36340200000228,-19.760208996847666
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

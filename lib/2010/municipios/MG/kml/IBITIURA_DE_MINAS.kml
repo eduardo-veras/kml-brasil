@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IBITIÚRA DE MINAS.kml</name>
+	<Placemark>
+		<name>IBITIÚRA DE MINAS</name>
+		<description>IBITIÚRA DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-46.431937000392224,-22.120809996284265 -46.43628600039858,-22.03735299674338 -46.394710999612926,-22.013601996834666 -46.347264999679965,-22.053634996657706 -46.431937000392224,-22.120809996284265
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

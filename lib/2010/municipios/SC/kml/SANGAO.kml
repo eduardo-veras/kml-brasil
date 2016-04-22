@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANGÃO.kml</name>
+	<Placemark>
+		<name>SANGÃO</name>
+		<description>SANGÃO / SC</description>
+		<LineString>
+			<coordinates>
+				-49.17403241636288,-28.698562857389902 -49.175237757916136,-28.687912691817246 -49.181352186454205,-28.641287775610294 -49.103265709744676,-28.59294965090561 -49.07154499970193,-28.627085999319377 -49.07617500007615,-28.668907998904956 -49.11381873684519,-28.69303818176661 -49.17403241636288,-28.698562857389902
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

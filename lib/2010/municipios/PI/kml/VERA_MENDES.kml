@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VERA MENDES.kml</name>
+	<Placemark>
+		<name>VERA MENDES</name>
+		<description>VERA MENDES / PI</description>
+		<LineString>
+			<coordinates>
+				-41.39897576741771,-7.550563289564138 -41.39730775255072,-7.57989097738664 -41.43087849934324,-7.621443353927589 -41.46953973626978,-7.697814080655235 -41.51234081877374,-7.673098158553103 -41.64654785819704,-7.622401081544638 -41.62794594375026,-7.54719084717982 -41.54686359957543,-7.519318369447149 -41.39897576741771,-7.550563289564138
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

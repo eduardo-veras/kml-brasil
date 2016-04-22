@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MIRASELVA.kml</name>
+	<Placemark>
+		<name>MIRASELVA</name>
+		<description>MIRASELVA / PR</description>
+		<LineString>
+			<coordinates>
+				-51.45586452722608,-22.97753648372168 -51.47107047752047,-23.04878782869531 -51.49207876372395,-23.066725654964955 -51.53186686916064,-22.9310100666612 -51.48091052659947,-22.91718626913098 -51.436950556123236,-22.916645977130088 -51.45586452722608,-22.97753648372168
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

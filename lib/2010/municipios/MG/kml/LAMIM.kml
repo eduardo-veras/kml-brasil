@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LAMIM.kml</name>
+	<Placemark>
+		<name>LAMIM</name>
+		<description>LAMIM / MG</description>
+		<LineString>
+			<coordinates>
+				-43.41104199968851,-20.750555996661888 -43.42512499981882,-20.823704996588276 -43.51182699971622,-20.832084997224797 -43.55274499988178,-20.77894099712927 -43.561584000101504,-20.754144996694208 -43.49726900016418,-20.734313996793446 -43.43635399963733,-20.71584299665693 -43.41104199968851,-20.750555996661888
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

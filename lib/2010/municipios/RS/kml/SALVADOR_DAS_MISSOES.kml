@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SALVADOR DAS MISSÕES.kml</name>
+	<Placemark>
+		<name>SALVADOR DAS MISSÕES</name>
+		<description>SALVADOR DAS MISSÕES / RS</description>
+		<LineString>
+			<coordinates>
+				-54.8078002743631,-28.047268508534785 -54.79491937373007,-28.176310995056326 -54.855776759190064,-28.161645638035736 -54.8663781185553,-28.045716876732456 -54.866368934678576,-28.010155229680038 -54.8078002743631,-28.047268508534785
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

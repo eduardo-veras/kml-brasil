@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DORES DE CAMPOS.kml</name>
+	<Placemark>
+		<name>DORES DE CAMPOS</name>
+		<description>DORES DE CAMPOS / MG</description>
+		<LineString>
+			<coordinates>
+				-43.9637969997317,-21.041913996833443 -43.92960000013983,-21.06299299672935 -43.94122600027964,-21.121636996849873 -44.013386999610304,-21.160833996791496 -44.04472000022781,-21.157592996619428 -44.02497899998082,-21.045102996406115 -43.9637969997317,-21.041913996833443
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

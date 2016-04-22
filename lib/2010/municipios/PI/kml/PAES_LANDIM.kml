@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PAES LANDIM.kml</name>
+	<Placemark>
+		<name>PAES LANDIM</name>
+		<description>PAES LANDIM / PI</description>
+		<LineString>
+			<coordinates>
+				-42.18921834195288,-7.722415403947707 -42.16094703737582,-7.746910571265801 -42.19861089467702,-7.796389189209663 -42.22544256182471,-7.906016102361207 -42.338211908552694,-7.948948887880817 -42.35761857683582,-7.811039225379886 -42.415812606566476,-7.7571529518472175 -42.355375945543415,-7.72397169513755 -42.18921834195288,-7.722415403947707
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

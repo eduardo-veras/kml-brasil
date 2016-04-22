@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MIRAGUAÍ.kml</name>
+	<Placemark>
+		<name>MIRAGUAÍ</name>
+		<description>MIRAGUAÍ / RS</description>
+		<LineString>
+			<coordinates>
+				-53.70119041510554,-27.44787594062211 -53.67425887644595,-27.523398020302352 -53.68078748145706,-27.548914098007174 -53.762261606288064,-27.53031865058523 -53.81098234665791,-27.4984889436098 -53.82826682175636,-27.489109810569232 -53.826375363132456,-27.43885442209387 -53.70119041510554,-27.44787594062211
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

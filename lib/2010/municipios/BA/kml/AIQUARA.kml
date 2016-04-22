@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>AIQUARA.kml</name>
+	<Placemark>
+		<name>AIQUARA</name>
+		<description>AIQUARA / BA</description>
+		<LineString>
+			<coordinates>
+				-39.80007346781622,-14.059587919346939 -39.81203666695859,-14.102100259219526 -39.85988008359891,-14.14570657399912 -39.93604518483738,-14.173534323949866 -39.93717138784922,-14.078660072204514 -39.90042467176113,-14.027322732757852 -39.84318930134515,-14.017994942012933 -39.80007346781622,-14.059587919346939
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

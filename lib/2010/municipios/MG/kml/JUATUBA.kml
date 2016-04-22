@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JUATUBA.kml</name>
+	<Placemark>
+		<name>JUATUBA</name>
+		<description>JUATUBA / MG</description>
+		<LineString>
+			<coordinates>
+				-44.31526600022568,-19.937913996233874 -44.27031800037537,-20.003917996718144 -44.34360200023207,-20.00458399595459 -44.43867400030484,-19.9311879963289 -44.35461299988998,-19.90520399596761 -44.31526600022568,-19.937913996233874
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

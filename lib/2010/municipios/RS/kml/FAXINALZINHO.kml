@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FAXINALZINHO.kml</name>
+	<Placemark>
+		<name>FAXINALZINHO</name>
+		<description>FAXINALZINHO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.618425210255225,-27.432243769234503 -52.72630594576276,-27.431591052085366 -52.72852073854119,-27.336225269580495 -52.684901913292606,-27.29596073659866 -52.61272974797947,-27.37004449815504 -52.618425210255225,-27.432243769234503
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

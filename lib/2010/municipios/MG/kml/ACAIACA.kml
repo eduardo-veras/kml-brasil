@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ACAIACA.kml</name>
+	<Placemark>
+		<name>ACAIACA</name>
+		<description>ACAIACA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.02386900025414,-20.410217996863025 -43.036234000298805,-20.448892997014184 -43.05251300007484,-20.455835997033603 -43.12479799972789,-20.4487329968303 -43.168372000067734,-20.400054996740664 -43.132889999673694,-20.340656996922803 -43.02386900025414,-20.410217996863025
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

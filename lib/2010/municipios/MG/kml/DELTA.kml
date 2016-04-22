@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DELTA.kml</name>
+	<Placemark>
+		<name>DELTA</name>
+		<description>DELTA / MG</description>
+		<LineString>
+			<coordinates>
+				-47.757479000255614,-19.903246996551616 -47.76258368618812,-19.9860213935724 -47.85088970609502,-19.989837273671185 -47.841729000393,-19.86693699664505 -47.79731700007943,-19.904748996568912 -47.757479000255614,-19.903246996551616
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

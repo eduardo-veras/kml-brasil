@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CHÃ DE ALEGRIA.kml</name>
+	<Placemark>
+		<name>CHÃ DE ALEGRIA</name>
+		<description>CHÃ DE ALEGRIA / PE</description>
+		<LineString>
+			<coordinates>
+				-35.166497828911645,-7.978135745468251 -35.2236305579039,-8.020846095370985 -35.260715728448076,-8.057826719727302 -35.25493417946876,-7.99923771314991 -35.23011230463908,-7.9561737821942415 -35.166497828911645,-7.978135745468251
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

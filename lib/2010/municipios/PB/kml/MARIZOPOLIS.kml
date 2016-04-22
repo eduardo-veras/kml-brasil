@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MARIZÓPOLIS.kml</name>
+	<Placemark>
+		<name>MARIZÓPOLIS</name>
+		<description>MARIZÓPOLIS / PB</description>
+		<LineString>
+			<coordinates>
+				-38.349189395773976,-6.881038082041812 -38.36423429547631,-6.856421943317969 -38.363448535321595,-6.8245686875948195 -38.35127450901132,-6.795775960592039 -38.35373329505546,-6.7719264795233585 -38.29044048883742,-6.767399868808866 -38.31835440463203,-6.828766659053997 -38.32480912044451,-6.875467306271105 -38.349189395773976,-6.881038082041812
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

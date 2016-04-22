@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LAGOA DE ITAENGA.kml</name>
+	<Placemark>
+		<name>LAGOA DE ITAENGA</name>
+		<description>LAGOA DE ITAENGA / PE</description>
+		<LineString>
+			<coordinates>
+				-35.24136502047929,-7.888304347667486 -35.25445913148371,-7.946444800287281 -35.304459397583116,-7.941645899138905 -35.35542857167121,-7.890627427813513 -35.33653216612652,-7.895329176999894 -35.289442215885515,-7.8743856266952434 -35.24136502047929,-7.888304347667486
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

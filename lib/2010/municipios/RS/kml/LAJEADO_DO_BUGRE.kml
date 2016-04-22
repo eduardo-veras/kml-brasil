@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LAJEADO DO BUGRE.kml</name>
+	<Placemark>
+		<name>LAJEADO DO BUGRE</name>
+		<description>LAJEADO DO BUGRE / RS</description>
+		<LineString>
+			<coordinates>
+				-53.1550712309525,-27.661913763809082 -53.151920092838,-27.699193301229798 -53.19749251356859,-27.732888991733546 -53.256800378834384,-27.72684775272154 -53.25922680187534,-27.712199185144243 -53.21991842539495,-27.65270717559565 -53.1550712309525,-27.661913763809082
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SALGADINHO.kml</name>
+	<Placemark>
+		<name>SALGADINHO</name>
+		<description>SALGADINHO / PE</description>
+		<LineString>
+			<coordinates>
+				-35.52071930615102,-7.90432122294601 -35.51400274013429,-7.938583507023168 -35.579583818238575,-7.9464664325797685 -35.60085923816325,-7.935590585736918 -35.654179337206585,-7.944311728003811 -35.68106176658722,-7.909998940698529 -35.61585963851144,-7.879549207429932 -35.52071930615102,-7.90432122294601
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ÁGUAS DE SÃO PEDRO.kml</name>
+	<Placemark>
+		<name>ÁGUAS DE SÃO PEDRO</name>
+		<description>ÁGUAS DE SÃO PEDRO / SP</description>
+		<LineString>
+			<coordinates>
+				-47.86297299980407,-22.601468999994324 -47.86400899991537,-22.610192000260554 -47.881076000057305,-22.60181599980848 -47.88772600005484,-22.603617000124416 -47.88751600026313,-22.593261000095026 -47.88348499963297,-22.587937000092438 -47.874170999991634,-22.591824000377244 -47.86297299980407,-22.601468999994324
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

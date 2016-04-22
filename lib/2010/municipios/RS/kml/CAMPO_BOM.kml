@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAMPO BOM.kml</name>
+	<Placemark>
+		<name>CAMPO BOM</name>
+		<description>CAMPO BOM / RS</description>
+		<LineString>
+			<coordinates>
+				-51.057010586269485,-29.615609418639735 -51.007840499639315,-29.652495946930344 -50.99616104469641,-29.706315395439105 -51.08053694812162,-29.71552483450347 -51.09482583724258,-29.642238255391135 -51.057010586269485,-29.615609418639735
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

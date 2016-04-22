@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ANGICO.kml</name>
+	<Placemark>
+		<name>ANGICO</name>
+		<description>ANGICO / TO</description>
+		<LineString>
+			<coordinates>
+				-47.825238564608014,-6.429565320782899 -47.858924379656344,-6.540174956409089 -48.01380643721728,-6.569538684562588 -48.017237572955594,-6.490293341464508 -47.977737344103105,-6.415796325240194 -47.94509682725675,-6.276695142866515 -47.801378664893434,-6.373085047237112 -47.825238564608014,-6.429565320782899
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

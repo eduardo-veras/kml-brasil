@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VERMELHO NOVO.kml</name>
+	<Placemark>
+		<name>VERMELHO NOVO</name>
+		<description>VERMELHO NOVO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.197395999625655,-20.00354799674261 -42.20994199992333,-20.08938799735813 -42.247775999962414,-20.083765997103058 -42.32399700036126,-20.05299899740578 -42.31083799967388,-20.007718996634367 -42.24999799990775,-19.983118997143947 -42.197395999625655,-20.00354799674261
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

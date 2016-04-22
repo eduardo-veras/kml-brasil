@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CATAS ALTAS DA NORUEGA.kml</name>
+	<Placemark>
+		<name>CATAS ALTAS DA NORUEGA</name>
+		<description>CATAS ALTAS DA NORUEGA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.45852000019784,-20.632282996862784 -43.43635399963733,-20.71584299665693 -43.49726900016418,-20.734313996793446 -43.534775000365926,-20.72014599723991 -43.564681999974255,-20.60578599712602 -43.53348800037088,-20.595221996497912 -43.45852000019784,-20.632282996862784
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

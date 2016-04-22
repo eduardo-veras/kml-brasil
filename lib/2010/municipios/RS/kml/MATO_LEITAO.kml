@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MATO LEITÃO.kml</name>
+	<Placemark>
+		<name>MATO LEITÃO</name>
+		<description>MATO LEITÃO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.1421352767216,-29.484517696434523 -52.10642406701703,-29.497081336934116 -52.101052855305,-29.550248919951628 -52.147291025260586,-29.564754923400926 -52.16695875414314,-29.544425623543646 -52.15601434658481,-29.47697938748871 -52.1421352767216,-29.484517696434523
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VIEIRAS.kml</name>
+	<Placemark>
+		<name>VIEIRAS</name>
+		<description>VIEIRAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.209952000384476,-20.822286996847367 -42.209842999854516,-20.85439499723128 -42.259794000192926,-20.90552499708093 -42.29865700002051,-21.00014299690173 -42.34806200036098,-20.95878799726819 -42.32286500031944,-20.903763996810937 -42.259849000031295,-20.842125997117023 -42.209952000384476,-20.822286996847367
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

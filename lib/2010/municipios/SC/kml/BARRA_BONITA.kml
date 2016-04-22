@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BARRA BONITA.kml</name>
+	<Placemark>
+		<name>BARRA BONITA</name>
+		<description>BARRA BONITA / SC</description>
+		<LineString>
+			<coordinates>
+				-53.39029999984507,-26.619852998916713 -53.39436228249332,-26.74372084034445 -53.41928105837411,-26.733234453007583 -53.49419523772002,-26.65973039354276 -53.42867430987144,-26.626286949383143 -53.42685601379395,-26.604533135096062 -53.39029999984507,-26.619852998916713
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

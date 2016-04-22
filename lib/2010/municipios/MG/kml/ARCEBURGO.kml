@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ARCEBURGO.kml</name>
+	<Placemark>
+		<name>ARCEBURGO</name>
+		<description>ARCEBURGO / MG</description>
+		<LineString>
+			<coordinates>
+				-46.8784830002902,-21.29094699670651 -46.88464729713502,-21.40719523767001 -46.932901422462635,-21.424979162058662 -47.012970415052564,-21.419107018074385 -46.99665456915301,-21.35725194362226 -46.96728900008725,-21.281940996879484 -46.8784830002902,-21.29094699670651
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

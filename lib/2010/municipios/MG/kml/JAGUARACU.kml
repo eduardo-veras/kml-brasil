@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JAGUARAÇU.kml</name>
+	<Placemark>
+		<name>JAGUARAÇU</name>
+		<description>JAGUARAÇU / MG</description>
+		<LineString>
+			<coordinates>
+				-42.63783999961623,-19.59182999675687 -42.62495099968885,-19.641695996772796 -42.66163199961704,-19.67613099654818 -42.79729700015639,-19.712949996545035 -42.80008999945386,-19.711534996942532 -42.783469000094215,-19.62051699676192 -42.688960949588136,-19.540734395076242 -42.63783999961623,-19.59182999675687
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

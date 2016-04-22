@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JOÃO MONLEVADE.kml</name>
+	<Placemark>
+		<name>JOÃO MONLEVADE</name>
+		<description>JOÃO MONLEVADE / MG</description>
+		<LineString>
+			<coordinates>
+				-43.19572699980114,-19.789016997036754 -43.09824199996831,-19.822538996977073 -43.08942299977156,-19.85808299663296 -43.14536700038673,-19.895550996880957 -43.19309199969598,-19.867775996664875 -43.222993999973085,-19.78338199708145 -43.19572699980114,-19.789016997036754
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

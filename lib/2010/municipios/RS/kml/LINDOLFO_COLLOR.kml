@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LINDOLFO COLLOR.kml</name>
+	<Placemark>
+		<name>LINDOLFO COLLOR</name>
+		<description>LINDOLFO COLLOR / RS</description>
+		<LineString>
+			<coordinates>
+				-51.22382339813129,-29.547638349030535 -51.20436146201183,-29.558326657549173 -51.19644105720897,-29.61645633359285 -51.231434035052644,-29.616164541360433 -51.24482323520408,-29.583914524535658 -51.22382339813129,-29.547638349030535
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

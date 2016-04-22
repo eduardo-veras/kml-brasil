@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MACHADOS.kml</name>
+	<Placemark>
+		<name>MACHADOS</name>
+		<description>MACHADOS / PE</description>
+		<LineString>
+			<coordinates>
+				-35.445672623392795,-7.692718492264532 -35.48435809075323,-7.729947616389325 -35.52630739387109,-7.748973722159519 -35.54833594474803,-7.716848276726523 -35.521141325611666,-7.695998592261162 -35.5146552693252,-7.656756627116579 -35.445672623392795,-7.692718492264532
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

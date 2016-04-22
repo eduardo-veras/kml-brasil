@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MADRE DE DEUS.kml</name>
+	<Placemark>
+		<name>MADRE DE DEUS</name>
+		<description>MADRE DE DEUS / BA</description>
+		<LineString>
+			<coordinates>
+				-38.587934263855175,-12.733882086389144 -38.58790181541639,-12.753955371742961 -38.69522054479228,-12.754111720679305 -38.687208485583085,-12.726538059783593 -38.587934263855175,-12.733882086389144
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PASSO DE TORRES.kml</name>
+	<Placemark>
+		<name>PASSO DE TORRES</name>
+		<description>PASSO DE TORRES / SC</description>
+		<LineString>
+			<coordinates>
+				-49.64597717920344,-29.238847973954762 -49.70863634469151,-29.31787330151161 -49.79179738004501,-29.285641081370784 -49.77823990504754,-29.23744656940363 -49.74147199733477,-29.252073031645068 -49.711886788644335,-29.20595345528767 -49.660930960495364,-29.240632007660963 -49.64597717920344,-29.238847973954762
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

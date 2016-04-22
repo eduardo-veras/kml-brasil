@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO PEDRO DO BUTIÁ.kml</name>
+	<Placemark>
+		<name>SÃO PEDRO DO BUTIÁ</name>
+		<description>SÃO PEDRO DO BUTIÁ / RS</description>
+		<LineString>
+			<coordinates>
+				-54.8663781185553,-28.045716876732456 -54.855776759190064,-28.161645638035736 -54.94349959572969,-28.1822351962972 -54.92755686325859,-28.12912303490009 -54.92800783279523,-28.057554883051353 -54.8663781185553,-28.045716876732456
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SERRA DA RAIZ.kml</name>
+	<Placemark>
+		<name>SERRA DA RAIZ</name>
+		<description>SERRA DA RAIZ / PB</description>
+		<LineString>
+			<coordinates>
+				-35.47527388228377,-6.740712086893268 -35.49846851211208,-6.732464995263285 -35.466800523924974,-6.7051337825979545 -35.446735067169584,-6.6763573656998005 -35.422876122535,-6.667375250067664 -35.41610124177885,-6.674421744068184 -35.43400321297787,-6.707482295571424 -35.44200459453634,-6.723449489602217 -35.47527388228377,-6.740712086893268
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PERITIBA.kml</name>
+	<Placemark>
+		<name>PERITIBA</name>
+		<description>PERITIBA / SC</description>
+		<LineString>
+			<coordinates>
+				-51.82119799978784,-27.295962999292954 -51.8188070001429,-27.370801998913066 -51.83858400025139,-27.370868999304832 -51.882142191408946,-27.42572520155676 -51.91382400037725,-27.389679998932763 -51.93947857187857,-27.33547072939058 -51.90407995572531,-27.30119654188684 -51.853909912012796,-27.31704741220824 -51.82119799978784,-27.295962999292954
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

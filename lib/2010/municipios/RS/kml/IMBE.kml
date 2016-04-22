@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IMBÉ.kml</name>
+	<Placemark>
+		<name>IMBÉ</name>
+		<description>IMBÉ / RS</description>
+		<LineString>
+			<coordinates>
+				-50.075560656798814,-29.88447100643174 -50.11889461729271,-29.97611598066794 -50.15505329727182,-29.98664971910921 -50.12879510171251,-29.94035509691014 -50.14678491149442,-29.918914114494726 -50.10906136978633,-29.884516471657776 -50.075560656798814,-29.88447100643174
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

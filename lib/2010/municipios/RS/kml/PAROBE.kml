@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PAROBÉ.kml</name>
+	<Placemark>
+		<name>PAROBÉ</name>
+		<description>PAROBÉ / RS</description>
+		<LineString>
+			<coordinates>
+				-50.80585181480939,-29.61701884064695 -50.795632221249946,-29.672046105643233 -50.84096756989737,-29.724754325751462 -50.9317160819316,-29.67331447798074 -50.90620934818281,-29.63167278257282 -50.87957686468053,-29.63702257513171 -50.85550433465727,-29.58370061988768 -50.80585181480939,-29.61701884064695
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

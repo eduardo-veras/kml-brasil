@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PINHEIRO PRETO.kml</name>
+	<Placemark>
+		<name>PINHEIRO PRETO</name>
+		<description>PINHEIRO PRETO / SC</description>
+		<LineString>
+			<coordinates>
+				-51.19628586120348,-27.02891003177251 -51.17702682113082,-27.03942408495351 -51.160201208918636,-27.08699347816645 -51.21339399993309,-27.068419999383423 -51.29897166291187,-27.057512293157743 -51.316884947582196,-27.01864885446105 -51.250716692221545,-27.03392564705092 -51.19628586120348,-27.02891003177251
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

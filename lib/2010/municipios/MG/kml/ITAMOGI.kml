@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ITAMOGI.kml</name>
+	<Placemark>
+		<name>ITAMOGI</name>
+		<description>ITAMOGI / MG</description>
+		<LineString>
+			<coordinates>
+				-46.935419999933,-21.061882996802808 -46.982616000028315,-21.126507996646694 -47.117603257084625,-21.153152203711215 -47.14786148242143,-21.03546092767965 -47.108093000191786,-21.014750996960913 -47.019314999887285,-21.013665997287887 -46.935419999933,-21.061882996802808
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

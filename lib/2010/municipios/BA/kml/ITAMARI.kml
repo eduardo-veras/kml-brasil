@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ITAMARI.kml</name>
+	<Placemark>
+		<name>ITAMARI</name>
+		<description>ITAMARI / BA</description>
+		<LineString>
+			<coordinates>
+				-39.5978401026386,-13.719367260390698 -39.68003801804008,-13.871453241174095 -39.70186251184538,-13.785404594246586 -39.740591470419986,-13.775794101616441 -39.71361463111032,-13.73511730771753 -39.64379771199475,-13.69121987789498 -39.5978401026386,-13.719367260390698
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

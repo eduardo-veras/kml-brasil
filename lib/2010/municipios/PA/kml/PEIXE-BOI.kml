@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PEIXE-BOI.kml</name>
+	<Placemark>
+		<name>PEIXE-BOI</name>
+		<description>PEIXE-BOI / PA</description>
+		<LineString>
+			<coordinates>
+				-47.21168686895379,-1.000854051673116 -47.19552300038612,-1.179653040355504 -47.205480676292154,-1.224860008082885 -47.29605858423622,-1.2795713466402958 -47.34297822356615,-1.2870511690761646 -47.345228608813215,-1.1072567612904436 -47.29439534746729,-0.969003926489961 -47.22469879091642,-0.9637545612239933 -47.21168686895379,-1.000854051673116
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

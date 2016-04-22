@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>HELIÓPOLIS.kml</name>
+	<Placemark>
+		<name>HELIÓPOLIS</name>
+		<description>HELIÓPOLIS / BA</description>
+		<LineString>
+			<coordinates>
+				-38.24628548868429,-10.709531174324184 -38.19898791196255,-10.710983672958093 -38.23640224157015,-10.796991905252185 -38.37714872193595,-10.876100036087735 -38.38907494275435,-10.633778592108285 -38.30025514286052,-10.651524049795 -38.24628548868429,-10.709531174324184
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

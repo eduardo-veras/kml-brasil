@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MARIPÁ DE MINAS.kml</name>
+	<Placemark>
+		<name>MARIPÁ DE MINAS</name>
+		<description>MARIPÁ DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.91330199968752,-21.663963997140684 -42.89933699960278,-21.69277299647655 -42.960752999851024,-21.733212996182772 -43.020122000130186,-21.698613996039057 -43.02910899998034,-21.675736996864885 -42.98130599977202,-21.649832996595478 -42.91330199968752,-21.663963997140684
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

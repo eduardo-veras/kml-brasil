@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IBICARAÍ.kml</name>
+	<Placemark>
+		<name>IBICARAÍ</name>
+		<description>IBICARAÍ / BA</description>
+		<LineString>
+			<coordinates>
+				-39.583579757999416,-14.784411977230945 -39.55365917682951,-14.778366719148721 -39.55351067357867,-14.797542768883659 -39.47693668208217,-14.851183458249977 -39.49571413160186,-14.90880676202238 -39.603151345757965,-14.903980547564174 -39.63825524058683,-14.91732072836885 -39.657627386594584,-14.769686723563382 -39.583579757999416,-14.784411977230945
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

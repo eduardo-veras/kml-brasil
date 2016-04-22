@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>OLARIA.kml</name>
+	<Placemark>
+		<name>OLARIA</name>
+		<description>OLARIA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.8676430001243,-21.962183996294357 -43.976926999981,-21.95666199705346 -44.08691099974283,-21.88519299635965 -44.0182439996608,-21.854188996524897 -43.93345499984832,-21.84433199702397 -43.91513400033381,-21.889801996664744 -43.86483500013509,-21.928792996999164 -43.8676430001243,-21.962183996294357
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

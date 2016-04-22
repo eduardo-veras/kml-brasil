@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CRUCILÂNDIA.kml</name>
+	<Placemark>
+		<name>CRUCILÂNDIA</name>
+		<description>CRUCILÂNDIA / MG</description>
+		<LineString>
+			<coordinates>
+				-44.328213000129836,-20.33060899670778 -44.32048800002116,-20.386020997071284 -44.277471000186495,-20.423868996856697 -44.34776499975487,-20.497258997105007 -44.406978000034655,-20.426561996938574 -44.43749800003263,-20.346143997247623 -44.328213000129836,-20.33060899670778
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

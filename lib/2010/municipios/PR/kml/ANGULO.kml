@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ÂNGULO.kml</name>
+	<Placemark>
+		<name>ÂNGULO</name>
+		<description>ÂNGULO / PR</description>
+		<LineString>
+			<coordinates>
+				-51.86571314154821,-23.13285324298272 -51.8650022445579,-23.21509553003466 -51.91295030451289,-23.220430247258037 -51.93937449603612,-23.263947611892718 -51.96571807502909,-23.25386460107046 -51.96253882860401,-23.161619313180722 -51.91452874240747,-23.13691678288319 -51.86571314154821,-23.13285324298272
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

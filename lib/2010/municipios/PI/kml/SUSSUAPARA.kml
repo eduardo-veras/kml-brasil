@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SUSSUAPARA.kml</name>
+	<Placemark>
+		<name>SUSSUAPARA</name>
+		<description>SUSSUAPARA / PI</description>
+		<LineString>
+			<coordinates>
+				-41.31727201689,-7.00699951551519 -41.23329947019437,-7.1101397986127495 -41.33325383389729,-7.09924839080054 -41.43902782567358,-6.9994685909027226 -41.44200050771724,-6.912158599839472 -41.419798792380334,-6.899231253719336 -41.35442603053684,-6.98204673177122 -41.31727201689,-7.00699951551519
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RIBEIRÃO VERMELHO.kml</name>
+	<Placemark>
+		<name>RIBEIRÃO VERMELHO</name>
+		<description>RIBEIRÃO VERMELHO / MG</description>
+		<LineString>
+			<coordinates>
+				-45.04469099958993,-21.1452749969435 -45.05156600007081,-21.18394099667961 -45.12883700032728,-21.16869299678433 -45.102602000082186,-21.128974997098396 -45.04469099958993,-21.1452749969435
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

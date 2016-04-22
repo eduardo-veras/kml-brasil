@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CERRO BRANCO.kml</name>
+	<Placemark>
+		<name>CERRO BRANCO</name>
+		<description>CERRO BRANCO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.979734607865794,-29.55740517440921 -52.944040432220106,-29.646231431435353 -52.9279634102831,-29.720730007983434 -53.041728570916746,-29.676352256551354 -53.05817580776727,-29.570095021268173 -53.02918969235037,-29.553200325834325 -52.979734607865794,-29.55740517440921
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

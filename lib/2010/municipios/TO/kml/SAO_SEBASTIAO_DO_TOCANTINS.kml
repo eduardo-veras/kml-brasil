@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO SEBASTIÃO DO TOCANTINS.kml</name>
+	<Placemark>
+		<name>SÃO SEBASTIÃO DO TOCANTINS</name>
+		<description>SÃO SEBASTIÃO DO TOCANTINS / TO</description>
+		<LineString>
+			<coordinates>
+				-48.17854420195334,-5.260776074456203 -48.25062751514764,-5.31881277498951 -48.35338054117898,-5.275345924374847 -48.40773784902245,-5.284977656293734 -48.48632216703436,-5.193819751280444 -48.363909815385625,-5.168380515248543 -48.32868789443074,-5.196594200262098 -48.17854420195334,-5.260776074456203
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

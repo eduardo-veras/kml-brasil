@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TREZE DE MAIO.kml</name>
+	<Placemark>
+		<name>TREZE DE MAIO</name>
+		<description>TREZE DE MAIO / SC</description>
+		<LineString>
+			<coordinates>
+				-49.03005288673131,-28.54988763550591 -49.103265709744676,-28.59294965090561 -49.181352186454205,-28.641287775610294 -49.242888724634895,-28.589525498402963 -49.18424499970695,-28.49891799916628 -49.14331514377881,-28.4987798183339 -49.07398080716848,-28.543935017487 -49.03005288673131,-28.54988763550591
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

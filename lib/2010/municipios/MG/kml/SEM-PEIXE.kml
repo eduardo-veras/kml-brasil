@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SEM-PEIXE.kml</name>
+	<Placemark>
+		<name>SEM-PEIXE</name>
+		<description>SEM-PEIXE / MG</description>
+		<LineString>
+			<coordinates>
+				-42.75503099988072,-20.020246997001266 -42.77723000016431,-20.06953299724995 -42.761534000293864,-20.12281699660707 -42.810965000034685,-20.145589997280524 -42.869708000223966,-20.144746997076197 -42.895691999685994,-20.118808997037547 -42.87374200009316,-20.03659799739961 -42.83843999990603,-20.014155996701845 -42.75503099988072,-20.020246997001266
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

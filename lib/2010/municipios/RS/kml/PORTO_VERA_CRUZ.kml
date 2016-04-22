@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PORTO VERA CRUZ.kml</name>
+	<Placemark>
+		<name>PORTO VERA CRUZ</name>
+		<description>PORTO VERA CRUZ / RS</description>
+		<LineString>
+			<coordinates>
+				-54.82236129293926,-27.739651043660672 -54.85247887330132,-27.78332712065003 -54.941252948964404,-27.806837779439945 -54.998600294867686,-27.791235613932372 -54.93643997882191,-27.7726849230707 -54.902256826091616,-27.698986306972472 -54.83598554529664,-27.692955774389418 -54.82236129293926,-27.739651043660672
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

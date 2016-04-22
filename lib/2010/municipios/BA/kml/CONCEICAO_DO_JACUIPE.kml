@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CONCEIÇÃO DO JACUÍPE.kml</name>
+	<Placemark>
+		<name>CONCEIÇÃO DO JACUÍPE</name>
+		<description>CONCEIÇÃO DO JACUÍPE / BA</description>
+		<LineString>
+			<coordinates>
+				-38.68975274679178,-12.303373751397487 -38.64250699799953,-12.361566816155573 -38.63987002208381,-12.373610234824412 -38.79518951528388,-12.369500538119269 -38.83354878864566,-12.368256489745136 -38.8114557968475,-12.337481558926754 -38.76294026018479,-12.291510012776826 -38.68975274679178,-12.303373751397487
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

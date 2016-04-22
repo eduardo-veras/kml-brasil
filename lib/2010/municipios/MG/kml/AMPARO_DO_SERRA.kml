@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>AMPARO DO SERRA.kml</name>
+	<Placemark>
+		<name>AMPARO DO SERRA</name>
+		<description>AMPARO DO SERRA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.757399000263604,-20.455736996964788 -42.724372001566564,-20.5202169955179 -42.779323999602866,-20.561654996280993 -42.8012170001644,-20.605986996502622 -42.869698999808975,-20.5605489965389 -42.8405639998287,-20.487678996888178 -42.757399000263604,-20.455736996964788
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

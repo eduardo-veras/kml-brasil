@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FERREIROS.kml</name>
+	<Placemark>
+		<name>FERREIROS</name>
+		<description>FERREIROS / PE</description>
+		<LineString>
+			<coordinates>
+				-35.15835332204813,-7.502839480057901 -35.20870133889565,-7.522434226258497 -35.23229599976054,-7.505116000502994 -35.305236354274314,-7.494955615609115 -35.31448811633345,-7.475889428854032 -35.26029346527116,-7.420342585042192 -35.23714352635261,-7.440601433809093 -35.15835332204813,-7.502839480057901
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

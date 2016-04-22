@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BALNEÁRIO RINCÃO.kml</name>
+	<Placemark>
+		<name>BALNEÁRIO RINCÃO</name>
+		<description>BALNEÁRIO RINCÃO / SC</description>
+		<LineString>
+			<coordinates>
+				-49.204737318772175,-28.77650664856293 -49.18541320285698,-28.801486158359467 -49.29056100028987,-28.882431998937534 -49.33011626855091,-28.86437802342698 -49.245921015542365,-28.79303703583048 -49.204737318772175,-28.77650664856293
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

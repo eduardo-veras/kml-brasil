@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ESTÂNCIA VELHA.kml</name>
+	<Placemark>
+		<name>ESTÂNCIA VELHA</name>
+		<description>ESTÂNCIA VELHA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.13460169211436,-29.638074043582208 -51.17727362927451,-29.67241285187157 -51.19392717779698,-29.68070021874007 -51.22556479048268,-29.66639484594532 -51.231434035052644,-29.616164541360433 -51.19644105720897,-29.61645633359285 -51.13460169211436,-29.638074043582208
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

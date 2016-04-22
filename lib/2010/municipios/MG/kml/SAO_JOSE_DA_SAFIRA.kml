@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DA SAFIRA.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DA SAFIRA</name>
+		<description>SÃO JOSÉ DA SAFIRA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.06606400015346,-18.261420996381844 -42.08209800032239,-18.347545997549673 -42.05306499964996,-18.41826699702426 -42.099999000253604,-18.427831996549344 -42.12402500025354,-18.39389699734852 -42.16773799980882,-18.358374996908537 -42.20857900002079,-18.24397999697925 -42.14939700027128,-18.226901997229334 -42.06606400015346,-18.261420996381844
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO BRÁS DO SUAÇUÍ.kml</name>
+	<Placemark>
+		<name>SÃO BRÁS DO SUAÇUÍ</name>
+		<description>SÃO BRÁS DO SUAÇUÍ / MG</description>
+		<LineString>
+			<coordinates>
+				-43.91501500024202,-20.584068996586893 -43.90953800037835,-20.603642997226473 -43.923923000046386,-20.658832997244986 -43.944683999666836,-20.676291996578357 -43.981473000078836,-20.686872996191767 -44.043036999957565,-20.625535995989367 -44.00572999993949,-20.56558399670405 -43.9653245162134,-20.597100492293862 -43.91501500024202,-20.584068996586893
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

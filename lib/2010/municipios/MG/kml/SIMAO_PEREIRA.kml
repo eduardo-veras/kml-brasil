@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SIMÃO PEREIRA.kml</name>
+	<Placemark>
+		<name>SIMÃO PEREIRA</name>
+		<description>SIMÃO PEREIRA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.254272999899,-21.930204996463374 -43.22100299988847,-21.983485996581408 -43.22769134248142,-22.02875095349367 -43.3266497582797,-22.007825202570984 -43.37222900036801,-21.952598996746246 -43.345774480108105,-21.916088005556958 -43.26817499977636,-21.901224996436383 -43.254272999899,-21.930204996463374
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

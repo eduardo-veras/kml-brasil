@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>AGUIARNÓPOLIS.kml</name>
+	<Placemark>
+		<name>AGUIARNÓPOLIS</name>
+		<description>AGUIARNÓPOLIS / TO</description>
+		<LineString>
+			<coordinates>
+				-47.57648308832381,-6.414729724796928 -47.46981205428284,-6.451140641227539 -47.43189905150001,-6.4254683234043455 -47.41634248971411,-6.483876584236953 -47.464407485816764,-6.585556257715098 -47.635062781522095,-6.450059384532949 -47.58435538749109,-6.415723724770032 -47.57648308832381,-6.414729724796928
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

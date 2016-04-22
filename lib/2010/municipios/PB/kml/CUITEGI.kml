@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CUITEGI.kml</name>
+	<Placemark>
+		<name>CUITEGI</name>
+		<description>CUITEGI / PB</description>
+		<LineString>
+			<coordinates>
+				-35.4726911768563,-6.9234719479719615 -35.53443191689939,-6.92894720135223 -35.563775002913985,-6.908008408461228 -35.56540977793884,-6.8864520628123955 -35.53091442915752,-6.880369162706643 -35.504207874793565,-6.875658975181523 -35.48252931397661,-6.901620829737453 -35.4726911768563,-6.9234719479719615
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

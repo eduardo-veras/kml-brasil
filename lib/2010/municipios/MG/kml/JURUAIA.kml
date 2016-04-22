@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JURUAIA.kml</name>
+	<Placemark>
+		<name>JURUAIA</name>
+		<description>JURUAIA / MG</description>
+		<LineString>
+			<coordinates>
+				-46.415481999694464,-21.195048997213405 -46.411468999894396,-21.24718799682853 -46.49394800020002,-21.236989996890827 -46.572141999853386,-21.307288996689806 -46.61208900020716,-21.291883996748993 -46.61799700016138,-21.193141996505915 -46.57085499985834,-21.196687997253207 -46.55059199982088,-21.15060299713059 -46.415481999694464,-21.195048997213405
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

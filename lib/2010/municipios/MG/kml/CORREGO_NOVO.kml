@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CÓRREGO NOVO.kml</name>
+	<Placemark>
+		<name>CÓRREGO NOVO</name>
+		<description>CÓRREGO NOVO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.36340200000228,-19.760208996847666 -42.33584800008509,-19.79630599682423 -42.370414999652496,-19.85978299678783 -42.43067100036632,-19.853087997413127 -42.459491000209425,-19.90048499688504 -42.550940999627414,-19.88553899742675 -42.47446400001354,-19.773546996796426 -42.36340200000228,-19.760208996847666
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

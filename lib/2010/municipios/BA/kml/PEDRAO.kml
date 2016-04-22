@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PEDRÃO.kml</name>
+	<Placemark>
+		<name>PEDRÃO</name>
+		<description>PEDRÃO / BA</description>
+		<LineString>
+			<coordinates>
+				-38.59324785780234,-12.195860181202363 -38.65815598131343,-12.192905275158296 -38.72885473695652,-12.173097770945333 -38.65663639325493,-12.05367990989987 -38.57662616506542,-12.094040789051121 -38.59324785780234,-12.195860181202363
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CARLOS GOMES.kml</name>
+	<Placemark>
+		<name>CARLOS GOMES</name>
+		<description>CARLOS GOMES / RS</description>
+		<LineString>
+			<coordinates>
+				-51.88102795567556,-27.719776153246812 -51.9247302290168,-27.75221773735865 -51.9629809461137,-27.749243693741448 -51.982150104343816,-27.720391061997873 -51.97347921439416,-27.673016622918794 -51.896401656511216,-27.652158391296666 -51.89277300626918,-27.679053330246973 -51.88102795567556,-27.719776153246812
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

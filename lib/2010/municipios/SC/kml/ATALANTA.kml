@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ATALANTA.kml</name>
+	<Placemark>
+		<name>ATALANTA</name>
+		<description>ATALANTA / SC</description>
+		<LineString>
+			<coordinates>
+				-49.69301500024204,-27.390126998861888 -49.67445200035951,-27.458727999497512 -49.74807399961537,-27.47595199878566 -49.762927000180866,-27.468148999576613 -49.80999799990775,-27.484709998867288 -49.808714000051,-27.454105999492242 -49.78322600007982,-27.415098999319298 -49.74999900025364,-27.39527699893432 -49.69301500024204,-27.390126998861888
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

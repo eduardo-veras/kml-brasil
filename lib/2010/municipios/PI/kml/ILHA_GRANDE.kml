@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ILHA GRANDE.kml</name>
+	<Placemark>
+		<name>ILHA GRANDE</name>
+		<description>ILHA GRANDE / PI</description>
+		<LineString>
+			<coordinates>
+				-41.83574231815339,-2.915851388730573 -41.86496314133586,-2.8780057082967687 -41.84640550231205,-2.825583996004582 -41.84904563394883,-2.773515917825307 -41.8141076343598,-2.739308919570931 -41.78492388752733,-2.769874311949877 -41.755811751910755,-2.84158311057206 -41.816436923425215,-2.886102758835193 -41.83574231815339,-2.915851388730573
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

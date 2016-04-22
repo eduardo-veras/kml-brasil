@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CACHOEIRINHA.kml</name>
+	<Placemark>
+		<name>CACHOEIRINHA</name>
+		<description>CACHOEIRINHA / TO</description>
+		<LineString>
+			<coordinates>
+				-47.69276870780959,-6.018553325475523 -47.765710216153536,-6.152950214480768 -47.88587031106596,-6.143422836294803 -47.972546027377234,-6.184578786281918 -47.99148869314865,-6.157437685800517 -47.95815086896738,-6.085995044235858 -47.89741684980771,-6.024395214467518 -47.69276870780959,-6.018553325475523
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

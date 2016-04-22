@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CERRO LARGO.kml</name>
+	<Placemark>
+		<name>CERRO LARGO</name>
+		<description>CERRO LARGO / RS</description>
+		<LineString>
+			<coordinates>
+				-54.73822249307358,-28.05906538795722 -54.69674958692383,-28.067807225423053 -54.69542914743715,-28.159945799758816 -54.639953437301244,-28.2017938572007 -54.706704758217995,-28.23137044049338 -54.7453719873273,-28.207109043847254 -54.79491937373007,-28.176310995056326 -54.8078002743631,-28.047268508534785 -54.73822249307358,-28.05906538795722
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

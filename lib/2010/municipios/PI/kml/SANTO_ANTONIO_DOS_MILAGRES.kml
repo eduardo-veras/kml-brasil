@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANTO ANTÔNIO DOS MILAGRES.kml</name>
+	<Placemark>
+		<name>SANTO ANTÔNIO DOS MILAGRES</name>
+		<description>SANTO ANTÔNIO DOS MILAGRES / PI</description>
+		<LineString>
+			<coordinates>
+				-42.651815707029186,-6.081364281236517 -42.7045981778636,-6.079966763555262 -42.736135853386884,-6.035821473382271 -42.68221789044327,-6.0317635542446055 -42.681043911846984,-6.07451034377732 -42.651815707029186,-6.081364281236517
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

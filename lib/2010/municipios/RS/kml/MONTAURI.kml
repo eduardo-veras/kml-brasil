@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MONTAURI.kml</name>
+	<Placemark>
+		<name>MONTAURI</name>
+		<description>MONTAURI / RS</description>
+		<LineString>
+			<coordinates>
+				-51.98691491669001,-28.70704090751184 -52.080777522864366,-28.712256857567866 -52.09975961761222,-28.669790324663722 -52.09298387620487,-28.615920809997363 -52.06407745331177,-28.61430168407543 -52.038883961525585,-28.644090800549975 -51.99898223304359,-28.65173548940129 -51.98691491669001,-28.70704090751184
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

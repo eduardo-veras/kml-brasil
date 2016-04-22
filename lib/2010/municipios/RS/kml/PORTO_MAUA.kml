@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PORTO MAUÁ.kml</name>
+	<Placemark>
+		<name>PORTO MAUÁ</name>
+		<description>PORTO MAUÁ / RS</description>
+		<LineString>
+			<coordinates>
+				-54.63205949235163,-27.545851957701643 -54.636784817265436,-27.576421531028814 -54.59323034660315,-27.59884937100162 -54.60481552381731,-27.62968457618223 -54.66739086439685,-27.645486187037875 -54.72333214546211,-27.56373802798754 -54.67131619378728,-27.56379694437345 -54.63205949235163,-27.545851957701643
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

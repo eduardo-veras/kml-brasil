@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SOLEDADE DE MINAS.kml</name>
+	<Placemark>
+		<name>SOLEDADE DE MINAS</name>
+		<description>SOLEDADE DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-44.93979999996998,-22.076897996545256 -45.00725217155042,-22.111717337784853 -45.07449105631713,-22.096542025593976 -45.12654900003628,-21.981988996794712 -45.07474200044294,-22.009564996827123 -44.99657900042047,-21.94876199606921 -44.97134200033298,-21.958693996330794 -44.93979999996998,-22.076897996545256
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

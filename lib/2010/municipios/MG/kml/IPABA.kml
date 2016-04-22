@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IPABA.kml</name>
+	<Placemark>
+		<name>IPABA</name>
+		<description>IPABA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.3866859999589,-19.3280329968253 -42.3289149996275,-19.410175996924693 -42.27838400042123,-19.44375899698008 -42.39499800015756,-19.449925997186995 -42.43207000013035,-19.439469997042693 -42.419150999718795,-19.33621799656322 -42.3866859999589,-19.3280329968253
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

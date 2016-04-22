@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GOIANÁ.kml</name>
+	<Placemark>
+		<name>GOIANÁ</name>
+		<description>GOIANÁ / MG</description>
+		<LineString>
+			<coordinates>
+				-43.235354999833305,-21.494851996522357 -43.13226100034484,-21.520857996099608 -43.12318199984935,-21.57100999671394 -43.16923699948791,-21.617617996673175 -43.226393000236726,-21.631353996090013 -43.21372599975507,-21.60998999654106 -43.26333499961049,-21.54490299607636 -43.235354999833305,-21.494851996522357
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

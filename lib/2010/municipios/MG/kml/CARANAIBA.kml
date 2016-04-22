@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CARANAÍBA.kml</name>
+	<Placemark>
+		<name>CARANAÍBA</name>
+		<description>CARANAÍBA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.619019000226615,-20.85716499636743 -43.67553100005557,-20.929321996412966 -43.70952099999414,-20.95094499621456 -43.820780000096875,-20.913363996151475 -43.79702600004981,-20.883854996910543 -43.73090899975051,-20.844971997059986 -43.656841999758456,-20.835736996565117 -43.619019000226615,-20.85716499636743
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

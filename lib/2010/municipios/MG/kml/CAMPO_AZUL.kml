@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAMPO AZUL.kml</name>
+	<Placemark>
+		<name>CAMPO AZUL</name>
+		<description>CAMPO AZUL / MG</description>
+		<LineString>
+			<coordinates>
+				-44.70420400011449,-16.381214997474103 -44.586839999966,-16.49533099712778 -44.677809999731664,-16.54552099769586 -44.81119899963409,-16.64913599782801 -44.799131999841904,-16.53087399763683 -44.89074000025079,-16.600106997739715 -44.972060000168824,-16.548615997430318 -44.92930699991808,-16.532785997675603 -44.70420400011449,-16.381214997474103
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

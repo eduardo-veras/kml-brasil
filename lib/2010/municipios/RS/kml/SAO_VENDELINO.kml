@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO VENDELINO.kml</name>
+	<Placemark>
+		<name>SÃO VENDELINO</name>
+		<description>SÃO VENDELINO / RS</description>
+		<LineString>
+			<coordinates>
+				-51.33204934380211,-29.409869935848803 -51.35813152135256,-29.398567295044586 -51.40115406910496,-29.41908033538914 -51.39716712266454,-29.351562809176244 -51.35448150231946,-29.35189961067846 -51.33204934380211,-29.409869935848803
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

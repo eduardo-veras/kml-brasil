@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MARACAJÁ.kml</name>
+	<Placemark>
+		<name>MARACAJÁ</name>
+		<description>MARACAJÁ / SC</description>
+		<LineString>
+			<coordinates>
+				-49.424935045615825,-28.814912126393494 -49.39825495560166,-28.833383488956827 -49.43273922293673,-28.909286839815763 -49.47312966550163,-28.884744385245142 -49.51347073168887,-28.891917279858546 -49.51684718235157,-28.85783903934015 -49.445878630994,-28.84100037976367 -49.424935045615825,-28.814912126393494
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

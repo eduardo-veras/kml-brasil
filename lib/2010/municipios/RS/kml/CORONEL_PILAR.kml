@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CORONEL PILAR.kml</name>
+	<Placemark>
+		<name>CORONEL PILAR</name>
+		<description>CORONEL PILAR / RS</description>
+		<LineString>
+			<coordinates>
+				-51.649940545020115,-29.294380855791815 -51.700925965360966,-29.304325450159354 -51.78002547619474,-29.298923594947894 -51.754784654887885,-29.260561760316932 -51.75000325724449,-29.20809638054351 -51.68332916740712,-29.21306561148873 -51.64675072256773,-29.25381503913269 -51.649940545020115,-29.294380855791815
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

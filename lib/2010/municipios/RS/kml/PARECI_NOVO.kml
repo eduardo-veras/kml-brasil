@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PARECI NOVO.kml</name>
+	<Placemark>
+		<name>PARECI NOVO</name>
+		<description>PARECI NOVO / RS</description>
+		<LineString>
+			<coordinates>
+				-51.386417377859686,-29.58361049342949 -51.39135876669371,-29.653248907910722 -51.42790331698444,-29.653793839514037 -51.46693894707471,-29.621830517564263 -51.45682291134824,-29.5648942364798 -51.424039319558915,-29.588302759264877 -51.386417377859686,-29.58361049342949
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

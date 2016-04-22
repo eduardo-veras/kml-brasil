@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CASA GRANDE.kml</name>
+	<Placemark>
+		<name>CASA GRANDE</name>
+		<description>CASA GRANDE / MG</description>
+		<LineString>
+			<coordinates>
+				-43.894180999953164,-20.80428299666295 -43.895601999832365,-20.886003996187412 -43.922468000397885,-20.92747199653536 -43.97467000022027,-20.880868996806726 -44.0023390000448,-20.80006199626405 -43.95665599957465,-20.759063996905866 -43.89823399979923,-20.767404996643222 -43.894180999953164,-20.80428299666295
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

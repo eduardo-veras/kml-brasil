@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>POUSO NOVO.kml</name>
+	<Placemark>
+		<name>POUSO NOVO</name>
+		<description>POUSO NOVO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.19493785100099,-29.117337647714237 -52.159363778015916,-29.214686936253088 -52.164965827710716,-29.226825785581468 -52.19636515602707,-29.19943860270928 -52.24902256354045,-29.19918687977065 -52.29236255848525,-29.163912920444886 -52.290455421080765,-29.129658493744444 -52.2121426362736,-29.094977787494827 -52.19493785100099,-29.117337647714237
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

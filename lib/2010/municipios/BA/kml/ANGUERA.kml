@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ANGUERA.kml</name>
+	<Placemark>
+		<name>ANGUERA</name>
+		<description>ANGUERA / BA</description>
+		<LineString>
+			<coordinates>
+				-39.28742711676796,-12.17674065205938 -39.225220493730774,-12.082946819739902 -39.17655292757553,-12.118021649379557 -39.186511221315754,-12.181543474251896 -39.07594558412137,-12.232240523381392 -39.14854281489892,-12.269269084300731 -39.19219940627755,-12.223569714370797 -39.28742711676796,-12.17674065205938
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

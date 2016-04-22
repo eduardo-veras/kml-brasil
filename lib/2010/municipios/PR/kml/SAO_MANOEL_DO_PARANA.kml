@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO MANOEL DO PARANÁ.kml</name>
+	<Placemark>
+		<name>SÃO MANOEL DO PARANÁ</name>
+		<description>SÃO MANOEL DO PARANÁ / PR</description>
+		<LineString>
+			<coordinates>
+				-52.616299512412525,-23.414808751122905 -52.65065400307975,-23.44026734326326 -52.66926477405002,-23.39802045807761 -52.637983397215976,-23.331679479824118 -52.600577619261685,-23.317139534162152 -52.57347583444215,-23.331954996126115 -52.53984599589597,-23.366595758987046 -52.616299512412525,-23.414808751122905
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

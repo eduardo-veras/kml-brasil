@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA BRÉSCIA.kml</name>
+	<Placemark>
+		<name>NOVA BRÉSCIA</name>
+		<description>NOVA BRÉSCIA / RS</description>
+		<LineString>
+			<coordinates>
+				-52.00174767801286,-29.166142146442837 -51.958152253123956,-29.20198607899431 -51.96458051897571,-29.2380050438976 -51.993587806232256,-29.233827196567802 -52.0366541006062,-29.267627033960423 -52.112236594043566,-29.270630347812244 -52.11343853615949,-29.23189438531756 -52.01692250726785,-29.16740569661556 -52.00174767801286,-29.166142146442837
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

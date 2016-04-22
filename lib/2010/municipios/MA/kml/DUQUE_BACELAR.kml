@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DUQUE BACELAR.kml</name>
+	<Placemark>
+		<name>DUQUE BACELAR</name>
+		<description>DUQUE BACELAR / MA</description>
+		<LineString>
+			<coordinates>
+				-42.94204757163806,-4.167086927020023 -43.02216461860223,-4.1812342268780185 -43.05984002859441,-4.118900012525501 -43.11808776134109,-4.1189386734809545 -43.180503135011634,-4.026604003771695 -43.000638956022954,-4.0506096575096535 -42.85576847073827,-4.077291210720773 -42.94204757163806,-4.167086927020023
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

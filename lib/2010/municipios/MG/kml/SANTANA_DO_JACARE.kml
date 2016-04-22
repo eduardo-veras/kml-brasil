@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANTANA DO JACARÉ.kml</name>
+	<Placemark>
+		<name>SANTANA DO JACARÉ</name>
+		<description>SANTANA DO JACARÉ / MG</description>
+		<LineString>
+			<coordinates>
+				-45.07543500002521,-20.940348996808723 -45.09238300007536,-20.950566996769453 -45.14235100029839,-20.926728996446002 -45.07052999955977,-20.83934599662041 -45.05648500028252,-20.816945996960158 -45.039179999957014,-20.8092729965515 -45.00531200024858,-20.896268996516937 -45.07543500002521,-20.940348996808723
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

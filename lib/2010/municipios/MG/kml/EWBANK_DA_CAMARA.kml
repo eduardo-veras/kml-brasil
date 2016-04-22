@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>EWBANK DA CÂMARA.kml</name>
+	<Placemark>
+		<name>EWBANK DA CÂMARA</name>
+		<description>EWBANK DA CÂMARA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.472855000257994,-21.53059199622362 -43.54173300017777,-21.62063699650014 -43.63949100000963,-21.607877996272464 -43.54535800007159,-21.520677996792074 -43.472855000257994,-21.53059199622362
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

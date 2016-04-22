@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PINTADAS.kml</name>
+	<Placemark>
+		<name>PINTADAS</name>
+		<description>PINTADAS / BA</description>
+		<LineString>
+			<coordinates>
+				-39.74844498095109,-11.883599875433845 -39.72455091239465,-11.906449278911055 -39.78075656626248,-11.906135197881042 -39.90486189975684,-12.028831094979012 -39.95991168017986,-11.974722132220563 -40.047211870431454,-11.872560872686051 -39.90982747855526,-11.729272978365202 -39.74844498095109,-11.883599875433845
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

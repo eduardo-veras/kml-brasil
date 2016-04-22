@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALOÂNDIA.kml</name>
+	<Placemark>
+		<name>ALOÂNDIA</name>
+		<description>ALOÂNDIA / GO</description>
+		<LineString>
+			<coordinates>
+				-49.411688367324246,-17.655017773351517 -49.41964344728723,-17.710487241293094 -49.45933946844167,-17.750894214296522 -49.5087602455888,-17.750597979413158 -49.51329929932314,-17.671072288854987 -49.44306133381349,-17.634114262663047 -49.411688367324246,-17.655017773351517
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>URUCÂNIA.kml</name>
+	<Placemark>
+		<name>URUCÂNIA</name>
+		<description>URUCÂNIA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.65119100016449,-20.27672099737606 -42.68915699999553,-20.344448997323298 -42.74582399977771,-20.39753099725766 -42.787281999664515,-20.365479996804368 -42.80680199961256,-20.317812996572513 -42.76264300017425,-20.269310996505226 -42.67777799955502,-20.290606996515635 -42.665300999741305,-20.267673996557676 -42.65119100016449,-20.27672099737606
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

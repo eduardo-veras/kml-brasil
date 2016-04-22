@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IRECÊ.kml</name>
+	<Placemark>
+		<name>IRECÊ</name>
+		<description>IRECÊ / BA</description>
+		<LineString>
+			<coordinates>
+				-41.75181935827675,-11.407873385148548 -41.83966046825594,-11.360909129552624 -41.97852498414068,-11.36868354021317 -41.93919958978921,-11.260435901995208 -41.864717198339974,-11.261163697246786 -41.7471463136514,-11.218466513418832 -41.74215681828247,-11.34045996535508 -41.75181935827675,-11.407873385148548
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

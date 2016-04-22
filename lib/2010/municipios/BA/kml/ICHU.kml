@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ICHU.kml</name>
+	<Placemark>
+		<name>ICHU</name>
+		<description>ICHU / BA</description>
+		<LineString>
+			<coordinates>
+				-39.0606464172983,-11.769821508255973 -39.24022261088476,-11.773621583669126 -39.232833553425735,-11.763674678943232 -39.208686777173,-11.712466334653584 -39.15166500923277,-11.676115412895967 -39.15916292872612,-11.646027160325161 -39.093303425912325,-11.716195515610536 -39.0606464172983,-11.769821508255973
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

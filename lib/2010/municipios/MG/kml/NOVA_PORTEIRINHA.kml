@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA PORTEIRINHA.kml</name>
+	<Placemark>
+		<name>NOVA PORTEIRINHA</name>
+		<description>NOVA PORTEIRINHA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.262323999752766,-15.828477997361631 -43.317040414983126,-15.780903529274383 -43.29692099980423,-15.735923997394536 -43.301304999625984,-15.668430997492521 -43.277221999695485,-15.606000997248202 -43.27263200026658,-15.654303997131706 -43.23231099975277,-15.742253997024306 -43.262323999752766,-15.828477997361631
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

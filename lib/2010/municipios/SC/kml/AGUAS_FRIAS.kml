@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ÁGUAS FRIAS.kml</name>
+	<Placemark>
+		<name>ÁGUAS FRIAS</name>
+		<description>ÁGUAS FRIAS / SC</description>
+		<LineString>
+			<coordinates>
+				-52.80626164985523,-26.830716383454273 -52.78645077768118,-26.88916395185487 -52.84541523502503,-26.893046054431807 -52.90593059392171,-26.86172129969816 -52.91901988455999,-26.846587797888503 -52.87820273526796,-26.797111779884688 -52.83401358785676,-26.836403731147243 -52.80626164985523,-26.830716383454273
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

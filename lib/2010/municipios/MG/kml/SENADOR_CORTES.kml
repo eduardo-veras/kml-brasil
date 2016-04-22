@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SENADOR CORTES.kml</name>
+	<Placemark>
+		<name>SENADOR CORTES</name>
+		<description>SENADOR CORTES / MG</description>
+		<LineString>
+			<coordinates>
+				-42.86832899958364,-21.703333996966364 -42.862793999743246,-21.795914996379906 -42.89444499973689,-21.812404996893065 -42.94823800008362,-21.77848499658529 -42.960752999851024,-21.733212996182772 -42.89933699960278,-21.69277299647655 -42.86832899958364,-21.703333996966364
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

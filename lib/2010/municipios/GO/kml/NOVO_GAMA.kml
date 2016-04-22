@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVO GAMA.kml</name>
+	<Placemark>
+		<name>NOVO GAMA</name>
+		<description>NOVO GAMA / GO</description>
+		<LineString>
+			<coordinates>
+				-48.01722084736417,-16.04906242009457 -48.03048029063285,-16.08675967461926 -48.00192801266763,-16.137204644678548 -48.02904251929681,-16.203291789284606 -48.142049967831724,-16.170310912318712 -48.14143049322263,-16.08852506178215 -48.086224342279536,-16.050261780256903 -48.01722084736417,-16.04906242009457
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

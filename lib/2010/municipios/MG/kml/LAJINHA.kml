@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LAJINHA.kml</name>
+	<Placemark>
+		<name>LAJINHA</name>
+		<description>LAJINHA / MG</description>
+		<LineString>
+			<coordinates>
+				-41.41185615183991,-20.206101790365267 -41.75675377466695,-20.206865963193593 -41.726747999820304,-20.102252997078097 -41.66379799987777,-20.097073996567644 -41.55943700041718,-20.03325599706659 -41.45416899959963,-20.120718996984067 -41.41185615183991,-20.206101790365267
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

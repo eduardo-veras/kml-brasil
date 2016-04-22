@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ESTRELA DALVA.kml</name>
+	<Placemark>
+		<name>ESTRELA DALVA</name>
+		<description>ESTRELA DALVA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.435197999587956,-21.646359996516594 -42.42279200035051,-21.739831996549356 -42.37769861250092,-21.74838907279741 -42.46324309409346,-21.786221293977462 -42.4823500003522,-21.716165996963127 -42.558911000242404,-21.680651996892095 -42.435197999587956,-21.646359996516594
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

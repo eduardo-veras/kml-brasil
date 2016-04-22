@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO SEBASTIÃO DO CAÍ.kml</name>
+	<Placemark>
+		<name>SÃO SEBASTIÃO DO CAÍ</name>
+		<description>SÃO SEBASTIÃO DO CAÍ / RS</description>
+		<LineString>
+			<coordinates>
+				-51.33651099558591,-29.516591066624358 -51.30333616093503,-29.52295386812648 -51.29256695210313,-29.58436672254618 -51.27653961411187,-29.656102569178188 -51.35693337167771,-29.636333647679635 -51.39135876669371,-29.653248907910722 -51.386417377859686,-29.58361049342949 -51.37617019759648,-29.552588543126717 -51.33651099558591,-29.516591066624358
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

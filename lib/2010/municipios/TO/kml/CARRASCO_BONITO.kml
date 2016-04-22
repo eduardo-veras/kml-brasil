@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CARRASCO BONITO.kml</name>
+	<Placemark>
+		<name>CARRASCO BONITO</name>
+		<description>CARRASCO BONITO / TO</description>
+		<LineString>
+			<coordinates>
+				-47.97829537343267,-5.423359243434277 -48.06485935437564,-5.3795445845149175 -48.07926501506836,-5.275064477043941 -48.01465931917221,-5.238030089417066 -47.93387116032574,-5.3534239069876435 -47.97829537343267,-5.423359243434277
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

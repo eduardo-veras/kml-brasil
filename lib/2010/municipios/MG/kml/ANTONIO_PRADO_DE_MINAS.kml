@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ANTÔNIO PRADO DE MINAS.kml</name>
+	<Placemark>
+		<name>ANTÔNIO PRADO DE MINAS</name>
+		<description>ANTÔNIO PRADO DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.15094997656013,-20.97402895637117 -42.08480936815778,-21.022989923646037 -42.11849416967016,-21.074795710953254 -42.21754299970962,-21.008371996870096 -42.164665000189586,-20.973694996726692 -42.15094997656013,-20.97402895637117
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

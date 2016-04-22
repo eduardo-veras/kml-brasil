@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANTANA DO PARAÍSO.kml</name>
+	<Placemark>
+		<name>SANTANA DO PARAÍSO</name>
+		<description>SANTANA DO PARAÍSO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.419150999718795,-19.33621799656322 -42.43207000013035,-19.439469997042693 -42.502336964279436,-19.492096812317982 -42.59346800024798,-19.379012996952213 -42.67760899985541,-19.381712996457566 -42.554998999704026,-19.29639199639348 -42.45233999959129,-19.359979996979234 -42.419150999718795,-19.33621799656322
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

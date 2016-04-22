@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>COMBINADO.kml</name>
+	<Placemark>
+		<name>COMBINADO</name>
+		<description>COMBINADO / TO</description>
+		<LineString>
+			<coordinates>
+				-46.41762470191844,-12.823458179251531 -46.446017772002506,-12.93624247720851 -46.537655853834565,-12.899317001078714 -46.59336297662003,-12.804631866867112 -46.60646675713508,-12.732366202638104 -46.4566728559675,-12.818634522465175 -46.41762470191844,-12.823458179251531
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

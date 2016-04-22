@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PEDRA GRANDE.kml</name>
+	<Placemark>
+		<name>PEDRA GRANDE</name>
+		<description>PEDRA GRANDE / RN</description>
+		<LineString>
+			<coordinates>
+				-35.79078837498349,-5.076977600735631 -35.83186459467527,-5.210024351942252 -35.95215444557118,-5.237380947972326 -35.90825101727057,-5.05945212621458 -35.883758931929094,-5.067396614861821 -35.85249229588271,-5.068742326197366 -35.83116446706646,-5.074593700338937 -35.80276620069958,-5.073196945282746 -35.79078837498349,-5.076977600735631
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

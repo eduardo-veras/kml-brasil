@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CÓRREGO FUNDO.kml</name>
+	<Placemark>
+		<name>CÓRREGO FUNDO</name>
+		<description>CÓRREGO FUNDO / MG</description>
+		<LineString>
+			<coordinates>
+				-45.51217900026063,-20.396325996547432 -45.48399099988467,-20.499760996472787 -45.58828799999117,-20.46732999648208 -45.55602899983842,-20.385219997904528 -45.51217900026063,-20.396325996547432
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

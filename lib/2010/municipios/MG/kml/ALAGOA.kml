@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALAGOA.kml</name>
+	<Placemark>
+		<name>ALAGOA</name>
+		<description>ALAGOA / MG</description>
+		<LineString>
+			<coordinates>
+				-44.559875000231045,-22.159817996503307 -44.60659800009756,-22.22553399629686 -44.76103100008055,-22.221722996818812 -44.766547999990166,-22.201406997035235 -44.67953700023236,-22.135074996713684 -44.559875000231045,-22.159817996503307
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

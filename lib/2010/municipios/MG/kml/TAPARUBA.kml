@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TAPARUBA.kml</name>
+	<Placemark>
+		<name>TAPARUBA</name>
+		<description>TAPARUBA / MG</description>
+		<LineString>
+			<coordinates>
+				-41.49532700004096,-19.696515996815776 -41.555808000338914,-19.72983599733334 -41.59090299997342,-19.80733499731224 -41.65500499998075,-19.832076997055708 -41.67979300004686,-19.68973399702628 -41.641404999641,-19.66720099662865 -41.49532700004096,-19.696515996815776
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

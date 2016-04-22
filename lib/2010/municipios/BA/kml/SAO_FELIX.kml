@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO FÉLIX.kml</name>
+	<Placemark>
+		<name>SÃO FÉLIX</name>
+		<description>SÃO FÉLIX / BA</description>
+		<LineString>
+			<coordinates>
+				-38.938052053659305,-12.70117766102021 -38.965293958249504,-12.69497606389416 -39.05751029786194,-12.729874747821327 -39.04431516241476,-12.649058424906343 -38.960728867343335,-12.632892176732526 -38.98671457102057,-12.594196770964174 -38.96250288170256,-12.609494629273684 -38.938052053659305,-12.70117766102021
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

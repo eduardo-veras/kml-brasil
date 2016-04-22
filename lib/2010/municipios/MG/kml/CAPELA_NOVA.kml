@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAPELA NOVA.kml</name>
+	<Placemark>
+		<name>CAPELA NOVA</name>
+		<description>CAPELA NOVA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.52274199944367,-20.937555996611934 -43.58091999965819,-20.94937199652037 -43.647579000670305,-20.954114996709677 -43.67553100005557,-20.929321996412966 -43.619019000226615,-20.85716499636743 -43.61880000001992,-20.857090996552188 -43.57725399967228,-20.87661699677693 -43.52274199944367,-20.937555996611934
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

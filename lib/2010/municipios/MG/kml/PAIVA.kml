@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PAIVA.kml</name>
+	<Placemark>
+		<name>PAIVA</name>
+		<description>PAIVA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.37168200032403,-21.284666996684507 -43.4238650001696,-21.336743997037786 -43.476659000312566,-21.28061899706904 -43.441193999803204,-21.250674996653743 -43.37168200032403,-21.284666996684507
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

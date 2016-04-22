@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CRUZALTENSE.kml</name>
+	<Placemark>
+		<name>CRUZALTENSE</name>
+		<description>CRUZALTENSE / RS</description>
+		<LineString>
+			<coordinates>
+				-52.557255434490685,-27.60281473910885 -52.57372342409673,-27.680697897989546 -52.66987258535147,-27.685005203627213 -52.6912869712167,-27.650778238624753 -52.739988445410404,-27.626409315437513 -52.734195788904515,-27.590953460134017 -52.67025644298042,-27.57949572584704 -52.557255434490685,-27.60281473910885
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

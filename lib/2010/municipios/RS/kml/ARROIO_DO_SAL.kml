@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ARROIO DO SAL.kml</name>
+	<Placemark>
+		<name>ARROIO DO SAL</name>
+		<description>ARROIO DO SAL / RS</description>
+		<LineString>
+			<coordinates>
+				-49.80361430715453,-29.44283328053143 -49.92309682765642,-29.60711817006745 -49.98757370466268,-29.602482200892837 -49.870163684406464,-29.447323740298316 -49.83567000836416,-29.42391961250007 -49.80361430715453,-29.44283328053143
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

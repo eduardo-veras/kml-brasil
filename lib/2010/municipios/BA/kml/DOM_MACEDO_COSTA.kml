@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DOM MACEDO COSTA.kml</name>
+	<Placemark>
+		<name>DOM MACEDO COSTA</name>
+		<description>DOM MACEDO COSTA / BA</description>
+		<LineString>
+			<coordinates>
+				-39.11997026891271,-12.963238463983885 -39.154710352900395,-12.966320324623211 -39.22322332789423,-12.928657467368168 -39.226287696719794,-12.898437459620993 -39.161889743316976,-12.849667331182332 -39.1310748529221,-12.88475238161709 -39.11997026891271,-12.963238463983885
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VISTA GAÚCHA.kml</name>
+	<Placemark>
+		<name>VISTA GAÚCHA</name>
+		<description>VISTA GAÚCHA / RS</description>
+		<LineString>
+			<coordinates>
+				-53.63869052224976,-27.26142686625684 -53.66248207079087,-27.31611437008206 -53.7289928923081,-27.30552086269762 -53.7636138413057,-27.27900996124066 -53.70655997206501,-27.198243627141608 -53.63869052224976,-27.26142686625684
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

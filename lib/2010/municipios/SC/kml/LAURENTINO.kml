@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LAURENTINO.kml</name>
+	<Placemark>
+		<name>LAURENTINO</name>
+		<description>LAURENTINO / SC</description>
+		<LineString>
+			<coordinates>
+				-49.689628999678575,-27.244379999237538 -49.733627999832265,-27.26268399886743 -49.77823560808679,-27.251656308691622 -49.80141399975622,-27.248720998874944 -49.75770100020094,-27.201780998893923 -49.742215000122144,-27.14498299936588 -49.717333000217764,-27.143137998819554 -49.689628999678575,-27.244379999237538
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VOLTA GRANDE.kml</name>
+	<Placemark>
+		<name>VOLTA GRANDE</name>
+		<description>VOLTA GRANDE / MG</description>
+		<LineString>
+			<coordinates>
+				-42.558911000242404,-21.680651996892095 -42.4823500003522,-21.716165996963127 -42.46324309409346,-21.786221293977462 -42.605988770065665,-21.846381670677488 -42.640447000228846,-21.76059499716132 -42.62268799965142,-21.70208799616404 -42.558911000242404,-21.680651996892095
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

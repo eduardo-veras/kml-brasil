@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO DOMINGOS DO SUL.kml</name>
+	<Placemark>
+		<name>SÃO DOMINGOS DO SUL</name>
+		<description>SÃO DOMINGOS DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-51.803524164108865,-28.53894407241097 -51.85368125218798,-28.59027185296361 -51.91581311278486,-28.5616368535579 -51.91652284065651,-28.51026246653953 -51.9202349749641,-28.494200093659344 -51.91240389712209,-28.48434960974663 -51.8761919988616,-28.490254360450308 -51.803524164108865,-28.53894407241097
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

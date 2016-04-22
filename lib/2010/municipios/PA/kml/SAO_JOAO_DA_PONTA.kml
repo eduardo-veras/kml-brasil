@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOÃO DA PONTA.kml</name>
+	<Placemark>
+		<name>SÃO JOÃO DA PONTA</name>
+		<description>SÃO JOÃO DA PONTA / PA</description>
+		<LineString>
+			<coordinates>
+				-47.951898403488485,-0.7767688631924443 -47.92429494625475,-0.8283948184660517 -47.932511908797494,-0.9032612177309716 -47.900960473646876,-0.9314895877741947 -47.9194544055963,-0.9731156970317443 -47.98848690274832,-0.944781037914538 -48.01973728894467,-0.8615603406371406 -48.02150981222803,-0.7795573119203709 -47.951898403488485,-0.7767688631924443
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VISTA ALEGRE DO PRATA.kml</name>
+	<Placemark>
+		<name>VISTA ALEGRE DO PRATA</name>
+		<description>VISTA ALEGRE DO PRATA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.714054781203174,-28.784222812832525 -51.71211550112946,-28.83546237169105 -51.75467559680129,-28.835984939853063 -51.79106769132085,-28.883939324740027 -51.82936713368622,-28.868763582673182 -51.83358892818643,-28.778205596511043 -51.714054781203174,-28.784222812832525
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

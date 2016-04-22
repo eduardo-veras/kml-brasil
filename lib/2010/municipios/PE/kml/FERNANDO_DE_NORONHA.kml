@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FERNANDO DE NORONHA.kml</name>
+	<Placemark>
+		<name>FERNANDO DE NORONHA</name>
+		<description>FERNANDO DE NORONHA / PE</description>
+		<LineString>
+			<coordinates>
+				-32.39704628545769,-3.8329364274741238 -32.39493741662841,-3.8525975706213558 -32.42587262821917,-3.877092888126242 -32.441851628549784,-3.851056474376719 -32.39704628545769,-3.8329364274741238
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

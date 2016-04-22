@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TEREZÓPOLIS DE GOIÁS.kml</name>
+	<Placemark>
+		<name>TEREZÓPOLIS DE GOIÁS</name>
+		<description>TEREZÓPOLIS DE GOIÁS / GO</description>
+		<LineString>
+			<coordinates>
+				-48.981991081423246,-16.404606258671834 -49.02253280524474,-16.44619451096787 -49.06917138485147,-16.46776313056398 -49.08022251315839,-16.50054306031393 -49.1277353776855,-16.512950986798558 -49.11397847622567,-16.42747303345368 -49.1016721992126,-16.387919533259833 -48.981991081423246,-16.404606258671834
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

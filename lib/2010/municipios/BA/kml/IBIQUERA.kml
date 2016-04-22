@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IBIQUERA.kml</name>
+	<Placemark>
+		<name>IBIQUERA</name>
+		<description>IBIQUERA / BA</description>
+		<LineString>
+			<coordinates>
+				-40.967331365649954,-12.793040707362707 -41.00744224136628,-12.621109705348601 -40.97850566780227,-12.565883728850963 -40.96356957887292,-12.493225685916627 -40.98095393897307,-12.460440896230352 -40.734554876206516,-12.44606762821843 -40.73417115167729,-12.769457868086079 -40.967331365649954,-12.793040707362707
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

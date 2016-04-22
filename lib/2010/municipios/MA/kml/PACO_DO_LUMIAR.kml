@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PAÇO DO LUMIAR.kml</name>
+	<Placemark>
+		<name>PAÇO DO LUMIAR</name>
+		<description>PAÇO DO LUMIAR / MA</description>
+		<LineString>
+			<coordinates>
+				-44.10043379328488,-2.4630625703812825 -44.06224909002344,-2.483122493608164 -44.08678477269905,-2.544077862903009 -44.18691192044872,-2.5523780397147107 -44.18207810312191,-2.4638973417888224 -44.173751893634915,-2.458713081143742 -44.10043379328488,-2.4630625703812825
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

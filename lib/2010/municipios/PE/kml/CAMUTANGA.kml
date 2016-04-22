@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAMUTANGA.kml</name>
+	<Placemark>
+		<name>CAMUTANGA</name>
+		<description>CAMUTANGA / PE</description>
+		<LineString>
+			<coordinates>
+				-35.23714352635261,-7.440601433809093 -35.26029346527116,-7.420342585042192 -35.31448811633345,-7.475889428854032 -35.34262156113607,-7.422031271725757 -35.33289351991999,-7.415332957450005 -35.27261272129999,-7.404378118655188 -35.23714352635261,-7.440601433809093
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

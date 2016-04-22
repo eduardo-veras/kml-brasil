@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ITAPARICA.kml</name>
+	<Placemark>
+		<name>ITAPARICA</name>
+		<description>ITAPARICA / BA</description>
+		<LineString>
+			<coordinates>
+				-38.56415772499895,-12.92323781367412 -38.62759052867989,-12.94049340434708 -38.724710913677654,-12.9289535053 -38.69558405975653,-12.816417219678897 -38.67489667684015,-12.845424896341854 -38.58879948900517,-12.892617329725965 -38.56415772499895,-12.92323781367412
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

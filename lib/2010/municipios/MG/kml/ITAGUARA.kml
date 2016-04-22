@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ITAGUARA.kml</name>
+	<Placemark>
+		<name>ITAGUARA</name>
+		<description>ITAGUARA / MG</description>
+		<LineString>
+			<coordinates>
+				-44.43534799981029,-20.291668996926603 -44.43749800003263,-20.346143997247623 -44.406978000034655,-20.426561996938574 -44.543238000133556,-20.48250199646992 -44.59442700000602,-20.456643996523155 -44.62813500042989,-20.40517799646733 -44.65890200012717,-20.33775299700318 -44.565678999885904,-20.279120996536733 -44.43534799981029,-20.291668996926603
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

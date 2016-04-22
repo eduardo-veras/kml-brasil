@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GLAUCILÂNDIA.kml</name>
+	<Placemark>
+		<name>GLAUCILÂNDIA</name>
+		<description>GLAUCILÂNDIA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.620410999667854,-16.989393997534933 -43.68588099980826,-16.92730799696642 -43.70142800000218,-16.85099299762868 -43.674448999621575,-16.808782997237472 -43.63284400015044,-16.829827997364134 -43.62247999975216,-16.886504997607517 -43.56756699991706,-16.94473799766041 -43.620410999667854,-16.989393997534933
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

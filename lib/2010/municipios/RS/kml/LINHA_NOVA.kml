@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LINHA NOVA.kml</name>
+	<Placemark>
+		<name>LINHA NOVA</name>
+		<description>LINHA NOVA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.16899886280726,-29.439435782135604 -51.17800173928879,-29.494056532882666 -51.26515059972036,-29.504419396537855 -51.27291334527462,-29.489341905404558 -51.235384047235925,-29.422740017637636 -51.19668245143396,-29.409391276186398 -51.16899886280726,-29.439435782135604
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

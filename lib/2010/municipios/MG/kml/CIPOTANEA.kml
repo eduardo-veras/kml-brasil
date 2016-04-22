@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CIPOTÂNEA.kml</name>
+	<Placemark>
+		<name>CIPOTÂNEA</name>
+		<description>CIPOTÂNEA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.295163999718795,-20.853349996704935 -43.29056599992094,-20.955050996706063 -43.324490000413164,-20.97872899684569 -43.41930899961062,-20.977887996733614 -43.470484999782855,-20.9395049965583 -43.42400799956948,-20.923851996872088 -43.37291899981193,-20.86719899683618 -43.295163999718795,-20.853349996704935
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

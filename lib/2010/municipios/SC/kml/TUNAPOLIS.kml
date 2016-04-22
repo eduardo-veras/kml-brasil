@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TUNÁPOLIS.kml</name>
+	<Placemark>
+		<name>TUNÁPOLIS</name>
+		<description>TUNÁPOLIS / SC</description>
+		<LineString>
+			<coordinates>
+				-53.671389150588766,-26.941881754239546 -53.582362000306034,-26.95312099913474 -53.551071999872875,-26.98013699942294 -53.586410999967654,-27.009580999263676 -53.643900999931134,-27.042187999276678 -53.68317100054122,-27.03104718607875 -53.73191597404292,-27.004039792302535 -53.70100757304101,-26.952822177801238 -53.671389150588766,-26.941881754239546
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BOM JESUS DO AMPARO.kml</name>
+	<Placemark>
+		<name>BOM JESUS DO AMPARO</name>
+		<description>BOM JESUS DO AMPARO / MG</description>
+		<LineString>
+			<coordinates>
+				-43.399643000124286,-19.67167299691124 -43.390609999951494,-19.77244999657006 -43.43443900035953,-19.787651997041962 -43.53693900033454,-19.760760997122247 -43.53815099956893,-19.75434999735444 -43.5416780003394,-19.623892996864242 -43.451862999877505,-19.682883996798978 -43.399643000124286,-19.67167299691124
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

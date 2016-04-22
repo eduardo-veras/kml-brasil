@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SUCUPIRA DO NORTE.kml</name>
+	<Placemark>
+		<name>SUCUPIRA DO NORTE</name>
+		<description>SUCUPIRA DO NORTE / MA</description>
+		<LineString>
+			<coordinates>
+				-44.50742336029981,-6.749292133625033 -44.63054745879816,-6.679970241833132 -44.17168502854122,-6.255930575635489 -44.09975083013666,-6.3514555210554136 -44.057853323472045,-6.3695304471723375 -44.50742336029981,-6.749292133625033
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

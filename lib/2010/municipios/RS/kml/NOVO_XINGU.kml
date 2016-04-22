@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVO XINGU.kml</name>
+	<Placemark>
+		<name>NOVO XINGU</name>
+		<description>NOVO XINGU / RS</description>
+		<LineString>
+			<coordinates>
+				-53.07472628409067,-27.67515700039519 -53.024814305335894,-27.72651932210897 -53.02434427466852,-27.761292599174055 -52.98443005820059,-27.7904893546999 -53.01838492702274,-27.80506714743086 -53.05596354568104,-27.79741025028278 -53.112424786874385,-27.758498585441316 -53.103383033600096,-27.680913760461635 -53.07472628409067,-27.67515700039519
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GARIBALDI.kml</name>
+	<Placemark>
+		<name>GARIBALDI</name>
+		<description>GARIBALDI / RS</description>
+		<LineString>
+			<coordinates>
+				-51.49214438635431,-29.198364632321898 -51.49019486120386,-29.260407185742963 -51.5458577013718,-29.292928723182 -51.63245920472849,-29.2941444806832 -51.649940545020115,-29.294380855791815 -51.64675072256773,-29.25381503913269 -51.68332916740712,-29.21306561148873 -51.654036544151154,-29.199255672511242 -51.49214438635431,-29.198364632321898
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

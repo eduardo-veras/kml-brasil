@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PILÕEZINHOS.kml</name>
+	<Placemark>
+		<name>PILÕEZINHOS</name>
+		<description>PILÕEZINHOS / PB</description>
+		<LineString>
+			<coordinates>
+				-35.56540977793884,-6.8864520628123955 -35.58781562139376,-6.8392845568367875 -35.58035477914967,-6.822325648010178 -35.50321722029844,-6.8196652771308095 -35.508537612221005,-6.834624015485872 -35.530919129014535,-6.8590228555203225 -35.53091442915752,-6.880369162706643 -35.56540977793884,-6.8864520628123955
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

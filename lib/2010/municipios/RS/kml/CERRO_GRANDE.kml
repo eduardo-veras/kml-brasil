@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CERRO GRANDE.kml</name>
+	<Placemark>
+		<name>CERRO GRANDE</name>
+		<description>CERRO GRANDE / RS</description>
+		<LineString>
+			<coordinates>
+				-53.118700832577304,-27.588501722976105 -53.100529812101115,-27.646449916730205 -53.11327335298279,-27.650202758850185 -53.1550712309525,-27.661913763809082 -53.21991842539495,-27.65270717559565 -53.20628921867245,-27.60007951315896 -53.14795539652431,-27.605241771890235 -53.118700832577304,-27.588501722976105
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

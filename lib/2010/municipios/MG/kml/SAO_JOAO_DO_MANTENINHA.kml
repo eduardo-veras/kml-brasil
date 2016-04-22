@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOÃO DO MANTENINHA.kml</name>
+	<Placemark>
+		<name>SÃO JOÃO DO MANTENINHA</name>
+		<description>SÃO JOÃO DO MANTENINHA / MG</description>
+		<LineString>
+			<coordinates>
+				-41.14678294917371,-18.79804164900287 -41.232413482396225,-18.797279166000692 -41.22749100000959,-18.72509999676737 -41.2022647036531,-18.683410733518485 -41.13983500018509,-18.716364996847062 -41.07239600007529,-18.77749499739616 -41.14678294917371,-18.79804164900287
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

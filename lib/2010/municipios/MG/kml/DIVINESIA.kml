@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DIVINÉSIA.kml</name>
+	<Placemark>
+		<name>DIVINÉSIA</name>
+		<description>DIVINÉSIA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.942603000128315,-20.984518996754275 -42.92258000036668,-21.014220996801498 -42.966746000127785,-21.045612996542502 -43.00752500017859,-21.035942996671906 -43.068811999873844,-20.964701996599842 -43.03688499974288,-20.929424996666228 -42.992281999614534,-20.92739999681237 -42.942603000128315,-20.984518996754275
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

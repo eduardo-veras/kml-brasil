@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FREI LAGONEGRO.kml</name>
+	<Placemark>
+		<name>FREI LAGONEGRO</name>
+		<description>FREI LAGONEGRO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.70310200005724,-18.09171899643451 -42.68368799960143,-18.104513997423 -42.69869199993582,-18.189048996314057 -42.761226999626274,-18.213899996587543 -42.804502999713634,-18.208972996906255 -42.82891100024244,-18.097844996549327 -42.76208200038394,-18.08288399639929 -42.70310200005724,-18.09171899643451
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

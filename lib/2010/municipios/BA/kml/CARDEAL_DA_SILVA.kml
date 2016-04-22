@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CARDEAL DA SILVA.kml</name>
+	<Placemark>
+		<name>CARDEAL DA SILVA</name>
+		<description>CARDEAL DA SILVA / BA</description>
+		<LineString>
+			<coordinates>
+				-37.93710053156423,-12.142032536272495 -38.023355797731824,-12.080646069760292 -37.96803321156341,-11.93753181204346 -37.95129494330695,-11.934223214329847 -37.866289408329465,-11.973182560326848 -37.85260195071942,-12.002068343779001 -37.92456019609614,-12.149727698674326 -37.93710053156423,-12.142032536272495
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

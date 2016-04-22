@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>POÇO DAS ANTAS.kml</name>
+	<Placemark>
+		<name>POÇO DAS ANTAS</name>
+		<description>POÇO DAS ANTAS / RS</description>
+		<LineString>
+			<coordinates>
+				-51.60175706323781,-29.47565470679922 -51.66937368035104,-29.480862107899895 -51.691229481355435,-29.42352545853305 -51.65753040220625,-29.399303453991138 -51.61087897758273,-29.4010900993286 -51.607971285046744,-29.411588688666995 -51.56946988372812,-29.458017014873292 -51.60175706323781,-29.47565470679922
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

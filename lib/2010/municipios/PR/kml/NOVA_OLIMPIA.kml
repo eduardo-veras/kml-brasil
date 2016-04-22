@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA OLÍMPIA.kml</name>
+	<Placemark>
+		<name>NOVA OLÍMPIA</name>
+		<description>NOVA OLÍMPIA / PR</description>
+		<LineString>
+			<coordinates>
+				-53.027976253301404,-23.35615710766433 -53.03616436919026,-23.38385670242485 -53.023571421583824,-23.47626141133503 -53.03965371984327,-23.49313245100177 -53.11946209699812,-23.503206532455465 -53.11638782214021,-23.471176639989892 -53.10376838590224,-23.3440676257203 -53.027976253301404,-23.35615710766433
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

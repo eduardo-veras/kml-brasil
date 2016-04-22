@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOÃO DO ORIENTE.kml</name>
+	<Placemark>
+		<name>SÃO JOÃO DO ORIENTE</name>
+		<description>SÃO JOÃO DO ORIENTE / MG</description>
+		<LineString>
+			<coordinates>
+				-42.11950499955606,-19.316058996825177 -42.1167949995895,-19.3452249964364 -42.13620099967636,-19.414940997229166 -42.152786000073775,-19.438013997348037 -42.191440000155865,-19.420647996907462 -42.20188199965452,-19.27888399749844 -42.18008800006112,-19.26350099677353 -42.15269899965904,-19.325505997203948 -42.11950499955606,-19.316058996825177
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

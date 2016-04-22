@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>COIMBRA.kml</name>
+	<Placemark>
+		<name>COIMBRA</name>
+		<description>COIMBRA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.71263900008972,-20.81560499627352 -42.70936700028682,-20.83928499650534 -42.72987199979292,-20.861675996649865 -42.85177499971644,-20.88039699662403 -42.886080999838214,-20.846666996084934 -42.886140999907184,-20.82484299690674 -42.83001699998454,-20.808888996829694 -42.783779000000834,-20.825228996720796 -42.71263900008972,-20.81560499627352
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

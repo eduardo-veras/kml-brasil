@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SERICITA.kml</name>
+	<Placemark>
+		<name>SERICITA</name>
+		<description>SERICITA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.434323999752735,-20.435407996581716 -42.38570299959372,-20.5048939966606 -42.40743599997137,-20.577395996428038 -42.486323000106324,-20.557271996505392 -42.52659800029744,-20.42495299648357 -42.434323999752735,-20.435407996581716
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

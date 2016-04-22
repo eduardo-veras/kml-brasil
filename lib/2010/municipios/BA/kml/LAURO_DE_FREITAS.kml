@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LAURO DE FREITAS.kml</name>
+	<Placemark>
+		<name>LAURO DE FREITAS</name>
+		<description>LAURO DE FREITAS / BA</description>
+		<LineString>
+			<coordinates>
+				-38.332278232854094,-12.812325617333329 -38.28016523803524,-12.88068863667121 -38.304049583121696,-12.91053650675434 -38.35486298114165,-12.894665621121476 -38.378894043425305,-12.82257150796869 -38.332278232854094,-12.812325617333329
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

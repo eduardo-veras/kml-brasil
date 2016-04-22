@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CHALÉ.kml</name>
+	<Placemark>
+		<name>CHALÉ</name>
+		<description>CHALÉ / MG</description>
+		<LineString>
+			<coordinates>
+				-41.648566999867114,-19.973122996628945 -41.55943700041718,-20.03325599706659 -41.66379799987777,-20.097073996567644 -41.726747999820304,-20.102252997078097 -41.74428700014488,-20.061086997167138 -41.719817000354226,-19.997779996949248 -41.648566999867114,-19.973122996628945
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LUZINÓPOLIS.kml</name>
+	<Placemark>
+		<name>LUZINÓPOLIS</name>
+		<description>LUZINÓPOLIS / TO</description>
+		<LineString>
+			<coordinates>
+				-47.765710216153536,-6.152950214480768 -47.72495933700378,-6.184243446178073 -47.72363016599934,-6.282239964202915 -47.851736136313605,-6.256809223167068 -47.876263957115896,-6.224337421834491 -47.95769726891376,-6.226697566639359 -47.972546027377234,-6.184578786281918 -47.88587031106596,-6.143422836294803 -47.765710216153536,-6.152950214480768
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALVORADA.kml</name>
+	<Placemark>
+		<name>ALVORADA</name>
+		<description>ALVORADA / RS</description>
+		<LineString>
+			<coordinates>
+				-50.94930602705148,-29.96656669949357 -50.962414738549285,-29.990116567825282 -51.0396312156081,-30.0066056249496 -51.084771971649104,-30.04607410593519 -51.086367788042935,-29.970881204204147 -51.07401676436217,-29.966698708278727 -51.009905990568996,-29.9566043183346 -50.94930602705148,-29.96656669949357
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

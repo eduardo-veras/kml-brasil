@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JARDINÓPOLIS.kml</name>
+	<Placemark>
+		<name>JARDINÓPOLIS</name>
+		<description>JARDINÓPOLIS / SC</description>
+		<LineString>
+			<coordinates>
+				-52.817672890091785,-26.73466968915477 -52.86206132546977,-26.74759626455591 -52.917994384932854,-26.783100060919026 -52.896611791900625,-26.713474902444773 -52.919513417210396,-26.67333341290663 -52.84535417375605,-26.668458894961987 -52.817672890091785,-26.73466968915477
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

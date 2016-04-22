@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAPUTIRA.kml</name>
+	<Placemark>
+		<name>CAPUTIRA</name>
+		<description>CAPUTIRA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.20994199992333,-20.08938799735813 -42.21280299965866,-20.169180997005355 -42.19421400037578,-20.195132996790335 -42.213017999680915,-20.283258996705285 -42.31496600028066,-20.20198499710989 -42.31070900002027,-20.142788996714785 -42.247775999962414,-20.083765997103058 -42.20994199992333,-20.08938799735813
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MARCOLÂNDIA.kml</name>
+	<Placemark>
+		<name>MARCOLÂNDIA</name>
+		<description>MARCOLÂNDIA / PI</description>
+		<LineString>
+			<coordinates>
+				-40.652323226335795,-7.433342165608394 -40.714936756626,-7.480517764583112 -40.80436633104131,-7.484237739180287 -40.79428603257429,-7.4188733212467355 -40.73761768650701,-7.3504769496514655 -40.652323226335795,-7.433342165608394
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

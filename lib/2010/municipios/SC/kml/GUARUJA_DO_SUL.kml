@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GUARUJÁ DO SUL.kml</name>
+	<Placemark>
+		<name>GUARUJÁ DO SUL</name>
+		<description>GUARUJÁ DO SUL / SC</description>
+		<LineString>
+			<coordinates>
+				-53.40199122421558,-26.427258297632306 -53.54053591420103,-26.42709568761586 -53.58315644521372,-26.412914923984488 -53.56031616805666,-26.37482150550801 -53.39435587302506,-26.36605381073474 -53.41395399977722,-26.416289999583796 -53.40199122421558,-26.427258297632306
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

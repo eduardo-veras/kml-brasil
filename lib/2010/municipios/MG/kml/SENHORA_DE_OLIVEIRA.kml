@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SENHORA DE OLIVEIRA.kml</name>
+	<Placemark>
+		<name>SENHORA DE OLIVEIRA</name>
+		<description>SENHORA DE OLIVEIRA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.27722799997218,-20.753699996857335 -43.266389000152174,-20.803516997311533 -43.295163999718795,-20.853349996704935 -43.37291899981193,-20.86719899683618 -43.42512499981882,-20.823704996588276 -43.41104199968851,-20.750555996661888 -43.29146199987133,-20.73835099680099 -43.27722799997218,-20.753699996857335
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

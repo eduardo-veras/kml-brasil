@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>OLÍMPIO NORONHA.kml</name>
+	<Placemark>
+		<name>OLÍMPIO NORONHA</name>
+		<description>OLÍMPIO NORONHA / MG</description>
+		<LineString>
+			<coordinates>
+				-45.236662000350975,-22.04048299629318 -45.25060100013599,-22.113826997118167 -45.33399799960796,-22.119034996268 -45.336484000036535,-22.103081997136428 -45.236662000350975,-22.04048299629318
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVO ALEGRE.kml</name>
+	<Placemark>
+		<name>NOVO ALEGRE</name>
+		<description>NOVO ALEGRE / TO</description>
+		<LineString>
+			<coordinates>
+				-46.446017772002506,-12.93624247720851 -46.454649870595006,-12.971152609505282 -46.633863558256564,-12.969982957547415 -46.62250331947257,-12.84819462837936 -46.59336297662003,-12.804631866867112 -46.537655853834565,-12.899317001078714 -46.446017772002506,-12.93624247720851
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

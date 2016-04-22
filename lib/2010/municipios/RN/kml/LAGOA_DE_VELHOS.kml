@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LAGOA DE VELHOS.kml</name>
+	<Placemark>
+		<name>LAGOA DE VELHOS</name>
+		<description>LAGOA DE VELHOS / RN</description>
+		<LineString>
+			<coordinates>
+				-35.82216946325008,-6.073394361560474 -35.924804128607605,-6.010632515078441 -35.83477201651533,-5.947096352314759 -35.77833750137455,-6.015874965457215 -35.79907756567707,-6.043084836196215 -35.82216946325008,-6.073394361560474
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

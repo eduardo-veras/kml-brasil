@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RIO DOCE.kml</name>
+	<Placemark>
+		<name>RIO DOCE</name>
+		<description>RIO DOCE / MG</description>
+		<LineString>
+			<coordinates>
+				-42.810965000034685,-20.145589997280524 -42.88551811686756,-20.255138205363835 -42.9146760000973,-20.276283997008818 -42.952987999696404,-20.27295099709079 -42.95716800000315,-20.20411499730926 -42.880101000161005,-20.179861996733734 -42.869708000223966,-20.144746997076197 -42.810965000034685,-20.145589997280524
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

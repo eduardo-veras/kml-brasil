@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO VALÉRIO DO SUL.kml</name>
+	<Placemark>
+		<name>SÃO VALÉRIO DO SUL</name>
+		<description>SÃO VALÉRIO DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-53.89776492850859,-27.895788658219942 -53.95385610047862,-27.8518682048537 -53.966021469914836,-27.82445534273984 -53.97877760939912,-27.78028028680575 -53.854328980398066,-27.766118747082487 -53.87738434481162,-27.791038223535168 -53.866619466215354,-27.838300011736123 -53.89776492850859,-27.895788658219942
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

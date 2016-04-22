@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO SEBASTIÃO DA VARGEM ALEGRE.kml</name>
+	<Placemark>
+		<name>SÃO SEBASTIÃO DA VARGEM ALEGRE</name>
+		<description>SÃO SEBASTIÃO DA VARGEM ALEGRE / MG</description>
+		<LineString>
+			<coordinates>
+				-42.58204599962312,-20.953095996483 -42.54659899994385,-21.043981996871594 -42.65534400012547,-21.07768199692657 -42.61186000033871,-20.986296996908834 -42.58204599962312,-20.953095996483
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RIACHÃO DO BACAMARTE.kml</name>
+	<Placemark>
+		<name>RIACHÃO DO BACAMARTE</name>
+		<description>RIACHÃO DO BACAMARTE / PB</description>
+		<LineString>
+			<coordinates>
+				-35.704139382026824,-7.260232217143084 -35.698491473202864,-7.21882112859214 -35.67167845889372,-7.207778564529065 -35.625705134784084,-7.225634882543773 -35.63581761818847,-7.25032707783231 -35.663038617138454,-7.257712090140785 -35.68044965113046,-7.268992822560676 -35.704139382026824,-7.260232217143084
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

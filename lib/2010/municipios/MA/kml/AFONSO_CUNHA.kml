@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>AFONSO CUNHA.kml</name>
+	<Placemark>
+		<name>AFONSO CUNHA</name>
+		<description>AFONSO CUNHA / MA</description>
+		<LineString>
+			<coordinates>
+				-43.2103451613001,-4.365335809000328 -43.42924347210851,-4.223322443775714 -43.26669808724688,-4.073980612015589 -43.22702283773373,-4.123158609082509 -43.23145158152522,-4.288405080729831 -43.2103451613001,-4.365335809000328
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

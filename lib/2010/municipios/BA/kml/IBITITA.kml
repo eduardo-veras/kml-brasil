@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IBITITÁ.kml</name>
+	<Placemark>
+		<name>IBITITÁ</name>
+		<description>IBITITÁ / BA</description>
+		<LineString>
+			<coordinates>
+				-41.86580546524999,-11.714320853624429 -41.903972497732525,-11.755897021730107 -42.04453513778634,-11.550036125067095 -41.9922016220072,-11.406257970728745 -41.97852498414068,-11.36868354021317 -41.8741715587704,-11.493065572618036 -41.75737709387772,-11.668257991213295 -41.86580546524999,-11.714320853624429
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

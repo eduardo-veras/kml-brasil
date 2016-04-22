@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BALNEÁRIO ARROIO DO SILVA.kml</name>
+	<Placemark>
+		<name>BALNEÁRIO ARROIO DO SILVA</name>
+		<description>BALNEÁRIO ARROIO DO SILVA / SC</description>
+		<LineString>
+			<coordinates>
+				-49.51647498713089,-29.095303546221658 -49.56692799982727,-29.05795699941592 -49.53758800028595,-29.029775999362812 -49.48156683514128,-28.99542476064414 -49.40966133230461,-28.941215626899634 -49.376834500212,-28.955725999255435 -49.51647498713089,-29.095303546221658
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

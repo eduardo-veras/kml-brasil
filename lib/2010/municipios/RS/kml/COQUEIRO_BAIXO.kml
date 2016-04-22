@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>COQUEIRO BAIXO.kml</name>
+	<Placemark>
+		<name>COQUEIRO BAIXO</name>
+		<description>COQUEIRO BAIXO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.01692250726785,-29.16740569661556 -52.11343853615949,-29.23189438531756 -52.159363778015916,-29.214686936253088 -52.19493785100099,-29.117337647714237 -52.15132873843049,-29.088199893110527 -52.12306241339962,-29.14776015670583 -52.01692250726785,-29.16740569661556
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

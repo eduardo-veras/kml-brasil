@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA SOURE.kml</name>
+	<Placemark>
+		<name>NOVA SOURE</name>
+		<description>NOVA SOURE / BA</description>
+		<LineString>
+			<coordinates>
+				-38.44514143013288,-11.169648863004568 -38.37321872326544,-11.264084690755851 -38.4128954881362,-11.31393704266037 -38.459825626151655,-11.464345446984737 -38.499096997328536,-11.49072190249376 -38.52024531606844,-11.451985841972999 -38.78533338542735,-11.354605552004557 -38.588453162783196,-11.143703358123446 -38.44514143013288,-11.169648863004568
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

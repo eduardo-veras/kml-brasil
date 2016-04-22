@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SOBRADINHO.kml</name>
+	<Placemark>
+		<name>SOBRADINHO</name>
+		<description>SOBRADINHO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.93844594762237,-29.395312524453402 -53.01406102169875,-29.46470325035466 -53.04744422926774,-29.454047945156503 -53.09483054029715,-29.4668687279094 -53.08309513673112,-29.372218905577995 -53.02460916368193,-29.33761551584331 -52.97429456294367,-29.358495737688088 -52.93844594762237,-29.395312524453402
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

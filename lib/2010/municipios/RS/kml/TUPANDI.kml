@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TUPANDI.kml</name>
+	<Placemark>
+		<name>TUPANDI</name>
+		<description>TUPANDI / RS</description>
+		<LineString>
+			<coordinates>
+				-51.435506720658566,-29.431884360175047 -51.40350573420221,-29.43347663773659 -51.38720780819375,-29.503375921261693 -51.39627773632844,-29.52547900705048 -51.45111944060966,-29.50224569558236 -51.457416100572516,-29.495723268913707 -51.47229869872592,-29.438699079998514 -51.435506720658566,-29.431884360175047
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

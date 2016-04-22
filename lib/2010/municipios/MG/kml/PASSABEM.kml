@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PASSABÉM.kml</name>
+	<Placemark>
+		<name>PASSABÉM</name>
+		<description>PASSABÉM / MG</description>
+		<LineString>
+			<coordinates>
+				-43.139776999808646,-19.334461997423205 -43.10265100004358,-19.381804997102904 -43.14339600032514,-19.40195799746357 -43.19370400003953,-19.387011997105958 -43.243694000377786,-19.325223996789987 -43.139776999808646,-19.334461997423205
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

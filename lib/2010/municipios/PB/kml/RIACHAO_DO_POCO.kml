@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RIACHÃO DO POÇO.kml</name>
+	<Placemark>
+		<name>RIACHÃO DO POÇO</name>
+		<description>RIACHÃO DO POÇO / PB</description>
+		<LineString>
+			<coordinates>
+				-35.26135820681577,-7.13800382271819 -35.259062344651454,-7.1630011957485635 -35.2815539069872,-7.188380274330143 -35.33269134872671,-7.1750318998022635 -35.32684832479032,-7.156835549920629 -35.311962946832466,-7.1516178219048925 -35.287817396355706,-7.108960164180189 -35.26135820681577,-7.13800382271819
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALPERCATA.kml</name>
+	<Placemark>
+		<name>ALPERCATA</name>
+		<description>ALPERCATA / MG</description>
+		<LineString>
+			<coordinates>
+				-41.89228900033703,-18.93343699681992 -41.93734699986413,-18.983067996790567 -41.93748900011724,-18.98703199702902 -42.05380699969322,-19.04450399706178 -42.1266190002666,-19.024993996675562 -42.090881999804424,-18.973787996918475 -42.02081700000451,-18.92721999700524 -41.89228900033703,-18.93343699681992
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SENADOR AMARAL.kml</name>
+	<Placemark>
+		<name>SENADOR AMARAL</name>
+		<description>SENADOR AMARAL / MG</description>
+		<LineString>
+			<coordinates>
+				-46.14780399975473,-22.518474996623752 -46.15289299971215,-22.6076829969727 -46.15845499989831,-22.615593996665552 -46.29616500031449,-22.578712996507534 -46.28269499967445,-22.51520899709749 -46.18912999984957,-22.50184399680296 -46.14780399975473,-22.518474996623752
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

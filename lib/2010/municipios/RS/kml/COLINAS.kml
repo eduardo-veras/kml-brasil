@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>COLINAS.kml</name>
+	<Placemark>
+		<name>COLINAS</name>
+		<description>COLINAS / RS</description>
+		<LineString>
+			<coordinates>
+				-51.81608791162779,-29.387669649534644 -51.84225042921389,-29.424428160231344 -51.951519422982926,-29.41788227834445 -51.909245573424414,-29.417679530685746 -51.87444848231155,-29.39184111887249 -51.910080995041824,-29.35264165748646 -51.83945649372214,-29.344226603974562 -51.81608791162779,-29.387669649534644
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

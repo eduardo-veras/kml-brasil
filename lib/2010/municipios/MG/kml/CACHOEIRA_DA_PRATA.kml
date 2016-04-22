@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CACHOEIRA DA PRATA.kml</name>
+	<Placemark>
+		<name>CACHOEIRA DA PRATA</name>
+		<description>CACHOEIRA DA PRATA / MG</description>
+		<LineString>
+			<coordinates>
+				-44.446573000343676,-19.54416199737824 -44.49010399959985,-19.550811997375718 -44.51424400036029,-19.483889996825837 -44.431826000169735,-19.4967329973299 -44.446573000343676,-19.54416199737824
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

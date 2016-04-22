@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CONFINS.kml</name>
+	<Placemark>
+		<name>CONFINS</name>
+		<description>CONFINS / MG</description>
+		<LineString>
+			<coordinates>
+				-43.94488110138167,-19.671626653047554 -43.95714213260328,-19.66990226058084 -44.00531800162446,-19.655701430376666 -43.97183099970084,-19.59788099611103 -43.94488110138167,-19.671626653047554
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

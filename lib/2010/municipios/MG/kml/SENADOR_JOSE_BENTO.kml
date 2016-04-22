@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SENADOR JOSÉ BENTO.kml</name>
+	<Placemark>
+		<name>SENADOR JOSÉ BENTO</name>
+		<description>SENADOR JOSÉ BENTO / MG</description>
+		<LineString>
+			<coordinates>
+				-46.09981600000833,-22.100824996476376 -46.097203000018396,-22.171497996435335 -46.11714399959584,-22.20871299670739 -46.151808000039125,-22.214624996846055 -46.19922200029504,-22.137667996680648 -46.09981600000833,-22.100824996476376
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

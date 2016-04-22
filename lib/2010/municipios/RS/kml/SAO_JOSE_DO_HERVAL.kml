@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DO HERVAL.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DO HERVAL</name>
+		<description>SÃO JOSÉ DO HERVAL / RS</description>
+		<LineString>
+			<coordinates>
+				-52.22581803397503,-29.038107114651552 -52.2121426362736,-29.094977787494827 -52.290455421080765,-29.129658493744444 -52.336568502534305,-29.05909338814928 -52.30693124378183,-29.013485787738887 -52.22581803397503,-29.038107114651552
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

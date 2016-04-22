@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GONÇALVES.kml</name>
+	<Placemark>
+		<name>GONÇALVES</name>
+		<description>GONÇALVES / MG</description>
+		<LineString>
+			<coordinates>
+				-45.730042219272946,-22.618745629407215 -45.74280673864001,-22.65916686296032 -45.81164102881041,-22.698707661129617 -45.80505232030828,-22.737271485290762 -45.92132400030232,-22.720485996331604 -45.94911999968821,-22.694348997008547 -45.88570900007028,-22.676037997055857 -45.87890700025781,-22.61525199708194 -45.730042219272946,-22.618745629407215
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

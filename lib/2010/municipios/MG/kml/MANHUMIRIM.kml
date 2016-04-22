@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MANHUMIRIM.kml</name>
+	<Placemark>
+		<name>MANHUMIRIM</name>
+		<description>MANHUMIRIM / MG</description>
+		<LineString>
+			<coordinates>
+				-41.88765499977836,-20.305273996597634 -41.822111218357975,-20.310924768862947 -41.859464429140075,-20.372928097453666 -42.012649000151214,-20.410415997000598 -42.04568800030091,-20.376840997314105 -42.00029299962222,-20.309805996949137 -41.92097500029598,-20.29133399676647 -41.88765499977836,-20.305273996597634
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

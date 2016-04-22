@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAJURI.kml</name>
+	<Placemark>
+		<name>CAJURI</name>
+		<description>CAJURI / MG</description>
+		<LineString>
+			<coordinates>
+				-42.71263900008972,-20.81560499627352 -42.783779000000834,-20.825228996720796 -42.83001699998454,-20.808888996829694 -42.82576600000084,-20.756301997239348 -42.75357500018606,-20.745176996820874 -42.71263900008972,-20.81560499627352
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

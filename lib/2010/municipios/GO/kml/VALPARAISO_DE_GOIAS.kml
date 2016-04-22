@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VALPARAÍSO DE GOIÁS.kml</name>
+	<Placemark>
+		<name>VALPARAÍSO DE GOIÁS</name>
+		<description>VALPARAÍSO DE GOIÁS / GO</description>
+		<LineString>
+			<coordinates>
+				-47.938572754828726,-16.050262251501636 -47.9639737220096,-16.104865693896613 -48.00192801266763,-16.137204644678548 -48.03048029063285,-16.08675967461926 -48.01722084736417,-16.04906242009457 -47.938572754828726,-16.050262251501636
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

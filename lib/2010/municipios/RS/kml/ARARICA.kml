@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ARARICÁ.kml</name>
+	<Placemark>
+		<name>ARARICÁ</name>
+		<description>ARARICÁ / RS</description>
+		<LineString>
+			<coordinates>
+				-50.90620934818281,-29.63167278257282 -50.9317160819316,-29.67331447798074 -50.94208632722217,-29.6915738622439 -50.95883880656561,-29.680667983440628 -50.94707169560223,-29.596764580221134 -50.90620934818281,-29.63167278257282
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

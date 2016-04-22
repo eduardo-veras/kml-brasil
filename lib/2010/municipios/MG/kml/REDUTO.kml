@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>REDUTO.kml</name>
+	<Placemark>
+		<name>REDUTO</name>
+		<description>REDUTO / MG</description>
+		<LineString>
+			<coordinates>
+				-41.88739000014834,-20.169205996359608 -41.873074000065,-20.197994996571765 -41.89745700034024,-20.227051996552348 -41.88765499977836,-20.305273996597634 -41.92097500029598,-20.29133399676647 -42.00029299962222,-20.309805996949137 -42.00522599958015,-20.241949996495123 -41.95853100010555,-20.156077997101818 -41.88739000014834,-20.169205996359608
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

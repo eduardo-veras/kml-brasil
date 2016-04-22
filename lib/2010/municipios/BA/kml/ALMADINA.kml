@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALMADINA.kml</name>
+	<Placemark>
+		<name>ALMADINA</name>
+		<description>ALMADINA / BA</description>
+		<LineString>
+			<coordinates>
+				-39.583579757999416,-14.784411977230945 -39.657627386594584,-14.769686723563382 -39.75286499592278,-14.71684473199872 -39.71917819521747,-14.60169129781508 -39.61968165208651,-14.662089567679345 -39.5696459113297,-14.721381927733717 -39.583579757999416,-14.784411977230945
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

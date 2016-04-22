@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GENTIL.kml</name>
+	<Placemark>
+		<name>GENTIL</name>
+		<description>GENTIL / RS</description>
+		<LineString>
+			<coordinates>
+				-51.991050070504286,-28.43943338923947 -52.06245208609488,-28.474087463865317 -52.08437438836728,-28.476332739164548 -52.110732277372676,-28.398947233627894 -52.083007836142656,-28.344805707317505 -52.071654827907935,-28.305875962505638 -52.01862313694818,-28.3036276843701 -51.9637900958362,-28.33121026833919 -51.991050070504286,-28.43943338923947
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

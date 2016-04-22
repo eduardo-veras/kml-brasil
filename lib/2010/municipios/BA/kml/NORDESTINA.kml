@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NORDESTINA.kml</name>
+	<Placemark>
+		<name>NORDESTINA</name>
+		<description>NORDESTINA / BA</description>
+		<LineString>
+			<coordinates>
+				-39.326272524957005,-10.977709139764954 -39.416339009137914,-11.016375143997664 -39.51829005933871,-10.94465635480691 -39.53675363737045,-10.860357886607119 -39.58450204873054,-10.787379367563688 -39.370507857951225,-10.765474177591159 -39.37245081175553,-10.950426478798931 -39.326272524957005,-10.977709139764954
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

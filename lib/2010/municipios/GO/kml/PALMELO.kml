@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PALMELO.kml</name>
+	<Placemark>
+		<name>PALMELO</name>
+		<description>PALMELO / GO</description>
+		<LineString>
+			<coordinates>
+				-48.414527864469335,-17.34261512918482 -48.40441029539875,-17.238944871108856 -48.374855519766356,-17.270388195159057 -48.36668742188698,-17.3348991052095 -48.414527864469335,-17.34261512918482
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

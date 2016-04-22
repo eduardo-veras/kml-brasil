@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BELA VISTA DO MARANHÃO.kml</name>
+	<Placemark>
+		<name>BELA VISTA DO MARANHÃO</name>
+		<description>BELA VISTA DO MARANHÃO / MA</description>
+		<LineString>
+			<coordinates>
+				-45.14588685219644,-3.730558001450561 -45.14647524083966,-3.7315773110440205 -45.203892261718465,-3.784969019504615 -45.299124290753355,-3.7997718046250384 -45.32556397309884,-3.8450682459027803 -45.32374342242099,-3.69572164413853 -45.28822127719013,-3.7182007058978 -45.14588685219644,-3.730558001450561
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

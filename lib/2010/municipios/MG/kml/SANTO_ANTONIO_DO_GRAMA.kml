@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANTO ANTÔNIO DO GRAMA.kml</name>
+	<Placemark>
+		<name>SANTO ANTÔNIO DO GRAMA</name>
+		<description>SANTO ANTÔNIO DO GRAMA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.55514200000323,-20.2676619969036 -42.543038000303454,-20.35975099701085 -42.56183300009286,-20.37932099656672 -42.64191599962362,-20.373457996888988 -42.68915699999553,-20.344448997323298 -42.65119100016449,-20.27672099737606 -42.55514200000323,-20.2676619969036
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

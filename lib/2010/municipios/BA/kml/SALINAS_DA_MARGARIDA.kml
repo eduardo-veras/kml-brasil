@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SALINAS DA MARGARIDA.kml</name>
+	<Placemark>
+		<name>SALINAS DA MARGARIDA</name>
+		<description>SALINAS DA MARGARIDA / BA</description>
+		<LineString>
+			<coordinates>
+				-38.724710913677654,-12.9289535053 -38.751460046443924,-12.966850689907346 -38.81122071676265,-12.917605523376153 -38.80188562891857,-12.83853268913225 -38.69856455061347,-12.800553411710553 -38.69558405975653,-12.816417219678897 -38.724710913677654,-12.9289535053
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

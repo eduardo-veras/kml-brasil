@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SARDOÁ.kml</name>
+	<Placemark>
+		<name>SARDOÁ</name>
+		<description>SARDOÁ / MG</description>
+		<LineString>
+			<coordinates>
+				-42.30128299971062,-18.739569996757893 -42.32701700023432,-18.81829799675512 -42.45601499999219,-18.814511997530644 -42.50448400033628,-18.787314996989494 -42.47447499962152,-18.73634099713928 -42.35176800039284,-18.744253996924385 -42.30128299971062,-18.739569996757893
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

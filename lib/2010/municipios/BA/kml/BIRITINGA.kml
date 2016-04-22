@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BIRITINGA.kml</name>
+	<Placemark>
+		<name>BIRITINGA</name>
+		<description>BIRITINGA / BA</description>
+		<LineString>
+			<coordinates>
+				-38.67424083634546,-11.692908732252135 -38.74675974066946,-11.692595757388233 -38.83384979892901,-11.77271205881442 -38.846596321063316,-11.664310786713372 -38.85349782186694,-11.605336048319941 -38.86505002004236,-11.382289594788915 -38.78533338542735,-11.354605552004557 -38.67424083634546,-11.692908732252135
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GUABIJU.kml</name>
+	<Placemark>
+		<name>GUABIJU</name>
+		<description>GUABIJU / RS</description>
+		<LineString>
+			<coordinates>
+				-51.62424874968002,-28.516019037748322 -51.599722767091976,-28.537414280644498 -51.61587107379097,-28.63697847257839 -51.596203015756544,-28.669755250204616 -51.66988352940132,-28.62861371724921 -51.707118528797025,-28.609625941483955 -51.74054940852835,-28.549169143740926 -51.72588940067527,-28.525694972245105 -51.62424874968002,-28.516019037748322
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

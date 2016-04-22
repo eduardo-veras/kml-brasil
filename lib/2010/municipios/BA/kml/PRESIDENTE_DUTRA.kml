@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PRESIDENTE DUTRA.kml</name>
+	<Placemark>
+		<name>PRESIDENTE DUTRA</name>
+		<description>PRESIDENTE DUTRA / BA</description>
+		<LineString>
+			<coordinates>
+				-41.90917821800031,-11.177798674069493 -41.93919958978921,-11.260435901995208 -41.97852498414068,-11.36868354021317 -41.9922016220072,-11.406257970728745 -42.048724722168174,-11.330972839025264 -42.05174708276161,-11.235765868699843 -41.96159006922625,-11.245890744761994 -41.90917821800031,-11.177798674069493
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

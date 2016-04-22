@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FAZENDA VILANOVA.kml</name>
+	<Placemark>
+		<name>FAZENDA VILANOVA</name>
+		<description>FAZENDA VILANOVA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.79868660650163,-29.614199108102298 -51.82676302978996,-29.648765675095774 -51.87354031363452,-29.642576985039796 -51.882695635095445,-29.560181043420357 -51.8724906959888,-29.54392204456667 -51.81676038688232,-29.529374825187972 -51.795558858854235,-29.57370641711742 -51.79868660650163,-29.614199108102298
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

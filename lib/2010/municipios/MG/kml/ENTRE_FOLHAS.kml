@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ENTRE FOLHAS.kml</name>
+	<Placemark>
+		<name>ENTRE FOLHAS</name>
+		<description>ENTRE FOLHAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.240707999574454,-19.727018996929132 -42.28085400011196,-19.651180997105314 -42.26352699967123,-19.582852996468546 -42.227641999578566,-19.58874699667649 -42.205268000217984,-19.69678599667634 -42.240707999574454,-19.727018996929132
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

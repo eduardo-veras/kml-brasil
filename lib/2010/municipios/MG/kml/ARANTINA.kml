@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ARANTINA.kml</name>
+	<Placemark>
+		<name>ARANTINA</name>
+		<description>ARANTINA / MG</description>
+		<LineString>
+			<coordinates>
+				-44.17444300014432,-21.827614996834598 -44.1967890000123,-21.890933996706565 -44.25658200005921,-21.975441997050496 -44.28572400036228,-21.928624996446388 -44.23158000001695,-21.892923996745026 -44.22809899956911,-21.844346996816398 -44.17444300014432,-21.827614996834598
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

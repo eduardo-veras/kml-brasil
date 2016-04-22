@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VANINI.kml</name>
+	<Placemark>
+		<name>VANINI</name>
+		<description>VANINI / RS</description>
+		<LineString>
+			<coordinates>
+				-51.782349752439075,-28.4724597314314 -51.79748766002746,-28.532255031044826 -51.803524164108865,-28.53894407241097 -51.8761919988616,-28.490254360450308 -51.91240389712209,-28.48434960974663 -51.90598856442068,-28.467362438825432 -51.88439740331745,-28.458130572467894 -51.782349752439075,-28.4724597314314
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

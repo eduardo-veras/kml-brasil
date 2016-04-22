@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO VALENTIM DO SUL.kml</name>
+	<Placemark>
+		<name>SÃO VALENTIM DO SUL</name>
+		<description>SÃO VALENTIM DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-51.714042510853176,-29.09067074445926 -51.73912895993351,-29.13675345131071 -51.77963429358772,-29.09424104848557 -51.80839941500096,-29.081724146651993 -51.81409910319104,-29.014511614719197 -51.76001612544377,-28.996492317066725 -51.73752676195045,-29.01906191627438 -51.714042510853176,-29.09067074445926
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

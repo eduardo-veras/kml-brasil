@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ITUMIRIM.kml</name>
+	<Placemark>
+		<name>ITUMIRIM</name>
+		<description>ITUMIRIM / MG</description>
+		<LineString>
+			<coordinates>
+				-44.759599999740146,-21.234802996760834 -44.771314000340794,-21.36163099627339 -44.81790999974663,-21.393288996589888 -44.9042069998531,-21.34282499687606 -44.88205499993825,-21.311815996810765 -44.8692759996876,-21.21219099631736 -44.86339500007915,-21.166666995985054 -44.80957300019378,-21.221147996582715 -44.759599999740146,-21.234802996760834
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

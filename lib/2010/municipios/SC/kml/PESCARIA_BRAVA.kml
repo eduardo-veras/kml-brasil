@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PESCARIA BRAVA.kml</name>
+	<Placemark>
+		<name>PESCARIA BRAVA</name>
+		<description>PESCARIA BRAVA / SC</description>
+		<LineString>
+			<coordinates>
+				-48.814313057901245,-28.35656756264285 -48.837554451576636,-28.427529082201318 -48.91412599961512,-28.467209999242016 -48.93945500034795,-28.418903999220163 -48.93845900028259,-28.383237999334142 -48.94868100042777,-28.36034099923768 -48.814313057901245,-28.35656756264285
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TRIZIDELA DO VALE.kml</name>
+	<Placemark>
+		<name>TRIZIDELA DO VALE</name>
+		<description>TRIZIDELA DO VALE / MA</description>
+		<LineString>
+			<coordinates>
+				-44.72526649295423,-4.650744906252385 -44.745942887054525,-4.564788030643058 -44.72645767108463,-4.454316386092273 -44.60019099691692,-4.452130648610478 -44.60687876484309,-4.572379029068884 -44.65798549383544,-4.606490554395521 -44.65812798601769,-4.6361319815056845 -44.72526649295423,-4.650744906252385
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

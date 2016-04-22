@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CHUÍ.kml</name>
+	<Placemark>
+		<name>CHUÍ</name>
+		<description>CHUÍ / RS</description>
+		<LineString>
+			<coordinates>
+				-53.42324599840407,-33.74464542564584 -53.44060411628692,-33.694598856152254 -53.523107428864705,-33.69004393388042 -53.47859721089253,-33.617459350268746 -53.41339178770079,-33.56059999989003 -53.30095228801764,-33.66217383485457 -53.42324599840407,-33.74464542564584
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAETANÓPOLIS.kml</name>
+	<Placemark>
+		<name>CAETANÓPOLIS</name>
+		<description>CAETANÓPOLIS / MG</description>
+		<LineString>
+			<coordinates>
+				-44.29903900014972,-19.403451997111915 -44.352127000360724,-19.385701996949535 -44.42518499968793,-19.401064996752154 -44.438026000099796,-19.344496997038732 -44.48387800026944,-19.2977039966421 -44.440361999906315,-19.27354099661966 -44.360544000005575,-19.309791997402726 -44.29903900014972,-19.403451997111915
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

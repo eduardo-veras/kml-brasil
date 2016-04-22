@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MESSIAS.kml</name>
+	<Placemark>
+		<name>MESSIAS</name>
+		<description>MESSIAS / AL</description>
+		<LineString>
+			<coordinates>
+				-35.87742009556092,-9.416687015893046 -35.830089580269885,-9.322681571297437 -35.8383343003876,-9.310007734169574 -35.836350964325504,-9.264542465862064 -35.80454949426371,-9.26654201400271 -35.769016951071364,-9.309006617861087 -35.76950271447862,-9.387610249713191 -35.87742009556092,-9.416687015893046
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

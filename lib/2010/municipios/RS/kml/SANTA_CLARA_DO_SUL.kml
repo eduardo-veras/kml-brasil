@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANTA CLARA DO SUL.kml</name>
+	<Placemark>
+		<name>SANTA CLARA DO SUL</name>
+		<description>SANTA CLARA DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-52.20173832826117,-29.425690897416928 -52.12619455153731,-29.424251409275087 -52.042022482151765,-29.4454238334431 -52.04914004507697,-29.47422044731576 -52.1421352767216,-29.484517696434523 -52.15601434658481,-29.47697938748871 -52.21819945244272,-29.456110163453218 -52.20173832826117,-29.425690897416928
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

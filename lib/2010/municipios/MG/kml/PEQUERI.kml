@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PEQUERI.kml</name>
+	<Placemark>
+		<name>PEQUERI</name>
+		<description>PEQUERI / MG</description>
+		<LineString>
+			<coordinates>
+				-43.076216999614815,-21.7985269963238 -43.061215000272,-21.8231799964596 -43.13421399957639,-21.88326599652845 -43.18878399978172,-21.85456999610841 -43.15678599997386,-21.827160996582677 -43.17124400031031,-21.759519996150857 -43.076216999614815,-21.7985269963238
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

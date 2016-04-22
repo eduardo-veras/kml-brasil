@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA CANDELÁRIA.kml</name>
+	<Placemark>
+		<name>NOVA CANDELÁRIA</name>
+		<description>NOVA CANDELÁRIA / RS</description>
+		<LineString>
+			<coordinates>
+				-54.071816133507696,-27.576335758188634 -54.0456751142151,-27.65286287791946 -54.083152141857795,-27.629502706284825 -54.14236443616977,-27.625826865917077 -54.19899399807451,-27.591672932160066 -54.19847819011636,-27.559450937310885 -54.11285096729824,-27.560885158123483 -54.071816133507696,-27.576335758188634
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

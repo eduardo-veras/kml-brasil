@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DOM PEDRO.kml</name>
+	<Placemark>
+		<name>DOM PEDRO</name>
+		<description>DOM PEDRO / MA</description>
+		<LineString>
+			<coordinates>
+				-44.349960483189705,-5.110209254553411 -44.488275538485254,-5.1273870421782135 -44.49616160627306,-4.975901724884636 -44.411705062438614,-4.975747054982548 -44.412173423064985,-4.949211946474122 -44.357927251641286,-4.894959747794076 -44.30661264885464,-4.911877527026206 -44.312448048338695,-5.024118353878862 -44.349960483189705,-5.110209254553411
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

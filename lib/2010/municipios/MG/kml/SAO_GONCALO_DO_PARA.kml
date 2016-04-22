@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO GONÇALO DO PARÁ.kml</name>
+	<Placemark>
+		<name>SÃO GONÇALO DO PARÁ</name>
+		<description>SÃO GONÇALO DO PARÁ / MG</description>
+		<LineString>
+			<coordinates>
+				-44.81598299991549,-19.892705996984148 -44.78862399999758,-19.953873996587618 -44.74418400019141,-19.962220996601673 -44.75379099985474,-20.054288996639855 -44.86076200006619,-20.09035999631675 -44.905287000194846,-19.974506996600553 -44.88785800044633,-19.918251996932042 -44.89287599982748,-19.85545699694279 -44.81598299991549,-19.892705996984148
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ESTAÇÃO.kml</name>
+	<Placemark>
+		<name>ESTAÇÃO</name>
+		<description>ESTAÇÃO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.22699856233373,-27.969971816446105 -52.26854976346078,-27.954775572534572 -52.33480046237139,-27.9765327439909 -52.37177719985783,-27.92799647255913 -52.350407138878325,-27.89807806864792 -52.27824368889509,-27.87582197760213 -52.219086249630664,-27.913108569304995 -52.22699856233373,-27.969971816446105
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

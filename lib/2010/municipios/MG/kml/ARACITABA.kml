@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ARACITABA.kml</name>
+	<Placemark>
+		<name>ARACITABA</name>
+		<description>ARACITABA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.3242029997686,-21.29649699723859 -43.35269499977437,-21.35801599684072 -43.472120999684364,-21.411864996172596 -43.46978399983169,-21.371478996258645 -43.4238650001696,-21.336743997037786 -43.37168200032403,-21.284666996684507 -43.3242029997686,-21.29649699723859
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

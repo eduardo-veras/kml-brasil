@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANTO ANTÔNIO DO RIO ABAIXO.kml</name>
+	<Placemark>
+		<name>SANTO ANTÔNIO DO RIO ABAIXO</name>
+		<description>SANTO ANTÔNIO DO RIO ABAIXO / MG</description>
+		<LineString>
+			<coordinates>
+				-43.19122599997985,-19.24233099717776 -43.22591499977739,-19.29937199711992 -43.29847200028257,-19.28649699693881 -43.30702299981152,-19.22766399709576 -43.272594000312836,-19.172109997378413 -43.19122599997985,-19.24233099717776
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

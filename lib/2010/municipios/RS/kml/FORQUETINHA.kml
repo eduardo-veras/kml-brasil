@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FORQUETINHA.kml</name>
+	<Placemark>
+		<name>FORQUETINHA</name>
+		<description>FORQUETINHA / RS</description>
+		<LineString>
+			<coordinates>
+				-52.040454710216636,-29.40166118231764 -52.12619455153731,-29.424251409275087 -52.20173832826117,-29.425690897416928 -52.18044191905926,-29.405387713871846 -52.19237969526671,-29.360695285159238 -52.16428655358152,-29.3286263917945 -52.08946758456136,-29.360404294222747 -52.040454710216636,-29.40166118231764
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

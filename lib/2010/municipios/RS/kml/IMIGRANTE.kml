@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IMIGRANTE.kml</name>
+	<Placemark>
+		<name>IMIGRANTE</name>
+		<description>IMIGRANTE / RS</description>
+		<LineString>
+			<coordinates>
+				-51.700925965360966,-29.304325450159354 -51.727892067664754,-29.362164024649985 -51.781056783643635,-29.387943706237024 -51.81608791162779,-29.387669649534644 -51.83945649372214,-29.344226603974562 -51.775907274601025,-29.342594155495817 -51.78002547619474,-29.298923594947894 -51.700925965360966,-29.304325450159354
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

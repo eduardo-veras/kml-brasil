@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALBERTINA.kml</name>
+	<Placemark>
+		<name>ALBERTINA</name>
+		<description>ALBERTINA / MG</description>
+		<LineString>
+			<coordinates>
+				-46.53304299993448,-22.18549299700419 -46.57526199984136,-22.22009299629468 -46.68030525198577,-22.216515106486952 -46.64558594593461,-22.18064652981343 -46.53304299993448,-22.18549299700419
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

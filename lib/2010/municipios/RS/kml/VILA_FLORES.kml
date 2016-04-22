@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VILA FLORES.kml</name>
+	<Placemark>
+		<name>VILA FLORES</name>
+		<description>VILA FLORES / RS</description>
+		<LineString>
+			<coordinates>
+				-51.46251307751646,-28.85643346912923 -51.456222895370274,-28.887402816286908 -51.55945743641149,-28.879809361812534 -51.620777876497755,-28.886390998046068 -51.66718217731557,-28.834838514685657 -51.49409665983296,-28.823978438354175 -51.46251307751646,-28.85643346912923
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

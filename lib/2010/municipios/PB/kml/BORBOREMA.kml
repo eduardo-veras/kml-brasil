@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BORBOREMA.kml</name>
+	<Placemark>
+		<name>BORBOREMA</name>
+		<description>BORBOREMA / PB</description>
+		<LineString>
+			<coordinates>
+				-35.57469153058963,-6.8064497162813495 -35.60010549477272,-6.811431861491144 -35.63678393612969,-6.800711834783328 -35.64419283982767,-6.774975670490733 -35.59063028625866,-6.784482565717781 -35.56710954516933,-6.792144921750719 -35.53630288087322,-6.770931567637717 -35.52853957953795,-6.771528718375578 -35.57469153058963,-6.8064497162813495
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

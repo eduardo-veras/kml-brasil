@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>OURO VERDE DE MINAS.kml</name>
+	<Placemark>
+		<name>OURO VERDE DE MINAS</name>
+		<description>OURO VERDE DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-41.25207499966149,-17.954188997124447 -41.25353100025541,-17.998488997669085 -41.21694900039603,-18.07702899709051 -41.29962499989381,-18.11432899678573 -41.37155600030911,-18.061986996802432 -41.36922499983382,-18.031714997449114 -41.3299960002152,-17.99338599706607 -41.25207499966149,-17.954188997124447
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

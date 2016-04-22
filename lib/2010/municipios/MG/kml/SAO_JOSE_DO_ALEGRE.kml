@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DO ALEGRE.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DO ALEGRE</name>
+		<description>SÃO JOSÉ DO ALEGRE / MG</description>
+		<LineString>
+			<coordinates>
+				-45.449621999555575,-22.32581699655708 -45.445762999662634,-22.35456699676945 -45.51179300044657,-22.372622996653945 -45.574660000158815,-22.32222999661701 -45.55056699976717,-22.26298099647579 -45.52459099977477,-22.3030449968291 -45.449621999555575,-22.32581699655708
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ROCHEDO DE MINAS.kml</name>
+	<Placemark>
+		<name>ROCHEDO DE MINAS</name>
+		<description>ROCHEDO DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.98130599977202,-21.649832996595478 -43.02910899998034,-21.675736996864885 -43.09151299992499,-21.660183996394267 -43.01997999987702,-21.584916996821903 -42.98130599977202,-21.649832996595478
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

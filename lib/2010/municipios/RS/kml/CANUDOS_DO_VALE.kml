@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CANUDOS DO VALE.kml</name>
+	<Placemark>
+		<name>CANUDOS DO VALE</name>
+		<description>CANUDOS DO VALE / RS</description>
+		<LineString>
+			<coordinates>
+				-52.16428655358152,-29.3286263917945 -52.19237969526671,-29.360695285159238 -52.300715874438026,-29.35441511606473 -52.28946615423956,-29.288387983218797 -52.24256592947404,-29.31348565853625 -52.18749746293753,-29.28657945108074 -52.16428655358152,-29.3286263917945
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>WENCESLAU BRAZ.kml</name>
+	<Placemark>
+		<name>WENCESLAU BRAZ</name>
+		<description>WENCESLAU BRAZ / MG</description>
+		<LineString>
+			<coordinates>
+				-45.42035353388843,-22.62116531292878 -45.48037715518154,-22.590489197818158 -45.43014699988407,-22.539725996357618 -45.35925499971842,-22.467211996936044 -45.33707500031096,-22.519417996942934 -45.42035353388843,-22.62116531292878
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

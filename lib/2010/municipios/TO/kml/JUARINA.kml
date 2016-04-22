@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JUARINA.kml</name>
+	<Placemark>
+		<name>JUARINA</name>
+		<description>JUARINA / TO</description>
+		<LineString>
+			<coordinates>
+				-49.00908794964914,-8.085167597406667 -48.975919234884714,-8.19217929643736 -49.094408073773536,-8.220983292844664 -49.14379856894874,-8.253241124778015 -49.2221109580542,-8.20550864310934 -49.17563071578485,-8.009238069081562 -49.08024817351435,-8.036997546999146 -49.00908794964914,-8.085167597406667
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

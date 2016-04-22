@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JUCATI.kml</name>
+	<Placemark>
+		<name>JUCATI</name>
+		<description>JUCATI / PE</description>
+		<LineString>
+			<coordinates>
+				-36.44822290446342,-8.657788730265622 -36.400653550820664,-8.77771400229932 -36.44445200305745,-8.80090063085936 -36.487024713519645,-8.7956842140552 -36.51595196291271,-8.770203468914929 -36.51469523229906,-8.732494803792122 -36.48721224195134,-8.703889790481412 -36.44822290446342,-8.657788730265622
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FLORESTA DO PIAUÍ.kml</name>
+	<Placemark>
+		<name>FLORESTA DO PIAUÍ</name>
+		<description>FLORESTA DO PIAUÍ / PI</description>
+		<LineString>
+			<coordinates>
+				-41.73151718197232,-7.530771355313732 -41.86181360851117,-7.536035134014185 -41.861855448570054,-7.416700356835975 -41.83082031330679,-7.343799308990867 -41.81960270789858,-7.357625117405178 -41.780397113136246,-7.424404768765044 -41.74158680998323,-7.461121128237437 -41.73151718197232,-7.530771355313732
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

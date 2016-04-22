@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAPIVARI DE BAIXO.kml</name>
+	<Placemark>
+		<name>CAPIVARI DE BAIXO</name>
+		<description>CAPIVARI DE BAIXO / SC</description>
+		<LineString>
+			<coordinates>
+				-48.91412599961512,-28.467209999242016 -48.92339599992539,-28.512662998998167 -48.982074292094865,-28.462388494533343 -48.979502999963415,-28.421862998978156 -48.93845900028259,-28.383237999334142 -48.93945500034795,-28.418903999220163 -48.91412599961512,-28.467209999242016
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

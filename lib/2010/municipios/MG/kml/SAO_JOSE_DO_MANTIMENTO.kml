@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DO MANTIMENTO.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DO MANTIMENTO</name>
+		<description>SÃO JOSÉ DO MANTIMENTO / MG</description>
+		<LineString>
+			<coordinates>
+				-41.719817000354226,-19.997779996949248 -41.74428700014488,-20.061086997167138 -41.81075999977412,-20.042497996984935 -41.80749300020176,-19.989523996635114 -41.719817000354226,-19.997779996949248
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

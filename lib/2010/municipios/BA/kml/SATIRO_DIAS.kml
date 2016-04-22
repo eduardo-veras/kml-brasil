@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÁTIRO DIAS.kml</name>
+	<Placemark>
+		<name>SÁTIRO DIAS</name>
+		<description>SÁTIRO DIAS / BA</description>
+		<LineString>
+			<coordinates>
+				-38.62912859870585,-11.708198928337822 -38.67424083634546,-11.692908732252135 -38.78533338542735,-11.354605552004557 -38.52024531606844,-11.451985841972999 -38.499096997328536,-11.49072190249376 -38.42543567611551,-11.521240922230731 -38.43474304325679,-11.724763068061122 -38.54206427814387,-11.754533923801489 -38.62912859870585,-11.708198928337822
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

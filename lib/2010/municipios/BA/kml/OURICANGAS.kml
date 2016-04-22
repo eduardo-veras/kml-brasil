@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>OURIÇANGAS.kml</name>
+	<Placemark>
+		<name>OURIÇANGAS</name>
+		<description>OURIÇANGAS / BA</description>
+		<LineString>
+			<coordinates>
+				-38.606617841240336,-11.961819798944532 -38.60572763562186,-12.02183926177247 -38.57662616506542,-12.094040789051121 -38.65663639325493,-12.05367990989987 -38.699918025796194,-12.05417565128522 -38.72408977442353,-12.012738914069587 -38.68363212102554,-11.947207111618866 -38.606617841240336,-11.961819798944532
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

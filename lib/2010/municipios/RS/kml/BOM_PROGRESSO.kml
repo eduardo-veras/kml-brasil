@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BOM PROGRESSO.kml</name>
+	<Placemark>
+		<name>BOM PROGRESSO</name>
+		<description>BOM PROGRESSO / RS</description>
+		<LineString>
+			<coordinates>
+				-53.81098234665791,-27.4984889436098 -53.81091101333254,-27.57625810352863 -53.83849943480101,-27.593625710158335 -53.89771287305064,-27.595298196454564 -53.90632848886861,-27.5297683878008 -53.88497481443608,-27.504806484031974 -53.82826682175636,-27.489109810569232 -53.81098234665791,-27.4984889436098
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

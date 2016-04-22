@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BANZAÊ.kml</name>
+	<Placemark>
+		<name>BANZAÊ</name>
+		<description>BANZAÊ / BA</description>
+		<LineString>
+			<coordinates>
+				-38.54681909182756,-10.564194618087129 -38.56304693996424,-10.646759601674205 -38.64336202213957,-10.718400892686986 -38.6714355127387,-10.665017206179073 -38.73582798927026,-10.602668892255508 -38.5834244012151,-10.532684409657747 -38.54681909182756,-10.564194618087129
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

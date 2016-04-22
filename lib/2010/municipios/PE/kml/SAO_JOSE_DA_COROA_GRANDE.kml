@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DA COROA GRANDE.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DA COROA GRANDE</name>
+		<description>SÃO JOSÉ DA COROA GRANDE / PE</description>
+		<LineString>
+			<coordinates>
+				-35.235015990295665,-8.883198549073711 -35.26063080097066,-8.855600697314287 -35.13687676515053,-8.829514194024796 -35.13039268917123,-8.862818754981504 -35.15125238758759,-8.907707482314436 -35.17123181699469,-8.890561262692074 -35.235015990295665,-8.883198549073711
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

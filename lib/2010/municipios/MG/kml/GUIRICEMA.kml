@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GUIRICEMA.kml</name>
+	<Placemark>
+		<name>GUIRICEMA</name>
+		<description>GUIRICEMA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.61186000033871,-20.986296996908834 -42.65534400012547,-21.07768199692657 -42.70673000008941,-21.141850996426285 -42.79011900009175,-21.095925996487495 -42.76366499963996,-21.06291199659131 -42.758080000191796,-20.96624699680143 -42.72067200001277,-20.895472996681406 -42.65112399977272,-20.91081699650715 -42.61186000033871,-20.986296996908834
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

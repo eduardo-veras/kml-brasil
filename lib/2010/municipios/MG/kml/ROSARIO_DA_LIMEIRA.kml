@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ROSÁRIO DA LIMEIRA.kml</name>
+	<Placemark>
+		<name>ROSÁRIO DA LIMEIRA</name>
+		<description>ROSÁRIO DA LIMEIRA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.54659899994385,-21.043981996871594 -42.58204599962312,-20.953095996483 -42.5661119995691,-20.92206199706345 -42.42711800019549,-20.95565199654237 -42.46120099992618,-21.01382599657245 -42.51513300038761,-21.003273996497683 -42.54659899994385,-21.043981996871594
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

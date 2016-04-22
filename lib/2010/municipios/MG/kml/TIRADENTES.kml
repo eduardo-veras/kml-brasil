@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TIRADENTES.kml</name>
+	<Placemark>
+		<name>TIRADENTES</name>
+		<description>TIRADENTES / MG</description>
+		<LineString>
+			<coordinates>
+				-44.14293799968891,-21.07334899675874 -44.10063200026656,-21.12057999666945 -44.12135599997936,-21.178770996584205 -44.199813024351556,-21.122760433547114 -44.204684999912786,-21.115458996135715 -44.22448900036704,-21.074740997099298 -44.14293799968891,-21.07334899675874
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TORITAMA.kml</name>
+	<Placemark>
+		<name>TORITAMA</name>
+		<description>TORITAMA / PE</description>
+		<LineString>
+			<coordinates>
+				-36.01180199376694,-7.987564137974516 -36.08212224994185,-8.022217146004436 -36.09764471033509,-8.004668920434256 -36.07093321059915,-7.980708004370854 -36.01180199376694,-7.987564137974516
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

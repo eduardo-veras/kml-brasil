@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO LUÍS DO CURU.kml</name>
+	<Placemark>
+		<name>SÃO LUÍS DO CURU</name>
+		<description>SÃO LUÍS DO CURU / CE</description>
+		<LineString>
+			<coordinates>
+				-39.21426793741534,-3.6933914440598414 -39.27676737341551,-3.736884920902355 -39.27791917832735,-3.673878487602053 -39.306518137402065,-3.6683925008132405 -39.31542276295011,-3.5807302605929863 -39.266967694903144,-3.5833180489887013 -39.219175807617376,-3.6076144148732965 -39.22622053894668,-3.6818014473788594 -39.21426793741534,-3.6933914440598414
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

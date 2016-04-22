@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAIANA.kml</name>
+	<Placemark>
+		<name>CAIANA</name>
+		<description>CAIANA / MG</description>
+		<LineString>
+			<coordinates>
+				-41.85066252955204,-20.69117174478015 -41.873357011316955,-20.770655412717076 -41.92822950748575,-20.794009700087543 -41.926828999558666,-20.743734996872547 -41.96815100036832,-20.732636996799897 -41.95755199992482,-20.695106997290054 -41.91114000001096,-20.661180996705582 -41.85066252955204,-20.69117174478015
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

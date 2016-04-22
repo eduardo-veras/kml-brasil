@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TOCOS DO MOJI.kml</name>
+	<Placemark>
+		<name>TOCOS DO MOJI</name>
+		<description>TOCOS DO MOJI / MG</description>
+		<LineString>
+			<coordinates>
+				-46.054763999858665,-22.37263099702284 -46.09721100038729,-22.39521199693604 -46.24429100032938,-22.363586996342747 -46.22068399986665,-22.306410996470277 -46.17258100021297,-22.308009996464136 -46.054763999858665,-22.37263099702284
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

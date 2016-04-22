@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VITÓRIA.kml</name>
+	<Placemark>
+		<name>VITÓRIA</name>
+		<description>VITÓRIA / ES</description>
+		<LineString>
+			<coordinates>
+				-29.30279135243893,-20.515797323187883 -29.343623424181658,-20.508451424193822 -29.337052201198105,-20.487440597405623 -29.30279135243893,-20.515797323187883
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>VITÓRIA</name>
+		<description>VITÓRIA / ES</description>
+		<LineString>
+			<coordinates>
+				-40.21493134010922,-20.242651916452758 -40.23438593506279,-20.276304747066376 -40.25879434927975,-20.265791610294514 -40.28911645256221,-20.28378144795539 -40.27448206459559,-20.319947034727818 -40.35454117903214,-20.32690889712785 -40.361593344157484,-20.306196888975194 -40.328943685702484,-20.26042443923643 -40.31099638777306,-20.237388633278783 -40.21493134010922,-20.242651916452758
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

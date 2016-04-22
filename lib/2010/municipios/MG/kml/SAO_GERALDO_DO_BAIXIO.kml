@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO GERALDO DO BAIXIO.kml</name>
+	<Placemark>
+		<name>SÃO GERALDO DO BAIXIO</name>
+		<description>SÃO GERALDO DO BAIXIO / MG</description>
+		<LineString>
+			<coordinates>
+				-41.26379699973171,-18.866476997215614 -41.35755200022459,-19.02249799668516 -41.40242400016746,-19.023469997442362 -41.45847100013651,-18.95236099716226 -41.40632300010634,-18.86650099742303 -41.36059400021287,-18.825412997511762 -41.300790999704816,-18.82609399744001 -41.26379699973171,-18.866476997215614
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

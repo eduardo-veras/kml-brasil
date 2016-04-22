@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO GERALDO DA PIEDADE.kml</name>
+	<Placemark>
+		<name>SÃO GERALDO DA PIEDADE</name>
+		<description>SÃO GERALDO DA PIEDADE / MG</description>
+		<LineString>
+			<coordinates>
+				-42.27709400028783,-18.97196099630287 -42.35495299978106,-18.96072399701478 -42.36208300033013,-18.925693996780467 -42.32701700023432,-18.81829799675512 -42.273181999749454,-18.824723997214676 -42.26095000044211,-18.8992719969051 -42.27709400028783,-18.97196099630287
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

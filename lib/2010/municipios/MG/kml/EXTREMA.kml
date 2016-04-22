@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>EXTREMA.kml</name>
+	<Placemark>
+		<name>EXTREMA</name>
+		<description>EXTREMA / MG</description>
+		<LineString>
+			<coordinates>
+				-46.22898599960416,-22.8065909965772 -46.192197885024314,-22.865230571133907 -46.25741075819991,-22.89087490205503 -46.376289403732926,-22.877079075239067 -46.37681108066681,-22.82781946289782 -46.33256610783957,-22.766115804600645 -46.29970800002411,-22.72166599678826 -46.24906700024184,-22.75177299662647 -46.22898599960416,-22.8065909965772
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

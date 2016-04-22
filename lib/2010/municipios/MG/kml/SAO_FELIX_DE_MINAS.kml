@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO FÉLIX DE MINAS.kml</name>
+	<Placemark>
+		<name>SÃO FÉLIX DE MINAS</name>
+		<description>SÃO FÉLIX DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-41.4904150001521,-18.63723499719731 -41.539734000123985,-18.58151199688109 -41.51175999972418,-18.534897997544533 -41.45988699978517,-18.514101997209366 -41.39563400000907,-18.530192997308916 -41.3649270003807,-18.49891599747525 -41.383720000077915,-18.58798499681012 -41.42660099993617,-18.62110999732846 -41.4904150001521,-18.63723499719731
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

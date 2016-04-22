@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PACUJÁ.kml</name>
+	<Placemark>
+		<name>PACUJÁ</name>
+		<description>PACUJÁ / CE</description>
+		<LineString>
+			<coordinates>
+				-40.65512082116891,-4.008891347057954 -40.68255002306506,-4.057564712941087 -40.712248501367185,-4.061877388430673 -40.73128488998566,-3.967098029550357 -40.67733708933514,-3.954423624950266 -40.665689214085944,-3.9391556169381374 -40.64722327533383,-3.9772744637454593 -40.65512082116891,-4.008891347057954
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

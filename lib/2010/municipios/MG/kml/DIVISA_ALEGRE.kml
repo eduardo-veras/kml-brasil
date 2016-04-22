@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DIVISA ALEGRE.kml</name>
+	<Placemark>
+		<name>DIVISA ALEGRE</name>
+		<description>DIVISA ALEGRE / MG</description>
+		<LineString>
+			<coordinates>
+				-41.34216517198507,-15.638638933939603 -41.33019238427107,-15.743322370031308 -41.34254999998245,-15.801226997927586 -41.3809180003654,-15.736298997600613 -41.42795600036908,-15.71198999714062 -41.417140999857224,-15.635691997687502 -41.34216517198507,-15.638638933939603
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

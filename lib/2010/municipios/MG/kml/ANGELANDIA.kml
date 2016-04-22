@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ANGELÂNDIA.kml</name>
+	<Placemark>
+		<name>ANGELÂNDIA</name>
+		<description>ANGELÂNDIA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.214295000114134,-17.770999997551826 -42.2666929999819,-17.788345997070053 -42.32271100041231,-17.784267996970414 -42.299543000409074,-17.729676997595334 -42.36904300023423,-17.68015599730137 -42.28823100036033,-17.595668997026564 -42.25093299985804,-17.61518099750498 -42.214295000114134,-17.770999997551826
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

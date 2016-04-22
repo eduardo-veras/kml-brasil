@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JOANÉSIA.kml</name>
+	<Placemark>
+		<name>JOANÉSIA</name>
+		<description>JOANÉSIA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.622751999904835,-19.118780996845487 -42.69761999996297,-19.353756996887853 -42.742043999930615,-19.3552849963055 -42.727028999988306,-19.32043799731565 -42.746159999983945,-19.225274996643748 -42.79247800005959,-19.18833299726998 -42.74864300027423,-19.15235399643973 -42.66399999999993,-19.097890996672106 -42.622751999904835,-19.118780996845487
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

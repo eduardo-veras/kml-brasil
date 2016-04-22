@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ARABUTÃ.kml</name>
+	<Placemark>
+		<name>ARABUTÃ</name>
+		<description>ARABUTÃ / SC</description>
+		<LineString>
+			<coordinates>
+				-52.09249996450171,-27.1561295943053 -52.115447794280215,-27.18491531289135 -52.19265025540494,-27.199559570018096 -52.23332565535469,-27.1812291033404 -52.252616176195545,-27.131648404250427 -52.2277917859621,-27.068233109470384 -52.20072128046269,-27.09419775192464 -52.1369127454268,-27.105688952682954 -52.09249996450171,-27.1561295943053
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

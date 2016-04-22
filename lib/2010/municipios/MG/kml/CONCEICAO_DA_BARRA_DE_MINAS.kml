@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CONCEIÇÃO DA BARRA DE MINAS.kml</name>
+	<Placemark>
+		<name>CONCEIÇÃO DA BARRA DE MINAS</name>
+		<description>CONCEIÇÃO DA BARRA DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-44.40938999974867,-21.08970399644221 -44.42539699957183,-21.17830099649376 -44.46602391707006,-21.230980021011135 -44.53669899985891,-21.24122899722039 -44.571772000277576,-21.206887996383898 -44.580515999713555,-21.102835996783767 -44.48238799990622,-21.043690996941905 -44.40938999974867,-21.08970399644221
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

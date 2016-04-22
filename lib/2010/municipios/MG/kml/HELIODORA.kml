@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>HELIODORA.kml</name>
+	<Placemark>
+		<name>HELIODORA</name>
+		<description>HELIODORA / MG</description>
+		<LineString>
+			<coordinates>
+				-45.47693199991181,-21.989836996280303 -45.4585979997978,-22.081927996479806 -45.59764599986295,-22.102956996767944 -45.618565999621126,-22.01884699679141 -45.47693199991181,-21.989836996280303
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

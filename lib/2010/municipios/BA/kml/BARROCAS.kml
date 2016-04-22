@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BARROCAS.kml</name>
+	<Placemark>
+		<name>BARROCAS</name>
+		<description>BARROCAS / BA</description>
+		<LineString>
+			<coordinates>
+				-39.15828075135556,-11.632923272790777 -39.14076763441875,-11.493465986765841 -39.05379254369092,-11.398850076070119 -39.06554606409952,-11.488154704975614 -39.02845918034683,-11.552496638708874 -39.07262451820691,-11.61557572014334 -39.15828075135556,-11.632923272790777
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

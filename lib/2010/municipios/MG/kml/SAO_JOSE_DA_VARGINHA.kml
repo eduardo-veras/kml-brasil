@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DA VARGINHA.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DA VARGINHA</name>
+		<description>SÃO JOSÉ DA VARGINHA / MG</description>
+		<LineString>
+			<coordinates>
+				-44.49795500012311,-19.639038997451735 -44.49857299984404,-19.705027997244258 -44.52645799973686,-19.74539999741188 -44.59889900028861,-19.79471499719932 -44.63729400011795,-19.728895997152506 -44.641004000334306,-19.711617997172766 -44.565216000118255,-19.604242997216488 -44.49795500012311,-19.639038997451735
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

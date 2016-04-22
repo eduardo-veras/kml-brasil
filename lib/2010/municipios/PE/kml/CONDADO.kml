@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CONDADO.kml</name>
+	<Placemark>
+		<name>CONDADO</name>
+		<description>CONDADO / PE</description>
+		<LineString>
+			<coordinates>
+				-35.07251437903534,-7.618297619839211 -35.12161811998021,-7.670459267980789 -35.12185978759908,-7.669446355265052 -35.14682241802012,-7.6195720617012626 -35.12912586906356,-7.565090186962493 -35.097186733480896,-7.543663692625273 -35.06130250050995,-7.541194875542999 -35.07251437903534,-7.618297619839211
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

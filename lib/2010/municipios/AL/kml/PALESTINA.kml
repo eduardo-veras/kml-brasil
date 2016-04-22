@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PALESTINA.kml</name>
+	<Placemark>
+		<name>PALESTINA</name>
+		<description>PALESTINA / AL</description>
+		<LineString>
+			<coordinates>
+				-37.30305739907965,-9.636027708611834 -37.28839873931031,-9.686550895407436 -37.23967149054681,-9.736836823060912 -37.31786826281001,-9.704582234082807 -37.349520788953214,-9.688841808602547 -37.33729630797819,-9.67207104334392 -37.317836478070944,-9.66032308434285 -37.30305739907965,-9.636027708611834
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

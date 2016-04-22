@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PATROCÍNIO DO MURIAÉ.kml</name>
+	<Placemark>
+		<name>PATROCÍNIO DO MURIAÉ</name>
+		<description>PATROCÍNIO DO MURIAÉ / MG</description>
+		<LineString>
+			<coordinates>
+				-42.17449375198504,-21.13177754719601 -42.20833276564457,-21.179016069036322 -42.202640469881715,-21.221242840884372 -42.27775600023915,-21.20124499695902 -42.32746800034789,-21.210318997223908 -42.29881900029659,-21.12255199677719 -42.17449375198504,-21.13177754719601
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

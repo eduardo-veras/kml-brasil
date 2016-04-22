@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOÃO DO POLÊSINE.kml</name>
+	<Placemark>
+		<name>SÃO JOÃO DO POLÊSINE</name>
+		<description>SÃO JOÃO DO POLÊSINE / RS</description>
+		<LineString>
+			<coordinates>
+				-53.40408949633314,-29.6106454595203 -53.383804068103245,-29.63225883297872 -53.529765494881644,-29.695761344910068 -53.547174009872606,-29.660894098583753 -53.47739165260265,-29.61240680692856 -53.46921912196484,-29.589094801184103 -53.40408949633314,-29.6106454595203
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

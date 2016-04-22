@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>UBAPORANGA.kml</name>
+	<Placemark>
+		<name>UBAPORANGA</name>
+		<description>UBAPORANGA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.045840000115845,-19.599840997464014 -41.96708000044163,-19.662905997313885 -42.018446000382596,-19.708880996860444 -42.06744299989447,-19.689305997074086 -42.09593099971585,-19.739429997296497 -42.16178799971635,-19.61542699675846 -42.045840000115845,-19.599840997464014
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

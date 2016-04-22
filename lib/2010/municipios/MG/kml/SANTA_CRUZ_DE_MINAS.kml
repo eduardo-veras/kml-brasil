@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANTA CRUZ DE MINAS.kml</name>
+	<Placemark>
+		<name>SANTA CRUZ DE MINAS</name>
+		<description>SANTA CRUZ DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-44.204684999912786,-21.115458996135715 -44.199813024351556,-21.122760433547114 -44.22942101197009,-21.1277927429407 -44.22081904246477,-21.11469650593898 -44.204684999912786,-21.115458996135715
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

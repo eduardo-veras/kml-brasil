@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MAGALHÃES BARATA.kml</name>
+	<Placemark>
+		<name>MAGALHÃES BARATA</name>
+		<description>MAGALHÃES BARATA / PA</description>
+		<LineString>
+			<coordinates>
+				-47.58582224110353,-0.9483290927134362 -47.644310218741566,-0.8780839407212397 -47.7117860811627,-0.8618115167880092 -47.719925545527474,-0.7446692678723821 -47.62645688197949,-0.7014047530269067 -47.6092295120323,-0.6973683717529298 -47.54996075828234,-0.8274436837789381 -47.58582224110353,-0.9483290927134362
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

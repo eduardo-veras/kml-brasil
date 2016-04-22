@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CUNHATAÍ.kml</name>
+	<Placemark>
+		<name>CUNHATAÍ</name>
+		<description>CUNHATAÍ / SC</description>
+		<LineString>
+			<coordinates>
+				-53.04648179190116,-26.969401865903365 -53.09046600000585,-26.991290999380055 -53.10852250530934,-27.0291959325462 -53.131238654440324,-27.00286137015604 -53.125654869076925,-26.975982770988026 -53.14290700005796,-26.942527998967932 -53.11141494444411,-26.923703682179166 -53.10366804584362,-26.938634213298258 -53.04648179190116,-26.969401865903365
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

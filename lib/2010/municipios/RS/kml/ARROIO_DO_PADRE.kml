@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ARROIO DO PADRE.kml</name>
+	<Placemark>
+		<name>ARROIO DO PADRE</name>
+		<description>ARROIO DO PADRE / RS</description>
+		<LineString>
+			<coordinates>
+				-52.348296053220224,-31.37262255238886 -52.35043962328996,-31.506654921887105 -52.433025140198026,-31.47912107487764 -52.44607545062149,-31.450034759696337 -52.43584669476911,-31.396226603075206 -52.37947006988776,-31.39154995486649 -52.348296053220224,-31.37262255238886
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

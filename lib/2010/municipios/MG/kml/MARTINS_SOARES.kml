@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MARTINS SOARES.kml</name>
+	<Placemark>
+		<name>MARTINS SOARES</name>
+		<description>MARTINS SOARES / MG</description>
+		<LineString>
+			<coordinates>
+				-41.774963058598246,-20.260099246183245 -41.822111218357975,-20.310924768862947 -41.88765499977836,-20.305273996597634 -41.89745700034024,-20.227051996552348 -41.873074000065,-20.197994996571765 -41.774963058598246,-20.260099246183245
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

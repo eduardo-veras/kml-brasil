@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CRISTAL DO SUL.kml</name>
+	<Placemark>
+		<name>CRISTAL DO SUL</name>
+		<description>CRISTAL DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-53.18397844974561,-27.408591432148853 -53.21406860348321,-27.46561045086156 -53.24676171897812,-27.495779351935482 -53.273499813465605,-27.481126758093353 -53.30951464238677,-27.429231542201876 -53.287535898662725,-27.395687763379556 -53.26143795150023,-27.373279792128642 -53.18397844974561,-27.408591432148853
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ALFREDO VASCONCELOS.kml</name>
+	<Placemark>
+		<name>ALFREDO VASCONCELOS</name>
+		<description>ALFREDO VASCONCELOS / MG</description>
+		<LineString>
+			<coordinates>
+				-43.6312750006407,-21.095260996397826 -43.60084800043484,-21.111854997210287 -43.606796000435054,-21.12952299718853 -43.714840999812225,-21.18899599686773 -43.830474000174945,-21.14583199654936 -43.81144600043251,-21.112954996675683 -43.71579199960104,-21.128278996478457 -43.6312750006407,-21.095260996397826
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

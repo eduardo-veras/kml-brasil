@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TRINDADE.kml</name>
+	<Placemark>
+		<name>TRINDADE</name>
+		<description>TRINDADE / PE</description>
+		<LineString>
+			<coordinates>
+				-40.345036472755,-7.8487404728944625 -40.35330093748826,-7.824916267271874 -40.3597522178905,-7.70957352399887 -40.272498428159906,-7.562131303217029 -40.23836111387425,-7.685166670105673 -40.23703441240815,-7.818580535363367 -40.345036472755,-7.8487404728944625
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SOLIDÃO.kml</name>
+	<Placemark>
+		<name>SOLIDÃO</name>
+		<description>SOLIDÃO / PE</description>
+		<LineString>
+			<coordinates>
+				-37.6199436672664,-7.525879523621086 -37.55880525985481,-7.639223253850048 -37.65141734343558,-7.617479939147813 -37.70483125166089,-7.616929196125454 -37.7457055771506,-7.60933106967309 -37.6558188323732,-7.523416623178548 -37.6199436672664,-7.525879523621086
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

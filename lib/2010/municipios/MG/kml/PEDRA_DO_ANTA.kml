@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PEDRA DO ANTA.kml</name>
+	<Placemark>
+		<name>PEDRA DO ANTA</name>
+		<description>PEDRA DO ANTA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.724372001566564,-20.5202169955179 -42.67992300044608,-20.531313997343034 -42.64115599964964,-20.58348899681971 -42.6977784002529,-20.657252997228 -42.76910000026476,-20.667666997234107 -42.8012170001644,-20.605986996502622 -42.779323999602866,-20.561654996280993 -42.724372001566564,-20.5202169955179
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

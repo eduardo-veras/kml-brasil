@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO GERALDO.kml</name>
+	<Placemark>
+		<name>SÃO GERALDO</name>
+		<description>SÃO GERALDO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.72987199979292,-20.861675996649865 -42.72067200001277,-20.895472996681406 -42.758080000191796,-20.96624699680143 -42.812853999912136,-20.93613999696322 -42.93314400009547,-20.947367996735636 -42.886080999838214,-20.846666996084934 -42.85177499971644,-20.88039699662403 -42.72987199979292,-20.861675996649865
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

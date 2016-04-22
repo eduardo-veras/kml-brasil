@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DIOGO DE VASCONCELOS.kml</name>
+	<Placemark>
+		<name>DIOGO DE VASCONCELOS</name>
+		<description>DIOGO DE VASCONCELOS / MG</description>
+		<LineString>
+			<coordinates>
+				-43.12479799972789,-20.4487329968303 -43.05251300007484,-20.455835997033603 -43.157290999879706,-20.51160599681924 -43.250364000398235,-20.547627996934466 -43.291037000057486,-20.49659399701528 -43.26863415404296,-20.45111973278938 -43.15534800020998,-20.459950997040835 -43.12479799972789,-20.4487329968303
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

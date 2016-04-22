@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PENHA.kml</name>
+	<Placemark>
+		<name>PENHA</name>
+		<description>PENHA / SC</description>
+		<LineString>
+			<coordinates>
+				-48.6210080990445,-26.826052028977927 -48.70453147754563,-26.84493753114208 -48.70845022659665,-26.815534747230743 -48.660856999550845,-26.77045199926033 -48.64090131224572,-26.763661109672455 -48.61658708942258,-26.78977612596742 -48.6210080990445,-26.826052028977927
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

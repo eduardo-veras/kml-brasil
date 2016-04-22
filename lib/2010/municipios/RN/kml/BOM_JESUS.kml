@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BOM JESUS.kml</name>
+	<Placemark>
+		<name>BOM JESUS</name>
+		<description>BOM JESUS / RN</description>
+		<LineString>
+			<coordinates>
+				-35.557729187252164,-6.046776599060763 -35.57077864152103,-6.079544666752895 -35.647482757723026,-6.016037921712666 -35.65019289528584,-5.97643517824082 -35.57222669210813,-5.9323081020372115 -35.55561650619677,-5.948495510359464 -35.53740120490164,-5.995684376132999 -35.557729187252164,-6.046776599060763
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

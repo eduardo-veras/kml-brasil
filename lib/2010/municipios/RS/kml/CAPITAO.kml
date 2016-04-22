@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAPITÃO.kml</name>
+	<Placemark>
+		<name>CAPITÃO</name>
+		<description>CAPITÃO / RS</description>
+		<LineString>
+			<coordinates>
+				-51.96458051897571,-29.2380050438976 -51.919370941415764,-29.29159242594966 -51.97679226555056,-29.301123267424828 -52.03350676752325,-29.32876136744312 -52.0366541006062,-29.267627033960423 -51.993587806232256,-29.233827196567802 -51.96458051897571,-29.2380050438976
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

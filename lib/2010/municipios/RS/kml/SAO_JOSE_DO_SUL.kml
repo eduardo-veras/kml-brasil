@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DO SUL.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DO SUL</name>
+		<description>SÃO JOSÉ DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-51.457416100572516,-29.495723268913707 -51.45111944060966,-29.50224569558236 -51.45682291134824,-29.5648942364798 -51.46693894707471,-29.621830517564263 -51.503489962591686,-29.577568060117812 -51.52168210544477,-29.51221255086847 -51.457416100572516,-29.495723268913707
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

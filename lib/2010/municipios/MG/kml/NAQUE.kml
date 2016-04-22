@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NAQUE.kml</name>
+	<Placemark>
+		<name>NAQUE</name>
+		<description>NAQUE / MG</description>
+		<LineString>
+			<coordinates>
+				-42.253534000193895,-19.18727499704346 -42.316288000091106,-19.238069996732918 -42.35319100036435,-19.22400899671777 -42.39957499988628,-19.186761996768666 -42.349840999662376,-19.11206999673294 -42.26005000030722,-19.15301799738262 -42.253534000193895,-19.18727499704346
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

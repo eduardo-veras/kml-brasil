@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BARROSO.kml</name>
+	<Placemark>
+		<name>BARROSO</name>
+		<description>BARROSO / MG</description>
+		<LineString>
+			<coordinates>
+				-44.00188199965453,-21.22094499711386 -44.013386999610304,-21.160833996791496 -43.94122600027964,-21.121636996849873 -43.89627100010654,-21.18787199719486 -43.91619699989161,-21.223934996502862 -44.00188199965453,-21.22094499711386
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

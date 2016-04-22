@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>IBIASSUCÊ.kml</name>
+	<Placemark>
+		<name>IBIASSUCÊ</name>
+		<description>IBIASSUCÊ / BA</description>
+		<LineString>
+			<coordinates>
+				-42.22938034862415,-14.199165834135897 -42.17253274698862,-14.245774452828698 -42.23093351826719,-14.37763117703713 -42.35716406936626,-14.377523109104175 -42.375817854010734,-14.391566796270581 -42.461135752313055,-14.351732554713578 -42.34716349489935,-14.195460889908077 -42.302870606193494,-14.175248857148972 -42.22938034862415,-14.199165834135897
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

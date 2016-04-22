@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>AMETISTA DO SUL.kml</name>
+	<Placemark>
+		<name>AMETISTA DO SUL</name>
+		<description>AMETISTA DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-53.20247663009235,-27.311092048559146 -53.11325584588053,-27.376469785452173 -53.14283885033262,-27.405648340498487 -53.18397844974561,-27.408591432148853 -53.26143795150023,-27.373279792128642 -53.25762460119432,-27.339676447609918 -53.20247663009235,-27.311092048559146
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

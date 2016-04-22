@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PIEDADE DE PONTE NOVA.kml</name>
+	<Placemark>
+		<name>PIEDADE DE PONTE NOVA</name>
+		<description>PIEDADE DE PONTE NOVA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.665300999741305,-20.267673996557676 -42.67777799955502,-20.290606996515635 -42.76264300017425,-20.269310996505226 -42.77607099977678,-20.229597997049893 -42.72340800027894,-20.191020996921452 -42.665300999741305,-20.267673996557676
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

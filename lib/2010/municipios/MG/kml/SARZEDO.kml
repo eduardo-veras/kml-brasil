@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SARZEDO.kml</name>
+	<Placemark>
+		<name>SARZEDO</name>
+		<description>SARZEDO / MG</description>
+		<LineString>
+			<coordinates>
+				-44.11605800027644,-20.02363399671151 -44.06426300033718,-20.080008996517904 -44.124287000244806,-20.09892399644525 -44.18115300021077,-20.045880996510732 -44.11605800027644,-20.02363399671151
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

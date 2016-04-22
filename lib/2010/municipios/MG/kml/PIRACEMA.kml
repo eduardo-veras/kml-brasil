@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PIRACEMA.kml</name>
+	<Placemark>
+		<name>PIRACEMA</name>
+		<description>PIRACEMA / MG</description>
+		<LineString>
+			<coordinates>
+				-44.34776499975487,-20.497258997105007 -44.31559300001692,-20.58550599720394 -44.35722699992607,-20.608084997024946 -44.40682200003522,-20.569499996527554 -44.46888100025791,-20.587363996551176 -44.54395800006159,-20.51559799655024 -44.543238000133556,-20.48250199646992 -44.406978000034655,-20.426561996938574 -44.34776499975487,-20.497258997105007
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

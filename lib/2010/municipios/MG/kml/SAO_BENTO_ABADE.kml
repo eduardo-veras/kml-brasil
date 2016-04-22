@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO BENTO ABADE.kml</name>
+	<Placemark>
+		<name>SÃO BENTO ABADE</name>
+		<description>SÃO BENTO ABADE / MG</description>
+		<LineString>
+			<coordinates>
+				-45.06364699960932,-21.50023399650172 -45.02832899958361,-21.597478996958102 -45.03686900040401,-21.631919997010186 -45.0928829997506,-21.611977996487326 -45.11243700036721,-21.54244099675458 -45.06364699960932,-21.50023399650172
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

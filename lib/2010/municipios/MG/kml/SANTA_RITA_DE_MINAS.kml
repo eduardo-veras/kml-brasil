@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANTA RITA DE MINAS.kml</name>
+	<Placemark>
+		<name>SANTA RITA DE MINAS</name>
+		<description>SANTA RITA DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.075236999587844,-19.885456997242557 -42.09619700029128,-19.919933997156193 -42.156668000128036,-19.913461997273316 -42.170255999914446,-19.83317399728213 -42.076645999813024,-19.8455619965888 -42.075236999587844,-19.885456997242557
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

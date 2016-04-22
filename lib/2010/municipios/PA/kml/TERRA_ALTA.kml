@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TERRA ALTA.kml</name>
+	<Placemark>
+		<name>TERRA ALTA</name>
+		<description>TERRA ALTA / PA</description>
+		<LineString>
+			<coordinates>
+				-47.77795293987623,-1.0606808374506613 -47.81100593797362,-1.065648079994844 -47.943064530303786,-1.0387919000261263 -47.9194544055963,-0.9731156970317443 -47.900960473646876,-0.9314895877741947 -47.814750287795505,-0.9220075507078604 -47.768734262076464,-0.9725978673976101 -47.77795293987623,-1.0606808374506613
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ELÍSIO MEDRADO.kml</name>
+	<Placemark>
+		<name>ELÍSIO MEDRADO</name>
+		<description>ELÍSIO MEDRADO / BA</description>
+		<LineString>
+			<coordinates>
+				-39.46380615033354,-12.95266699808343 -39.47432628023358,-12.984842060912342 -39.531832503966825,-13.02223948596344 -39.62281282794959,-12.913220249215101 -39.47560031560204,-12.853866367438854 -39.46380615033354,-12.95266699808343
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

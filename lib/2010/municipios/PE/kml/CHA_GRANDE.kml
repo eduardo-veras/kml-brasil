@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CHÃ GRANDE.kml</name>
+	<Placemark>
+		<name>CHÃ GRANDE</name>
+		<description>CHÃ GRANDE / PE</description>
+		<LineString>
+			<coordinates>
+				-35.43939081933081,-8.25263903046681 -35.4665085446336,-8.261121337079999 -35.5097484189543,-8.300530868404792 -35.51269971511971,-8.223590664877236 -35.44899738642022,-8.169863505696185 -35.42888554353294,-8.216329098009396 -35.43939081933081,-8.25263903046681
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

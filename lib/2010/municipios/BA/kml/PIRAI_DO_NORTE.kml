@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PIRAÍ DO NORTE.kml</name>
+	<Placemark>
+		<name>PIRAÍ DO NORTE</name>
+		<description>PIRAÍ DO NORTE / BA</description>
+		<LineString>
+			<coordinates>
+				-39.28780929176537,-13.736963115855076 -39.317555120272516,-13.770032758604884 -39.317516336109975,-13.829490656868302 -39.35623599209731,-13.835594039033651 -39.39876006002868,-13.908635819987069 -39.4480502079507,-13.891643745962085 -39.42630311879384,-13.8009857965572 -39.36374226089657,-13.734009574082506 -39.28780929176537,-13.736963115855076
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

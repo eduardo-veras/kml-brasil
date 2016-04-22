@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CONCEIÇÃO DA FEIRA.kml</name>
+	<Placemark>
+		<name>CONCEIÇÃO DA FEIRA</name>
+		<description>CONCEIÇÃO DA FEIRA / BA</description>
+		<LineString>
+			<coordinates>
+				-38.877428893928254,-12.510661870348997 -39.007305966597016,-12.569150023354837 -39.05792716510655,-12.54045047600863 -39.088510300210146,-12.495727330951524 -39.05246298238069,-12.446674071651046 -38.877428893928254,-12.510661870348997
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

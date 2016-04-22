@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MONTADAS.kml</name>
+	<Placemark>
+		<name>MONTADAS</name>
+		<description>MONTADAS / PB</description>
+		<LineString>
+			<coordinates>
+				-35.93007128965826,-7.10772413955732 -35.96441715222977,-7.112108204130266 -35.97948918088093,-7.100876554909007 -35.977635278845014,-7.079679969554888 -35.96272756082823,-7.069043129237002 -35.89510044682811,-7.080460303200368 -35.895491254417834,-7.0851685715722965 -35.91024264328331,-7.101942727275002 -35.93007128965826,-7.10772413955732
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

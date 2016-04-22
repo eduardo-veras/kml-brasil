@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CLARAVAL.kml</name>
+	<Placemark>
+		<name>CLARAVAL</name>
+		<description>CLARAVAL / MG</description>
+		<LineString>
+			<coordinates>
+				-47.22348159000336,-20.491055705656265 -47.29101129393604,-20.45054989086475 -47.29820813479756,-20.34843571533594 -47.23256978966401,-20.227522292519723 -47.18404199973844,-20.290817997252702 -47.21103599991142,-20.329629996527046 -47.192867000211834,-20.382728997245408 -47.19684800033491,-20.464802996860783 -47.22348159000336,-20.491055705656265
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

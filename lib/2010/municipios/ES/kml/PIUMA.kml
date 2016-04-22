@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PIÚMA.kml</name>
+	<Placemark>
+		<name>PIÚMA</name>
+		<description>PIÚMA / ES</description>
+		<LineString>
+			<coordinates>
+				-40.70112528070712,-20.834879030742627 -40.75951297314515,-20.865880069109835 -40.82804346333512,-20.890831246664675 -40.828044987685985,-20.855963679280308 -40.77078663059848,-20.78725896343036 -40.72731333903931,-20.808052943888185 -40.70112528070712,-20.834879030742627
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

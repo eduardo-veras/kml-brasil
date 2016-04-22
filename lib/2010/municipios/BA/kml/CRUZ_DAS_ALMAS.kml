@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CRUZ DAS ALMAS.kml</name>
+	<Placemark>
+		<name>CRUZ DAS ALMAS</name>
+		<description>CRUZ DAS ALMAS / BA</description>
+		<LineString>
+			<coordinates>
+				-39.04431516241476,-12.649058424906343 -39.05751029786194,-12.729874747821327 -39.14456016362061,-12.74123271132055 -39.209945956640524,-12.645057486813528 -39.17721805716758,-12.629770646098393 -39.04431516241476,-12.649058424906343
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

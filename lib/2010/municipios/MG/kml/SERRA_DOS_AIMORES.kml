@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SERRA DOS AIMORÉS.kml</name>
+	<Placemark>
+		<name>SERRA DOS AIMORÉS</name>
+		<description>SERRA DOS AIMORÉS / MG</description>
+		<LineString>
+			<coordinates>
+				-40.21191837833044,-17.894945095239905 -40.294466999652286,-17.853906996910325 -40.348259329104735,-17.61412464123913 -40.295514701742036,-17.699493598550703 -40.21383728066593,-17.752435933771267 -40.21807566945654,-17.79565905012504 -40.17412729034214,-17.851561216976563 -40.21191837833044,-17.894945095239905
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

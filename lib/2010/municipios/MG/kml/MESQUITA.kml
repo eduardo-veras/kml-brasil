@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MESQUITA.kml</name>
+	<Placemark>
+		<name>MESQUITA</name>
+		<description>MESQUITA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.51891200018861,-19.157381997181403 -42.554998999704026,-19.29639199639348 -42.67760899985541,-19.381712996457566 -42.68519099966488,-19.368152997063135 -42.69761999996297,-19.353756996887853 -42.622751999904835,-19.118780996845487 -42.570249999737655,-19.16764799665765 -42.51891200018861,-19.157381997181403
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

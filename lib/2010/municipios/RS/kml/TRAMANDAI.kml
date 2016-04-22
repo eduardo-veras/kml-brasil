@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TRAMANDAÍ.kml</name>
+	<Placemark>
+		<name>TRAMANDAÍ</name>
+		<description>TRAMANDAÍ / RS</description>
+		<LineString>
+			<coordinates>
+				-50.15505329727182,-29.98664971910921 -50.11889461729271,-29.97611598066794 -50.168611346036755,-30.097644006465657 -50.25697575083018,-30.065297038227698 -50.34869350630021,-30.053243318724128 -50.30685855647715,-30.021359880853765 -50.22083533338389,-29.97746057054883 -50.15505329727182,-29.98664971910921
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

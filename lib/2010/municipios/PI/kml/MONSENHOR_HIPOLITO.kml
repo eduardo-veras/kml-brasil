@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MONSENHOR HIPÓLITO.kml</name>
+	<Placemark>
+		<name>MONSENHOR HIPÓLITO</name>
+		<description>MONSENHOR HIPÓLITO / PI</description>
+		<LineString>
+			<coordinates>
+				-41.00110445270826,-7.088841601558613 -41.06617294512529,-7.069800976234035 -41.10507593600562,-7.124062286845003 -41.08085678771056,-6.997473586137062 -41.09535914800625,-6.75669311069845 -40.98149097452881,-6.772304019414889 -40.985822074429166,-6.98975894891629 -41.00110445270826,-7.088841601558613
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

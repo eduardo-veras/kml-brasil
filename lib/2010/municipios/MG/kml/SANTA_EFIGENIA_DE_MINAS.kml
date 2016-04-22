@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SANTA EFIGÊNIA DE MINAS.kml</name>
+	<Placemark>
+		<name>SANTA EFIGÊNIA DE MINAS</name>
+		<description>SANTA EFIGÊNIA DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.32701700023432,-18.81829799675512 -42.36208300033013,-18.925693996780467 -42.39049900042846,-18.927556997257568 -42.46283899991988,-18.88955099738058 -42.45601499999219,-18.814511997530644 -42.32701700023432,-18.81829799675512
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

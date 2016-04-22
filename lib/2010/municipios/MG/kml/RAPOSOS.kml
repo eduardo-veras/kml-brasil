@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RAPOSOS.kml</name>
+	<Placemark>
+		<name>RAPOSOS</name>
+		<description>RAPOSOS / MG</description>
+		<LineString>
+			<coordinates>
+				-43.834172999884004,-19.927426996458678 -43.7229980000576,-19.966709996768884 -43.73426399978371,-20.001271996105686 -43.78298199991934,-20.02901399659862 -43.838768000442826,-19.956738996507454 -43.834172999884004,-19.927426996458678
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

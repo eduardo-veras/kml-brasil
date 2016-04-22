@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CALÇADO.kml</name>
+	<Placemark>
+		<name>CALÇADO</name>
+		<description>CALÇADO / PE</description>
+		<LineString>
+			<coordinates>
+				-36.29951630343459,-8.833412123770472 -36.32875212281215,-8.799297022739381 -36.371695079664164,-8.743943712132534 -36.36900541966435,-8.687506415388725 -36.38240664734883,-8.635267759199678 -36.24942840919368,-8.786860481625865 -36.29951630343459,-8.833412123770472
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

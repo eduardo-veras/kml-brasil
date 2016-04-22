@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>GUARARÁ.kml</name>
+	<Placemark>
+		<name>GUARARÁ</name>
+		<description>GUARARÁ / MG</description>
+		<LineString>
+			<coordinates>
+				-42.960752999851024,-21.733212996182772 -43.04279399974325,-21.827086996767434 -43.061215000272,-21.8231799964596 -43.076216999614815,-21.7985269963238 -43.020122000130186,-21.698613996039057 -42.960752999851024,-21.733212996182772
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

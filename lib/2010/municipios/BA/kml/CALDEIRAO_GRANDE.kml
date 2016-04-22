@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CALDEIRÃO GRANDE.kml</name>
+	<Placemark>
+		<name>CALDEIRÃO GRANDE</name>
+		<description>CALDEIRÃO GRANDE / BA</description>
+		<LineString>
+			<coordinates>
+				-39.987089610597025,-11.15819886738376 -40.38064138798961,-11.062414228333921 -40.34283104012036,-10.938888736326078 -40.282579009014,-10.92815875682112 -40.232674310271136,-10.927298162280294 -40.07176822942023,-11.093423329123311 -39.987089610597025,-11.15819886738376
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

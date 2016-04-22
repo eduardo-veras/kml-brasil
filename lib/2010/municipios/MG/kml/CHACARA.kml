@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CHÁCARA.kml</name>
+	<Placemark>
+		<name>CHÁCARA</name>
+		<description>CHÁCARA / MG</description>
+		<LineString>
+			<coordinates>
+				-43.16923699948791,-21.617617996673175 -43.132993000826275,-21.69468999674592 -43.18758700033976,-21.742863996076494 -43.246594000112964,-21.769980996525703 -43.26190400016941,-21.684641996530843 -43.294856999950525,-21.66136799703537 -43.226393000236726,-21.631353996090013 -43.16923699948791,-21.617617996673175
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PRESIDENTE LUCENA.kml</name>
+	<Placemark>
+		<name>PRESIDENTE LUCENA</name>
+		<description>PRESIDENTE LUCENA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.11246898895263,-29.510743128792342 -51.1163735188228,-29.544059753254942 -51.15782403545086,-29.538734747810338 -51.20436146201183,-29.558326657549173 -51.22382339813129,-29.547638349030535 -51.23313633657261,-29.521894695184017 -51.17800173928879,-29.494056532882666 -51.11246898895263,-29.510743128792342
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

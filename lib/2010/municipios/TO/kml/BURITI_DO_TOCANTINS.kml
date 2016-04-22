@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BURITI DO TOCANTINS.kml</name>
+	<Placemark>
+		<name>BURITI DO TOCANTINS</name>
+		<description>BURITI DO TOCANTINS / TO</description>
+		<LineString>
+			<coordinates>
+				-48.07926501506836,-5.275064477043941 -48.06485935437564,-5.3795445845149175 -48.076294000367795,-5.439948460752817 -48.20826632073408,-5.372920475999138 -48.25062751514764,-5.31881277498951 -48.17854420195334,-5.260776074456203 -48.07926501506836,-5.275064477043941
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JESÚPOLIS.kml</name>
+	<Placemark>
+		<name>JESÚPOLIS</name>
+		<description>JESÚPOLIS / GO</description>
+		<LineString>
+			<coordinates>
+				-49.36260551852979,-15.901974079839874 -49.35170138620998,-15.932092158426315 -49.36597003608824,-16.00567561183999 -49.4046024200656,-16.02552881240473 -49.43437633080299,-16.032858021780214 -49.466506092981774,-16.0045286614685 -49.470368587640166,-15.949641018917816 -49.39441829037179,-15.905586812081651 -49.36260551852979,-15.901974079839874
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

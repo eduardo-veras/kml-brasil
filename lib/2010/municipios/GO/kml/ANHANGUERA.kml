@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ANHANGUERA.kml</name>
+	<Placemark>
+		<name>ANHANGUERA</name>
+		<description>ANHANGUERA / GO</description>
+		<LineString>
+			<coordinates>
+				-48.22681104998992,-18.34572590282812 -48.27188583716162,-18.330880260515585 -48.26119100945749,-18.28936682012261 -48.19424307425845,-18.278348157341554 -48.17532871105112,-18.326246002750793 -48.22681104998992,-18.34572590282812
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

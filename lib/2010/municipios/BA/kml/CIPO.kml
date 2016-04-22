@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CIPÓ.kml</name>
+	<Placemark>
+		<name>CIPÓ</name>
+		<description>CIPÓ / BA</description>
+		<LineString>
+			<coordinates>
+				-38.437876491706675,-11.118075867007633 -38.44514143013288,-11.169648863004568 -38.588453162783196,-11.143703358123446 -38.558928650236965,-11.127244844673783 -38.573031375197786,-11.053738219443233 -38.50565087868506,-11.053651352128156 -38.437876491706675,-11.118075867007633
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

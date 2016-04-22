@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA BELÉM.kml</name>
+	<Placemark>
+		<name>NOVA BELÉM</name>
+		<description>NOVA BELÉM / MG</description>
+		<LineString>
+			<coordinates>
+				-41.0258394728134,-18.52763082070578 -41.15801300029966,-18.52800799727123 -41.187606999863135,-18.501594996911535 -41.18311899974202,-18.442405996839227 -41.18183803599652,-18.439579234294172 -41.023028708308175,-18.457260879685805 -41.0258394728134,-18.52763082070578
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ITAPISSUMA.kml</name>
+	<Placemark>
+		<name>ITAPISSUMA</name>
+		<description>ITAPISSUMA / PE</description>
+		<LineString>
+			<coordinates>
+				-34.86417519812687,-7.713349120765258 -34.88766299974759,-7.771147000033977 -34.88942210334733,-7.804712685442041 -34.92614765838766,-7.805410520678947 -34.943205507028495,-7.741591186583946 -34.92272095181045,-7.69166114584516 -34.86417519812687,-7.713349120765258
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VALE REAL.kml</name>
+	<Placemark>
+		<name>VALE REAL</name>
+		<description>VALE REAL / RS</description>
+		<LineString>
+			<coordinates>
+				-51.21229850337318,-29.358571188109806 -51.22629462989323,-29.38988158516696 -51.280317085065406,-29.4048341892464 -51.26024901128278,-29.35071240485354 -51.26970270441626,-29.312823789885954 -51.26670239430001,-29.295089996406148 -51.216522892417515,-29.336652312254387 -51.21229850337318,-29.358571188109806
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

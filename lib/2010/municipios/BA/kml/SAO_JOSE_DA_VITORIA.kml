@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DA VITÓRIA.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DA VITÓRIA</name>
+		<description>SÃO JOSÉ DA VITÓRIA / BA</description>
+		<LineString>
+			<coordinates>
+				-39.293601622716665,-15.072316514195734 -39.32958720838292,-15.11308978376644 -39.40639027159369,-15.133331627252744 -39.41240571175416,-15.033229012109189 -39.36660141612242,-15.019743085375069 -39.30734719181942,-15.021362044023078 -39.293601622716665,-15.072316514195734
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

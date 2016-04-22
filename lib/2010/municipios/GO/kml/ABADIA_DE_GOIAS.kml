@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ABADIA DE GOIÁS.kml</name>
+	<Placemark>
+		<name>ABADIA DE GOIÁS</name>
+		<description>ABADIA DE GOIÁS / GO</description>
+		<LineString>
+			<coordinates>
+				-49.38381724486993,-16.83200437919868 -49.438091343840426,-16.86007609723407 -49.47735815635377,-16.79248006110589 -49.508965056292254,-16.80275621932401 -49.53998081746073,-16.766710942056307 -49.44691895684434,-16.716462968491157 -49.41225285288681,-16.740792819732803 -49.38381724486993,-16.83200437919868
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÉRIO.kml</name>
+	<Placemark>
+		<name>SÉRIO</name>
+		<description>SÉRIO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.300715874438026,-29.35441511606473 -52.19237969526671,-29.360695285159238 -52.18044191905926,-29.405387713871846 -52.20173832826117,-29.425690897416928 -52.21819945244272,-29.456110163453218 -52.24949232531054,-29.448776489843112 -52.31585411837284,-29.392866353199622 -52.300715874438026,-29.35441511606473
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

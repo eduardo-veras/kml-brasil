@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO MIGUEL DO ANTA.kml</name>
+	<Placemark>
+		<name>SÃO MIGUEL DO ANTA</name>
+		<description>SÃO MIGUEL DO ANTA / MG</description>
+		<LineString>
+			<coordinates>
+				-42.6977784002529,-20.657252997228 -42.65047799965993,-20.75855099663113 -42.70936700028682,-20.83928499650534 -42.71263900008972,-20.81560499627352 -42.75357500018606,-20.745176996820874 -42.7823390001447,-20.673163997120753 -42.76910000026476,-20.667666997234107 -42.6977784002529,-20.657252997228
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

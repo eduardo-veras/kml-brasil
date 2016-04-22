@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ILÓPOLIS.kml</name>
+	<Placemark>
+		<name>ILÓPOLIS</name>
+		<description>ILÓPOLIS / RS</description>
+		<LineString>
+			<coordinates>
+				-52.07946806050256,-28.87787055388293 -52.07100131665737,-28.978485418367313 -52.09246342324832,-28.978987149237526 -52.22811101830882,-28.96481700749888 -52.1659285258807,-28.88659614509595 -52.07946806050256,-28.87787055388293
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

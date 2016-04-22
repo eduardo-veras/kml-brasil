@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RETIROLÂNDIA.kml</name>
+	<Placemark>
+		<name>RETIROLÂNDIA</name>
+		<description>RETIROLÂNDIA / BA</description>
+		<LineString>
+			<coordinates>
+				-39.50372779969814,-11.614195787805329 -39.456894194911115,-11.506523039406716 -39.43691082737274,-11.460580315629045 -39.39986337889178,-11.455423915980873 -39.280398572336196,-11.36427291686158 -39.34649423442136,-11.506409000874669 -39.48432798964495,-11.600896822929997 -39.50372779969814,-11.614195787805329
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

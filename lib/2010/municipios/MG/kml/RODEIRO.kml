@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>RODEIRO.kml</name>
+	<Placemark>
+		<name>RODEIRO</name>
+		<description>RODEIRO / MG</description>
+		<LineString>
+			<coordinates>
+				-42.813755000093124,-21.260695996522998 -42.86137399991014,-21.241956996618057 -42.88358299975562,-21.19980999643417 -42.861868000208005,-21.156871996645293 -42.80495199973495,-21.17771699654213 -42.813755000093124,-21.260695996522998
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO PEDRO DA SERRA.kml</name>
+	<Placemark>
+		<name>SÃO PEDRO DA SERRA</name>
+		<description>SÃO PEDRO DA SERRA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.435506720658566,-29.431884360175047 -51.47229869872592,-29.438699079998514 -51.572999115716584,-29.428769972855946 -51.583632894742266,-29.407473328930962 -51.54399930632286,-29.419157256202368 -51.474358413310085,-29.400258051068136 -51.435506720658566,-29.431884360175047
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>NOVA BOA VISTA.kml</name>
+	<Placemark>
+		<name>NOVA BOA VISTA</name>
+		<description>NOVA BOA VISTA / RS</description>
+		<LineString>
+			<coordinates>
+				-52.97636080480726,-27.953416490078894 -52.93463685380772,-27.961449678859537 -52.90880326056197,-28.014498822062933 -52.94466096623057,-28.044288685874108 -53.01634756958464,-28.03769352653495 -53.032070979891785,-27.961697453774434 -52.97636080480726,-27.953416490078894
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

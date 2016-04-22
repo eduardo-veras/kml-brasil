@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>WESTFALIA.kml</name>
+	<Placemark>
+		<name>WESTFALIA</name>
+		<description>WESTFALIA / RS</description>
+		<LineString>
+			<coordinates>
+				-51.69120533545782,-29.415069791637507 -51.73918688706516,-29.414381618716675 -51.74413133988941,-29.46221993799969 -51.78159485431905,-29.461378400093054 -51.781056783643635,-29.387943706237024 -51.727892067664754,-29.362164024649985 -51.691079890824255,-29.371372707384467 -51.69120533545782,-29.415069791637507
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

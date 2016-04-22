@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FEIRA NOVA.kml</name>
+	<Placemark>
+		<name>FEIRA NOVA</name>
+		<description>FEIRA NOVA / PE</description>
+		<LineString>
+			<coordinates>
+				-35.35542857167121,-7.890627427813513 -35.304459397583116,-7.941645899138905 -35.387615385041954,-8.003447352413332 -35.457237925589766,-7.988957958542926 -35.442045829351514,-7.961089525960801 -35.415184556522036,-7.923883552184122 -35.35542857167121,-7.890627427813513
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

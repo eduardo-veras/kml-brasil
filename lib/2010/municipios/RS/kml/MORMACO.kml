@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MORMAÇO.kml</name>
+	<Placemark>
+		<name>MORMAÇO</name>
+		<description>MORMAÇO / RS</description>
+		<LineString>
+			<coordinates>
+				-52.61450991999675,-28.63726484459687 -52.595872779105434,-28.687892014604756 -52.623983707582,-28.759335352244648 -52.72458394998927,-28.73481922892421 -52.72840736191017,-28.68525121836899 -52.69538593361392,-28.666329267581602 -52.66057295507778,-28.611630463774816 -52.61450991999675,-28.63726484459687
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

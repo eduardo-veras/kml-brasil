@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CANOAS.kml</name>
+	<Placemark>
+		<name>CANOAS</name>
+		<description>CANOAS / RS</description>
+		<LineString>
+			<coordinates>
+				-51.12309542501379,-29.86639481047206 -51.106013734446265,-29.902449027000955 -51.12728553459971,-29.95449862141419 -51.22069554616246,-29.96709299534541 -51.233640330137064,-29.93771516312421 -51.24957538779387,-29.88410111077758 -51.23161292189877,-29.86231137576931 -51.12309542501379,-29.86639481047206
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

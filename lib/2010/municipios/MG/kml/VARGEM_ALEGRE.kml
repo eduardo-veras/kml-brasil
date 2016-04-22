@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VARGEM ALEGRE.kml</name>
+	<Placemark>
+		<name>VARGEM ALEGRE</name>
+		<description>VARGEM ALEGRE / MG</description>
+		<LineString>
+			<coordinates>
+				-42.26352699967123,-19.582852996468546 -42.28085400011196,-19.651180997105314 -42.36476599995092,-19.646115997355366 -42.398625000143625,-19.604226997377964 -42.30112300042606,-19.53827799673212 -42.26352699967123,-19.582852996468546
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

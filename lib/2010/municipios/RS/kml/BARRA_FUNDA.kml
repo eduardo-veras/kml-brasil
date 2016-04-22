@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BARRA FUNDA.kml</name>
+	<Placemark>
+		<name>BARRA FUNDA</name>
+		<description>BARRA FUNDA / RS</description>
+		<LineString>
+			<coordinates>
+				-52.97636080480726,-27.953416490078894 -53.032070979891785,-27.961697453774434 -53.05561670414755,-27.942368521989636 -53.049078140943436,-27.882518455462332 -52.965121247847264,-27.916498127586465 -52.97636080480726,-27.953416490078894
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DOM CAVATI.kml</name>
+	<Placemark>
+		<name>DOM CAVATI</name>
+		<description>DOM CAVATI / MG</description>
+		<LineString>
+			<coordinates>
+				-42.02835200034451,-19.37670199649989 -42.10398599975406,-19.429236997289536 -42.13620099967636,-19.414940997229166 -42.1167949995895,-19.3452249964364 -42.02835200034451,-19.37670199649989
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

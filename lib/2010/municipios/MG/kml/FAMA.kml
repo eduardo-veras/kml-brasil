@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FAMA.kml</name>
+	<Placemark>
+		<name>FAMA</name>
+		<description>FAMA / MG</description>
+		<LineString>
+			<coordinates>
+				-45.76424899989138,-21.422911996591324 -45.813835999631635,-21.53259999709212 -45.855700000254785,-21.51813899661738 -45.83139199984089,-21.393560996542703 -45.76424899989138,-21.422911996591324
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>BOM RETIRO DO SUL.kml</name>
+	<Placemark>
+		<name>BOM RETIRO DO SUL</name>
+		<description>BOM RETIRO DO SUL / RS</description>
+		<LineString>
+			<coordinates>
+				-51.87354031363452,-29.642576985039796 -51.95419205881643,-29.712796907451263 -51.98230254842383,-29.660548870433956 -51.96996775840529,-29.634141857760483 -51.95186087847674,-29.609418843604715 -51.882695635095445,-29.560181043420357 -51.87354031363452,-29.642576985039796
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

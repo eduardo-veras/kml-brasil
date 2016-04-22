@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SEDE NOVA.kml</name>
+	<Placemark>
+		<name>SEDE NOVA</name>
+		<description>SEDE NOVA / RS</description>
+		<LineString>
+			<coordinates>
+				-53.89771287305064,-27.595298196454564 -53.88133671321867,-27.670150431397246 -53.91753840417397,-27.692419288319456 -53.98802633624638,-27.663222366419006 -54.02716548370006,-27.667475094000338 -54.03694421790129,-27.6551567076159 -54.03144635556481,-27.627088441178557 -53.89771287305064,-27.595298196454564
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

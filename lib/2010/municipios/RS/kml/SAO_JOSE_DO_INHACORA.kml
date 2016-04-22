@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DO INHACORÁ.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DO INHACORÁ</name>
+		<description>SÃO JOSÉ DO INHACORÁ / RS</description>
+		<LineString>
+			<coordinates>
+				-54.06989616907288,-27.739127467358685 -54.06710286760324,-27.74387458104701 -54.12541326061347,-27.768873772506538 -54.17775113180926,-27.760703845406113 -54.197034300692394,-27.73139759112587 -54.16885215580231,-27.691954684161317 -54.11250714478888,-27.703030299208876 -54.06989616907288,-27.739127467358685
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VICENTINA.kml</name>
+	<Placemark>
+		<name>VICENTINA</name>
+		<description>VICENTINA / MS</description>
+		<LineString>
+			<coordinates>
+				-54.32532208424675,-22.392029993189567 -54.348133592990905,-22.44320007942008 -54.430240363002326,-22.625183379509338 -54.472337141445905,-22.59219870740435 -54.47718436586575,-22.49540621882187 -54.511041250853,-22.45234497144321 -54.46679156557826,-22.362902136524326 -54.43271074580423,-22.349956939760943 -54.32532208424675,-22.392029993189567
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

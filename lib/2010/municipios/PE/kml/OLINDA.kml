@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>OLINDA.kml</name>
+	<Placemark>
+		<name>OLINDA</name>
+		<description>OLINDA / PE</description>
+		<LineString>
+			<coordinates>
+				-34.82778920910465,-7.95914505230229 -34.8605759997825,-8.044467000251814 -34.87289599685272,-8.017307437588101 -34.91387104371364,-7.97936230922312 -34.86412939295707,-7.974639999736155 -34.82778920910465,-7.95914505230229
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

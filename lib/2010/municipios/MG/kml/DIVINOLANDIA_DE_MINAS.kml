@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>DIVINOLÂNDIA DE MINAS.kml</name>
+	<Placemark>
+		<name>DIVINOLÂNDIA DE MINAS</name>
+		<description>DIVINOLÂNDIA DE MINAS / MG</description>
+		<LineString>
+			<coordinates>
+				-42.47447499962152,-18.73634099713928 -42.50448400033628,-18.787314996989494 -42.57908899995732,-18.798807997291192 -42.57543100034036,-18.83651399682344 -42.62310399994959,-18.871100997313135 -42.63964900030106,-18.77106399670606 -42.53493799998864,-18.724737997160787 -42.47447499962152,-18.73634099713928
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

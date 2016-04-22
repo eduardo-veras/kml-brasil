@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JOÃO ALFREDO.kml</name>
+	<Placemark>
+		<name>JOÃO ALFREDO</name>
+		<description>JOÃO ALFREDO / PE</description>
+		<LineString>
+			<coordinates>
+				-35.52071930615102,-7.90432122294601 -35.61585963851144,-7.879549207429932 -35.68106176658722,-7.909998940698529 -35.68767539620251,-7.847407164109313 -35.68320755168713,-7.83556313772857 -35.570386139608615,-7.834004435456279 -35.51770892362788,-7.80057868006196 -35.502031322987136,-7.807563417617587 -35.52071930615102,-7.90432122294601
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

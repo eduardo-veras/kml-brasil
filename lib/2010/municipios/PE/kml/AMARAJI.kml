@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>AMARAJI.kml</name>
+	<Placemark>
+		<name>AMARAJI</name>
+		<description>AMARAJI / PE</description>
+		<LineString>
+			<coordinates>
+				-35.40559382379587,-8.428117183461211 -35.44546641424358,-8.45179434723127 -35.505534909908135,-8.431794335040479 -35.54795464658963,-8.339112890347565 -35.5097484189543,-8.300530868404792 -35.4665085446336,-8.261121337079999 -35.37353130752376,-8.380865402915958 -35.40559382379587,-8.428117183461211
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

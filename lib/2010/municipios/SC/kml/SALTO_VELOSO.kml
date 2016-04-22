@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SALTO VELOSO.kml</name>
+	<Placemark>
+		<name>SALTO VELOSO</name>
+		<description>SALTO VELOSO / SC</description>
+		<LineString>
+			<coordinates>
+				-51.51038433267075,-26.83861672438229 -51.43834290180342,-26.854228880458436 -51.36830545003647,-26.869631893796793 -51.36393502458168,-26.939736751549788 -51.4060600381402,-26.943103942792675 -51.478675406444836,-26.924773775589244 -51.48806899968457,-26.8609539990278 -51.51038433267075,-26.83861672438229
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

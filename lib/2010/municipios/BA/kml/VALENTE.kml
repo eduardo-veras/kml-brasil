@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>VALENTE.kml</name>
+	<Placemark>
+		<name>VALENTE</name>
+		<description>VALENTE / BA</description>
+		<LineString>
+			<coordinates>
+				-39.456894194911115,-11.506523039406716 -39.48703809663084,-11.450188784284933 -39.58329127976873,-11.373953856984883 -39.6201496538834,-11.362464488145577 -39.478738050220784,-11.299352368317102 -39.280398572336196,-11.36427291686158 -39.39986337889178,-11.455423915980873 -39.43691082737274,-11.460580315629045 -39.456894194911115,-11.506523039406716
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

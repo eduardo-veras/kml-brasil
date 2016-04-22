@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CRISTIANO OTONI.kml</name>
+	<Placemark>
+		<name>CRISTIANO OTONI</name>
+		<description>CRISTIANO OTONI / MG</description>
+		<LineString>
+			<coordinates>
+				-43.772750000212284,-20.80102199646791 -43.73090899975051,-20.844971997059986 -43.79702600004981,-20.883854996910543 -43.895601999832365,-20.886003996187412 -43.894180999953164,-20.80428299666295 -43.81937800019449,-20.772527997269208 -43.772750000212284,-20.80102199646791
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

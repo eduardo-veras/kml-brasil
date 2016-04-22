@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FLOR DO SERTÃO.kml</name>
+	<Placemark>
+		<name>FLOR DO SERTÃO</name>
+		<description>FLOR DO SERTÃO / SC</description>
+		<LineString>
+			<coordinates>
+				-53.30490379307554,-26.72026888120388 -53.28655399996711,-26.733849999377924 -53.30416299992248,-26.76386699956231 -53.29533800034841,-26.78214899907698 -53.39545974227326,-26.80663294555393 -53.389524453290846,-26.770424792070457 -53.364271656611606,-26.765347351099308 -53.338937097169264,-26.7235914444895 -53.30490379307554,-26.72026888120388
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

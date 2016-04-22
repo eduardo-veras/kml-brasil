@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO PEDRO DAS MISSÕES.kml</name>
+	<Placemark>
+		<name>SÃO PEDRO DAS MISSÕES</name>
+		<description>SÃO PEDRO DAS MISSÕES / RS</description>
+		<LineString>
+			<coordinates>
+				-53.19749251356859,-27.732888991733546 -53.179101365135864,-27.757362902675766 -53.202898085678044,-27.80347940155309 -53.26843023706573,-27.83844232765125 -53.29268791141794,-27.754540736565673 -53.256800378834384,-27.72684775272154 -53.19749251356859,-27.732888991733546
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>CAXAMBU.kml</name>
+	<Placemark>
+		<name>CAXAMBU</name>
+		<description>CAXAMBU / MG</description>
+		<LineString>
+			<coordinates>
+				-44.92713100029539,-22.082440996754542 -44.93979999996998,-22.076897996545256 -44.97134200033298,-21.958693996330794 -44.99657900042047,-21.94876199606921 -44.997905000415415,-21.904183996194433 -44.94643099999064,-21.908359996316733 -44.913671000116494,-21.972146996186893 -44.92713100029539,-22.082440996754542
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

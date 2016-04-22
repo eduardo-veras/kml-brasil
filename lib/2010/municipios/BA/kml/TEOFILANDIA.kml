@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>TEOFILÂNDIA.kml</name>
+	<Placemark>
+		<name>TEOFILÂNDIA</name>
+		<description>TEOFILÂNDIA / BA</description>
+		<LineString>
+			<coordinates>
+				-38.86505002004236,-11.382289594788915 -38.85349782186694,-11.605336048319941 -38.87243873665835,-11.532529790817136 -39.02845918034683,-11.552496638708874 -39.06554606409952,-11.488154704975614 -39.05379254369092,-11.398850076070119 -38.97974291410418,-11.423096297556015 -38.86505002004236,-11.382289594788915
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

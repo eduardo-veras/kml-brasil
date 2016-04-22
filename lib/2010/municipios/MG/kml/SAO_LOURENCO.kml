@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO LOURENÇO.kml</name>
+	<Placemark>
+		<name>SÃO LOURENÇO</name>
+		<description>SÃO LOURENÇO / MG</description>
+		<LineString>
+			<coordinates>
+				-45.00725217155042,-22.111717337784853 -45.043680208374894,-22.149180903475894 -45.06038356045292,-22.143870769220598 -45.07449105631713,-22.096542025593976 -45.00725217155042,-22.111717337784853
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

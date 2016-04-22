@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>JAPARAÍBA.kml</name>
+	<Placemark>
+		<name>JAPARAÍBA</name>
+		<description>JAPARAÍBA / MG</description>
+		<LineString>
+			<coordinates>
+				-45.60335999986404,-20.072272996801303 -45.52606400025337,-20.07185999664148 -45.460003999884634,-20.125579997219063 -45.45642800045181,-20.20676499630747 -45.61232899978347,-20.13476699639972 -45.62403500001517,-20.073726996403707 -45.60335999986404,-20.072272996801303
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

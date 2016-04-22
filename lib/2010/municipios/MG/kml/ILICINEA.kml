@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ILICÍNEA.kml</name>
+	<Placemark>
+		<name>ILICÍNEA</name>
+		<description>ILICÍNEA / MG</description>
+		<LineString>
+			<coordinates>
+				-45.69179200040048,-20.897200997228197 -45.68296199969649,-20.962058997025053 -45.76295100028841,-21.02850799644682 -45.908124999569054,-20.97071899708402 -45.94122799997217,-20.890606997115185 -45.88386599961615,-20.854214997024428 -45.83968800020102,-20.865403996796942 -45.78782799996219,-20.835867997210244 -45.69179200040048,-20.897200997228197
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

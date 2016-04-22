@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOSÉ DAS MISSÕES.kml</name>
+	<Placemark>
+		<name>SÃO JOSÉ DAS MISSÕES</name>
+		<description>SÃO JOSÉ DAS MISSÕES / RS</description>
+		<LineString>
+			<coordinates>
+				-53.112424786874385,-27.758498585441316 -53.05596354568104,-27.79741025028278 -53.069081091219346,-27.813799767745024 -53.113874014674025,-27.836241191977365 -53.19233702403437,-27.829492117267364 -53.202898085678044,-27.80347940155309 -53.179101365135864,-27.757362902675766 -53.112424786874385,-27.758498585441316
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

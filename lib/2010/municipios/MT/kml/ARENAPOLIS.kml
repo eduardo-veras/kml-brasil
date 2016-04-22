@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>ARENÁPOLIS.kml</name>
+	<Placemark>
+		<name>ARENÁPOLIS</name>
+		<description>ARENÁPOLIS / MT</description>
+		<LineString>
+			<coordinates>
+				-56.726122389736474,-14.647611016934832 -56.90642898750775,-14.590782319948062 -56.94833999929148,-14.504663204842984 -56.97764645501985,-14.436347397214547 -56.886012107172974,-14.360908641520552 -56.8470921200053,-14.388155321510851 -56.75489472730976,-14.560933795158462 -56.726122389736474,-14.647611016934832
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

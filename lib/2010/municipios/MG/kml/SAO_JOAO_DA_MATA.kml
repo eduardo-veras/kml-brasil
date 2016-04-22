@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SÃO JOÃO DA MATA.kml</name>
+	<Placemark>
+		<name>SÃO JOÃO DA MATA</name>
+		<description>SÃO JOÃO DA MATA / MG</description>
+		<LineString>
+			<coordinates>
+				-45.85918099980324,-21.893794996441898 -45.84900600002686,-21.964700996353827 -45.9061730003836,-22.02239799687004 -45.96038800040583,-21.98779799668017 -45.98714400039523,-21.91016399677096 -46.032090000153346,-21.886251996632268 -45.92481899959711,-21.917691996788164 -45.85918099980324,-21.893794996441898
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

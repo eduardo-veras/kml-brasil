@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>PORTO RICO DO MARANHÃO.kml</name>
+	<Placemark>
+		<name>PORTO RICO DO MARANHÃO</name>
+		<description>PORTO RICO DO MARANHÃO / MA</description>
+		<LineString>
+			<coordinates>
+				-44.60521207647611,-1.9060041911404824 -44.6506988017083,-1.9900015843056167 -44.704859893669095,-1.9669469519402583 -44.72846073107786,-1.890984720668257 -44.66155124369487,-1.861690925595667 -44.631352862844324,-1.8313088932907249 -44.548058364501856,-1.8705576950815157 -44.60521207647611,-1.9060041911404824
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

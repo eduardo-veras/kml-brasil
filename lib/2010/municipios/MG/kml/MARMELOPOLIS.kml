@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>MARMELÓPOLIS.kml</name>
+	<Placemark>
+		<name>MARMELÓPOLIS</name>
+		<description>MARMELÓPOLIS / MG</description>
+		<LineString>
+			<coordinates>
+				-45.16996500028449,-22.40057499693853 -45.16084999992751,-22.43188799663369 -45.09818599968412,-22.459397996320433 -45.10282604008961,-22.48990834749219 -45.166761243736346,-22.530711738955517 -45.23982499962398,-22.443630996773038 -45.16996500028449,-22.40057499693853
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

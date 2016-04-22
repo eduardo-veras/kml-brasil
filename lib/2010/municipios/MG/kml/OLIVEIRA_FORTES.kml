@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>OLIVEIRA FORTES.kml</name>
+	<Placemark>
+		<name>OLIVEIRA FORTES</name>
+		<description>OLIVEIRA FORTES / MG</description>
+		<LineString>
+			<coordinates>
+				-43.4238650001696,-21.336743997037786 -43.46978399983169,-21.371478996258645 -43.557108999680565,-21.356662996500063 -43.63106800008808,-21.37569699651914 -43.580846999889104,-21.318766997199134 -43.476659000312566,-21.28061899706904 -43.4238650001696,-21.336743997037786
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>FUNILÂNDIA.kml</name>
+	<Placemark>
+		<name>FUNILÂNDIA</name>
+		<description>FUNILÂNDIA / MG</description>
+		<LineString>
+			<coordinates>
+				-44.006338000098594,-19.333359996966237 -43.98961099944802,-19.404317996578243 -44.03911099967286,-19.42444999686984 -44.12809899976901,-19.43251699746139 -44.15347499997125,-19.370870997398583 -44.1475480000401,-19.30304199639096 -44.072823000281176,-19.29884599714501 -44.006338000098594,-19.333359996966237
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

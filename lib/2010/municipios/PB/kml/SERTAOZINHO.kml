@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>SERTÃOZINHO.kml</name>
+	<Placemark>
+		<name>SERTÃOZINHO</name>
+		<description>SERTÃOZINHO / PB</description>
+		<LineString>
+			<coordinates>
+				-35.37446363109166,-6.7563991789788815 -35.40890944161737,-6.76586257669652 -35.44346568349448,-6.7517882577218415 -35.47527388228377,-6.740712086893268 -35.44200459453634,-6.723449489602217 -35.43400321297787,-6.707482295571424 -35.41249247734589,-6.732548768910533 -35.39104789044774,-6.73647752831522 -35.37446363109166,-6.7563991789788815
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

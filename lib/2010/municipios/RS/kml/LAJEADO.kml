@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>LAJEADO.kml</name>
+	<Placemark>
+		<name>LAJEADO</name>
+		<description>LAJEADO / RS</description>
+		<LineString>
+			<coordinates>
+				-51.95652943278708,-29.421527918578533 -51.924609926706694,-29.438107986194552 -51.97020685935905,-29.49841736347048 -52.04914004507697,-29.47422044731576 -52.042022482151765,-29.4454238334431 -52.12619455153731,-29.424251409275087 -52.040454710216636,-29.40166118231764 -52.03420060077707,-29.403234034523052 -51.95652943278708,-29.421527918578533
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
